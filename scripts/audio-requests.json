@@ -1,0 +1,7637 @@
+[
+  {
+    "id": "en-9d989e8d27dc",
+    "text": "cat",
+    "lang": "en"
+  },
+  {
+    "id": "en-574418bfeaac",
+    "text": "It’s a cat.",
+    "lang": "en"
+  },
+  {
+    "id": "en-9f7bc1da2fc4",
+    "text": "Find the cat.",
+    "lang": "en"
+  },
+  {
+    "id": "en-e49512524f47",
+    "text": "dog",
+    "lang": "en"
+  },
+  {
+    "id": "en-e2b985a0432d",
+    "text": "It’s a dog.",
+    "lang": "en"
+  },
+  {
+    "id": "en-93a86c911a0e",
+    "text": "Find the dog.",
+    "lang": "en"
+  },
+  {
+    "id": "en-cd92815bf627",
+    "text": "bird",
+    "lang": "en"
+  },
+  {
+    "id": "en-100a6392114e",
+    "text": "It’s a bird.",
+    "lang": "en"
+  },
+  {
+    "id": "en-a4ffd77a273c",
+    "text": "Find the bird.",
+    "lang": "en"
+  },
+  {
+    "id": "en-64875fcccaac",
+    "text": "fish",
+    "lang": "en"
+  },
+  {
+    "id": "en-f8cc78a408f2",
+    "text": "It’s a fish.",
+    "lang": "en"
+  },
+  {
+    "id": "en-b736b012cc1f",
+    "text": "Find the fish.",
+    "lang": "en"
+  },
+  {
+    "id": "en-09f5edeb4f5b",
+    "text": "bear",
+    "lang": "en"
+  },
+  {
+    "id": "en-92a894f139e5",
+    "text": "It’s a bear.",
+    "lang": "en"
+  },
+  {
+    "id": "en-cc8ffe7b4d27",
+    "text": "Find the bear.",
+    "lang": "en"
+  },
+  {
+    "id": "en-6d0ebbbdce32",
+    "text": "rabbit",
+    "lang": "en"
+  },
+  {
+    "id": "en-73816178f69d",
+    "text": "It’s a rabbit.",
+    "lang": "en"
+  },
+  {
+    "id": "en-8a8e11698bd4",
+    "text": "Find the rabbit.",
+    "lang": "en"
+  },
+  {
+    "id": "en-5ece240085b9",
+    "text": "duck",
+    "lang": "en"
+  },
+  {
+    "id": "en-d10d301cb212",
+    "text": "It’s a duck.",
+    "lang": "en"
+  },
+  {
+    "id": "en-d0722e54824c",
+    "text": "Find the duck.",
+    "lang": "en"
+  },
+  {
+    "id": "en-b3e0f62fa104",
+    "text": "frog",
+    "lang": "en"
+  },
+  {
+    "id": "en-8907a6e9d86a",
+    "text": "It’s a frog.",
+    "lang": "en"
+  },
+  {
+    "id": "en-0ff09d64855b",
+    "text": "Find the frog.",
+    "lang": "en"
+  },
+  {
+    "id": "en-78988010b890",
+    "text": "red",
+    "lang": "en"
+  },
+  {
+    "id": "en-754b3234605d",
+    "text": "It’s red.",
+    "lang": "en"
+  },
+  {
+    "id": "en-ac7e2e0c8fc6",
+    "text": "Find something red.",
+    "lang": "en"
+  },
+  {
+    "id": "en-4c9a82ce72ca",
+    "text": "blue",
+    "lang": "en"
+  },
+  {
+    "id": "en-18dea0352329",
+    "text": "It’s blue.",
+    "lang": "en"
+  },
+  {
+    "id": "en-ea61e061249a",
+    "text": "Find something blue.",
+    "lang": "en"
+  },
+  {
+    "id": "en-96de5543d183",
+    "text": "yellow",
+    "lang": "en"
+  },
+  {
+    "id": "en-ea41415bc0fe",
+    "text": "It’s yellow.",
+    "lang": "en"
+  },
+  {
+    "id": "en-10d09a82e866",
+    "text": "Find something yellow.",
+    "lang": "en"
+  },
+  {
+    "id": "en-bc74f4f071a5",
+    "text": "green",
+    "lang": "en"
+  },
+  {
+    "id": "en-5dd5e5489bd1",
+    "text": "It’s green.",
+    "lang": "en"
+  },
+  {
+    "id": "en-15c6681fe478",
+    "text": "Find something green.",
+    "lang": "en"
+  },
+  {
+    "id": "en-8bec0406497c",
+    "text": "ball",
+    "lang": "en"
+  },
+  {
+    "id": "en-89430cb4c777",
+    "text": "It’s a ball.",
+    "lang": "en"
+  },
+  {
+    "id": "en-c5d0c17249ed",
+    "text": "Find the ball.",
+    "lang": "en"
+  },
+  {
+    "id": "en-9e32521dd2f8",
+    "text": "car",
+    "lang": "en"
+  },
+  {
+    "id": "en-46c2d43de4cd",
+    "text": "It’s a car.",
+    "lang": "en"
+  },
+  {
+    "id": "en-e0d05ecb6b6d",
+    "text": "Find the car.",
+    "lang": "en"
+  },
+  {
+    "id": "en-8e2534119027",
+    "text": "teddy",
+    "lang": "en"
+  },
+  {
+    "id": "en-f9626dcb336a",
+    "text": "It’s a teddy.",
+    "lang": "en"
+  },
+  {
+    "id": "en-0241bfe48036",
+    "text": "Find the teddy.",
+    "lang": "en"
+  },
+  {
+    "id": "en-f7d5b2b95861",
+    "text": "blocks",
+    "lang": "en"
+  },
+  {
+    "id": "en-567aad37b788",
+    "text": "Look! Blocks.",
+    "lang": "en"
+  },
+  {
+    "id": "en-8c38aca872dc",
+    "text": "Find the blocks.",
+    "lang": "en"
+  },
+  {
+    "id": "en-d0be2dc421be",
+    "text": "apple",
+    "lang": "en"
+  },
+  {
+    "id": "en-a3c705681bab",
+    "text": "I like apples.",
+    "lang": "en"
+  },
+  {
+    "id": "en-3eb02af08603",
+    "text": "Find the apple.",
+    "lang": "en"
+  },
+  {
+    "id": "en-250e77f12a5a",
+    "text": "banana",
+    "lang": "en"
+  },
+  {
+    "id": "en-2a28852d0f3d",
+    "text": "I like bananas.",
+    "lang": "en"
+  },
+  {
+    "id": "en-d629276272bc",
+    "text": "Find the banana.",
+    "lang": "en"
+  },
+  {
+    "id": "en-cf5dbf0ec57d",
+    "text": "milk",
+    "lang": "en"
+  },
+  {
+    "id": "en-a5821cbde08e",
+    "text": "I want milk.",
+    "lang": "en"
+  },
+  {
+    "id": "en-067086c94711",
+    "text": "Find the milk.",
+    "lang": "en"
+  },
+  {
+    "id": "en-6d5a45920a15",
+    "text": "water",
+    "lang": "en"
+  },
+  {
+    "id": "en-941a95b013ed",
+    "text": "I want water.",
+    "lang": "en"
+  },
+  {
+    "id": "en-58d083e060e8",
+    "text": "Find the water.",
+    "lang": "en"
+  },
+  {
+    "id": "en-6ff291d8175b",
+    "text": "bread",
+    "lang": "en"
+  },
+  {
+    "id": "en-cff2329f618d",
+    "text": "I like bread.",
+    "lang": "en"
+  },
+  {
+    "id": "en-5cbbcbbb0687",
+    "text": "Find the bread.",
+    "lang": "en"
+  },
+  {
+    "id": "en-4fa6024f1249",
+    "text": "egg",
+    "lang": "en"
+  },
+  {
+    "id": "en-dd60ece1bbe6",
+    "text": "I like eggs.",
+    "lang": "en"
+  },
+  {
+    "id": "en-b3c470c588d6",
+    "text": "Find the egg.",
+    "lang": "en"
+  },
+  {
+    "id": "en-ef0ebbb77298",
+    "text": "orange",
+    "lang": "en"
+  },
+  {
+    "id": "en-2976d3e6de13",
+    "text": "I like oranges.",
+    "lang": "en"
+  },
+  {
+    "id": "en-c7b476f4c438",
+    "text": "Find the orange.",
+    "lang": "en"
+  },
+  {
+    "id": "en-6939278d66e3",
+    "text": "rice",
+    "lang": "en"
+  },
+  {
+    "id": "en-1723bcde3d28",
+    "text": "I like rice.",
+    "lang": "en"
+  },
+  {
+    "id": "en-0df38933d823",
+    "text": "Find the rice.",
+    "lang": "en"
+  },
+  {
+    "id": "en-271e9a568c0e",
+    "text": "jump",
+    "lang": "en"
+  },
+  {
+    "id": "en-7c868bb59cbd",
+    "text": "I can jump.",
+    "lang": "en"
+  },
+  {
+    "id": "en-1ef01ac0ff32",
+    "text": "jump!",
+    "lang": "en"
+  },
+  {
+    "id": "en-df6ad19037c9",
+    "text": "run",
+    "lang": "en"
+  },
+  {
+    "id": "en-bf708d74f2aa",
+    "text": "I can run.",
+    "lang": "en"
+  },
+  {
+    "id": "en-10c570b627b4",
+    "text": "run!",
+    "lang": "en"
+  },
+  {
+    "id": "en-df06b147f778",
+    "text": "walk",
+    "lang": "en"
+  },
+  {
+    "id": "en-0cbb1db53e02",
+    "text": "I can walk.",
+    "lang": "en"
+  },
+  {
+    "id": "en-53370c56a71b",
+    "text": "walk!",
+    "lang": "en"
+  },
+  {
+    "id": "en-1b480158e1f3",
+    "text": "stop",
+    "lang": "en"
+  },
+  {
+    "id": "en-808022c59d79",
+    "text": "Stop!",
+    "lang": "en"
+  },
+  {
+    "id": "en-6d13e37b2e2e",
+    "text": "stop!",
+    "lang": "en"
+  },
+  {
+    "id": "en-c19ab8d3c2c9",
+    "text": "clap",
+    "lang": "en"
+  },
+  {
+    "id": "en-4dc87550cba9",
+    "text": "I can clap.",
+    "lang": "en"
+  },
+  {
+    "id": "en-eb2fe2026491",
+    "text": "clap!",
+    "lang": "en"
+  },
+  {
+    "id": "en-d7ce74466d54",
+    "text": "wave",
+    "lang": "en"
+  },
+  {
+    "id": "en-4f6cef6b27a2",
+    "text": "I can wave.",
+    "lang": "en"
+  },
+  {
+    "id": "en-b202c054da51",
+    "text": "wave!",
+    "lang": "en"
+  },
+  {
+    "id": "en-abdcde66d68b",
+    "text": "sit",
+    "lang": "en"
+  },
+  {
+    "id": "en-2901bcc068c3",
+    "text": "Sit down.",
+    "lang": "en"
+  },
+  {
+    "id": "en-89bcbaf1049c",
+    "text": "sit!",
+    "lang": "en"
+  },
+  {
+    "id": "en-569ebdc2fb50",
+    "text": "stand",
+    "lang": "en"
+  },
+  {
+    "id": "en-7f88b7247b30",
+    "text": "Stand up.",
+    "lang": "en"
+  },
+  {
+    "id": "en-d4ae990000dd",
+    "text": "stand!",
+    "lang": "en"
+  },
+  {
+    "id": "en-1a954628a960",
+    "text": "head",
+    "lang": "en"
+  },
+  {
+    "id": "en-21abbb74c8e7",
+    "text": "Touch your head.",
+    "lang": "en"
+  },
+  {
+    "id": "en-3941acc32ebf",
+    "text": "Find the head.",
+    "lang": "en"
+  },
+  {
+    "id": "en-9621a244a447",
+    "text": "hand",
+    "lang": "en"
+  },
+  {
+    "id": "en-9b1496a738b7",
+    "text": "Wave your hand.",
+    "lang": "en"
+  },
+  {
+    "id": "en-e1644a8a9c78",
+    "text": "Find the hand.",
+    "lang": "en"
+  },
+  {
+    "id": "en-79df4b171812",
+    "text": "eye",
+    "lang": "en"
+  },
+  {
+    "id": "en-40641d4332ae",
+    "text": "This is my eye.",
+    "lang": "en"
+  },
+  {
+    "id": "en-729faa9da493",
+    "text": "Find the eye.",
+    "lang": "en"
+  },
+  {
+    "id": "en-ddbc6188203d",
+    "text": "ear",
+    "lang": "en"
+  },
+  {
+    "id": "en-95db3b226adb",
+    "text": "This is my ear.",
+    "lang": "en"
+  },
+  {
+    "id": "en-a8186e15cf04",
+    "text": "Find the ear.",
+    "lang": "en"
+  },
+  {
+    "id": "en-1a1f58c9adc7",
+    "text": "nose",
+    "lang": "en"
+  },
+  {
+    "id": "en-acde7f30d27d",
+    "text": "Touch your nose.",
+    "lang": "en"
+  },
+  {
+    "id": "en-8018bef5667c",
+    "text": "Find the nose.",
+    "lang": "en"
+  },
+  {
+    "id": "en-87d17825792d",
+    "text": "mouth",
+    "lang": "en"
+  },
+  {
+    "id": "en-ce7acae085a4",
+    "text": "This is my mouth.",
+    "lang": "en"
+  },
+  {
+    "id": "en-04ac2b7cc4a7",
+    "text": "Find the mouth.",
+    "lang": "en"
+  },
+  {
+    "id": "en-ed945d6b996f",
+    "text": "arm",
+    "lang": "en"
+  },
+  {
+    "id": "en-c8d60c1aa893",
+    "text": "Touch your arm.",
+    "lang": "en"
+  },
+  {
+    "id": "en-94c68026356b",
+    "text": "Find the arm.",
+    "lang": "en"
+  },
+  {
+    "id": "en-321d6cc5177a",
+    "text": "leg",
+    "lang": "en"
+  },
+  {
+    "id": "en-05bacf63d320",
+    "text": "Touch your leg.",
+    "lang": "en"
+  },
+  {
+    "id": "en-1624b202ca48",
+    "text": "Find the leg.",
+    "lang": "en"
+  },
+  {
+    "id": "en-10e5866050d2",
+    "text": "hat",
+    "lang": "en"
+  },
+  {
+    "id": "en-b56a42859f0a",
+    "text": "Put on your hat.",
+    "lang": "en"
+  },
+  {
+    "id": "en-b72be1640b82",
+    "text": "Find the hat.",
+    "lang": "en"
+  },
+  {
+    "id": "en-19f319efbd6d",
+    "text": "shoes",
+    "lang": "en"
+  },
+  {
+    "id": "en-9ca753c34fbe",
+    "text": "These are my shoes.",
+    "lang": "en"
+  },
+  {
+    "id": "en-6be6936b4242",
+    "text": "Find the shoes.",
+    "lang": "en"
+  },
+  {
+    "id": "en-faa5d6830269",
+    "text": "shirt",
+    "lang": "en"
+  },
+  {
+    "id": "en-62921f26feaa",
+    "text": "This is my shirt.",
+    "lang": "en"
+  },
+  {
+    "id": "en-a23b641abe83",
+    "text": "Find the shirt.",
+    "lang": "en"
+  },
+  {
+    "id": "en-e65aace92378",
+    "text": "pants",
+    "lang": "en"
+  },
+  {
+    "id": "en-2cf06a73cd72",
+    "text": "These are my pants.",
+    "lang": "en"
+  },
+  {
+    "id": "en-d788610772d4",
+    "text": "Find the pants.",
+    "lang": "en"
+  },
+  {
+    "id": "en-9dbfbe4709d4",
+    "text": "dress",
+    "lang": "en"
+  },
+  {
+    "id": "en-403348d45892",
+    "text": "This is a dress.",
+    "lang": "en"
+  },
+  {
+    "id": "en-1b518350a7c6",
+    "text": "Find the dress.",
+    "lang": "en"
+  },
+  {
+    "id": "en-c9da8a6b0810",
+    "text": "socks",
+    "lang": "en"
+  },
+  {
+    "id": "en-97d7677cc305",
+    "text": "These are my socks.",
+    "lang": "en"
+  },
+  {
+    "id": "en-0f4d8f4ebe8c",
+    "text": "Find the socks.",
+    "lang": "en"
+  },
+  {
+    "id": "en-09d5f620386e",
+    "text": "coat",
+    "lang": "en"
+  },
+  {
+    "id": "en-3e4bcc898441",
+    "text": "Put on your coat.",
+    "lang": "en"
+  },
+  {
+    "id": "en-65c3260083ac",
+    "text": "Find the coat.",
+    "lang": "en"
+  },
+  {
+    "id": "en-158b1ce851a7",
+    "text": "skirt",
+    "lang": "en"
+  },
+  {
+    "id": "en-5b51f5b9a0e1",
+    "text": "This is a skirt.",
+    "lang": "en"
+  },
+  {
+    "id": "en-bf565825a4c6",
+    "text": "Find the skirt.",
+    "lang": "en"
+  },
+  {
+    "id": "en-e5e0213249cd",
+    "text": "mom",
+    "lang": "en"
+  },
+  {
+    "id": "en-f4d21e06746e",
+    "text": "This is my mom.",
+    "lang": "en"
+  },
+  {
+    "id": "en-d5999aaa9ee6",
+    "text": "Find Mom.",
+    "lang": "en"
+  },
+  {
+    "id": "en-0da19b540f7c",
+    "text": "dad",
+    "lang": "en"
+  },
+  {
+    "id": "en-037c4c751ae0",
+    "text": "This is my dad.",
+    "lang": "en"
+  },
+  {
+    "id": "en-1d4e4fbf6e67",
+    "text": "Find Dad.",
+    "lang": "en"
+  },
+  {
+    "id": "en-1dd09baa19dc",
+    "text": "sister",
+    "lang": "en"
+  },
+  {
+    "id": "en-34e8e51aac20",
+    "text": "This is my sister.",
+    "lang": "en"
+  },
+  {
+    "id": "en-10366e56d9bd",
+    "text": "Find the sister.",
+    "lang": "en"
+  },
+  {
+    "id": "en-d67cca5aaed6",
+    "text": "brother",
+    "lang": "en"
+  },
+  {
+    "id": "en-efebb02c8b8f",
+    "text": "This is my brother.",
+    "lang": "en"
+  },
+  {
+    "id": "en-d881801ebc48",
+    "text": "Find the brother.",
+    "lang": "en"
+  },
+  {
+    "id": "en-88ebe8bf7816",
+    "text": "grandma",
+    "lang": "en"
+  },
+  {
+    "id": "en-be4824419145",
+    "text": "This is my grandma.",
+    "lang": "en"
+  },
+  {
+    "id": "en-d97eac4e87ee",
+    "text": "Find Grandma.",
+    "lang": "en"
+  },
+  {
+    "id": "en-7f136523a96b",
+    "text": "grandpa",
+    "lang": "en"
+  },
+  {
+    "id": "en-3a50feec57e6",
+    "text": "This is my grandpa.",
+    "lang": "en"
+  },
+  {
+    "id": "en-b160dec37087",
+    "text": "Find Grandpa.",
+    "lang": "en"
+  },
+  {
+    "id": "en-6cf34755b9de",
+    "text": "baby",
+    "lang": "en"
+  },
+  {
+    "id": "en-58fcb0a07192",
+    "text": "Hello, baby!",
+    "lang": "en"
+  },
+  {
+    "id": "en-1d7cb70af0ec",
+    "text": "Find the baby.",
+    "lang": "en"
+  },
+  {
+    "id": "en-c33f059b0ca7",
+    "text": "family",
+    "lang": "en"
+  },
+  {
+    "id": "en-efd1c8648e96",
+    "text": "This is my family.",
+    "lang": "en"
+  },
+  {
+    "id": "en-6ea718febb3e",
+    "text": "Find the family.",
+    "lang": "en"
+  },
+  {
+    "id": "en-fefe2393a7fc",
+    "text": "bed",
+    "lang": "en"
+  },
+  {
+    "id": "en-e2092110f95b",
+    "text": "This is my bed.",
+    "lang": "en"
+  },
+  {
+    "id": "en-eed892504867",
+    "text": "Find the bed.",
+    "lang": "en"
+  },
+  {
+    "id": "en-851e13a65333",
+    "text": "chair",
+    "lang": "en"
+  },
+  {
+    "id": "en-849b608c1e5c",
+    "text": "Sit on the chair.",
+    "lang": "en"
+  },
+  {
+    "id": "en-cee1d58df64e",
+    "text": "Find the chair.",
+    "lang": "en"
+  },
+  {
+    "id": "en-c3ee137d4f22",
+    "text": "table",
+    "lang": "en"
+  },
+  {
+    "id": "en-960654364914",
+    "text": "This is a table.",
+    "lang": "en"
+  },
+  {
+    "id": "en-051cfd99f614",
+    "text": "Find the table.",
+    "lang": "en"
+  },
+  {
+    "id": "en-2680b6746cf8",
+    "text": "door",
+    "lang": "en"
+  },
+  {
+    "id": "en-6cc1f0c23f9b",
+    "text": "Open the door.",
+    "lang": "en"
+  },
+  {
+    "id": "en-031dec91954b",
+    "text": "Find the door.",
+    "lang": "en"
+  },
+  {
+    "id": "en-320ad267d8d9",
+    "text": "window",
+    "lang": "en"
+  },
+  {
+    "id": "en-09022a001707",
+    "text": "Look at the window.",
+    "lang": "en"
+  },
+  {
+    "id": "en-b39380f4826e",
+    "text": "Find the window.",
+    "lang": "en"
+  },
+  {
+    "id": "en-68e0dce54a9e",
+    "text": "sofa",
+    "lang": "en"
+  },
+  {
+    "id": "en-05b0d60c5062",
+    "text": "Sit on the sofa.",
+    "lang": "en"
+  },
+  {
+    "id": "en-b12fedd35ea0",
+    "text": "Find the sofa.",
+    "lang": "en"
+  },
+  {
+    "id": "en-bc4edcce8a85",
+    "text": "lamp",
+    "lang": "en"
+  },
+  {
+    "id": "en-8c988fd55adf",
+    "text": "This is a lamp.",
+    "lang": "en"
+  },
+  {
+    "id": "en-0e257d89d3cc",
+    "text": "Find the lamp.",
+    "lang": "en"
+  },
+  {
+    "id": "en-e7e694c58cd5",
+    "text": "book",
+    "lang": "en"
+  },
+  {
+    "id": "en-a49e8338ccd9",
+    "text": "Open the book.",
+    "lang": "en"
+  },
+  {
+    "id": "en-3983604f9db9",
+    "text": "Find the book.",
+    "lang": "en"
+  },
+  {
+    "id": "en-c7d8a6d722a1",
+    "text": "box",
+    "lang": "en"
+  },
+  {
+    "id": "en-3861b60043e5",
+    "text": "This is a box.",
+    "lang": "en"
+  },
+  {
+    "id": "en-92abbe96d52b",
+    "text": "Find the box.",
+    "lang": "en"
+  },
+  {
+    "id": "en-c9be014f81ae",
+    "text": "basket",
+    "lang": "en"
+  },
+  {
+    "id": "en-b8e281828879",
+    "text": "This is a basket.",
+    "lang": "en"
+  },
+  {
+    "id": "en-11cbd762c0f6",
+    "text": "Find the basket.",
+    "lang": "en"
+  },
+  {
+    "id": "en-af10ef20dd90",
+    "text": "in",
+    "lang": "en"
+  },
+  {
+    "id": "en-54b8cda69095",
+    "text": "In the box.",
+    "lang": "en"
+  },
+  {
+    "id": "en-db3d405b1067",
+    "text": "on",
+    "lang": "en"
+  },
+  {
+    "id": "en-9c632f3c6670",
+    "text": "On the box.",
+    "lang": "en"
+  },
+  {
+    "id": "en-dad64cc6f975",
+    "text": "under",
+    "lang": "en"
+  },
+  {
+    "id": "en-e9dd26613ccc",
+    "text": "Under the table.",
+    "lang": "en"
+  },
+  {
+    "id": "en-fb6dbd81382d",
+    "text": "behind",
+    "lang": "en"
+  },
+  {
+    "id": "en-db838c74fde4",
+    "text": "Behind the box.",
+    "lang": "en"
+  },
+  {
+    "id": "en-d8c46683a8f9",
+    "text": "near",
+    "lang": "en"
+  },
+  {
+    "id": "en-169dc390a0be",
+    "text": "Near the box.",
+    "lang": "en"
+  },
+  {
+    "id": "en-70b2db8ae957",
+    "text": "far",
+    "lang": "en"
+  },
+  {
+    "id": "en-ae042608f30c",
+    "text": "Far from the box.",
+    "lang": "en"
+  },
+  {
+    "id": "en-b892f067921d",
+    "text": "sunny",
+    "lang": "en"
+  },
+  {
+    "id": "en-bc88ea32638b",
+    "text": "It’s sunny.",
+    "lang": "en"
+  },
+  {
+    "id": "en-f8a07adb882d",
+    "text": "Sunny!",
+    "lang": "en"
+  },
+  {
+    "id": "en-14beca199c7f",
+    "text": "rainy",
+    "lang": "en"
+  },
+  {
+    "id": "en-a9ebeb0f099a",
+    "text": "It’s rainy.",
+    "lang": "en"
+  },
+  {
+    "id": "en-1d20b7f6b99c",
+    "text": "Rainy!",
+    "lang": "en"
+  },
+  {
+    "id": "en-5a53260b3d6e",
+    "text": "cloudy",
+    "lang": "en"
+  },
+  {
+    "id": "en-97235adbf5a4",
+    "text": "It’s cloudy.",
+    "lang": "en"
+  },
+  {
+    "id": "en-3d6f01b64f61",
+    "text": "Cloudy!",
+    "lang": "en"
+  },
+  {
+    "id": "en-45bf01a821bc",
+    "text": "windy",
+    "lang": "en"
+  },
+  {
+    "id": "en-b3b578a429a5",
+    "text": "It’s windy.",
+    "lang": "en"
+  },
+  {
+    "id": "en-62eb2b251d4f",
+    "text": "Windy!",
+    "lang": "en"
+  },
+  {
+    "id": "en-4bd8eddacb60",
+    "text": "hot",
+    "lang": "en"
+  },
+  {
+    "id": "en-b59f01cbcb9d",
+    "text": "It’s hot.",
+    "lang": "en"
+  },
+  {
+    "id": "en-8fe7bdf7cc56",
+    "text": "Hot!",
+    "lang": "en"
+  },
+  {
+    "id": "en-424fa43965bd",
+    "text": "cold",
+    "lang": "en"
+  },
+  {
+    "id": "en-6b662ca1cde6",
+    "text": "It’s cold.",
+    "lang": "en"
+  },
+  {
+    "id": "en-57f16684fac9",
+    "text": "Cold!",
+    "lang": "en"
+  },
+  {
+    "id": "en-50de10bbeafd",
+    "text": "snowy",
+    "lang": "en"
+  },
+  {
+    "id": "en-ca0f71eb53fc",
+    "text": "It’s snowy.",
+    "lang": "en"
+  },
+  {
+    "id": "en-9065b22626df",
+    "text": "Snowy!",
+    "lang": "en"
+  },
+  {
+    "id": "en-f1eb08c4e3f8",
+    "text": "rainbow",
+    "lang": "en"
+  },
+  {
+    "id": "en-398a5d53a281",
+    "text": "Look! A rainbow.",
+    "lang": "en"
+  },
+  {
+    "id": "en-2ee635507c03",
+    "text": "Rainbow!",
+    "lang": "en"
+  },
+  {
+    "id": "en-fe05bcdcdc49",
+    "text": "one",
+    "lang": "en"
+  },
+  {
+    "id": "en-116dafb3e2d8",
+    "text": "One apple.",
+    "lang": "en"
+  },
+  {
+    "id": "en-ad782ecdac77",
+    "text": "two",
+    "lang": "en"
+  },
+  {
+    "id": "en-d7d74a30f334",
+    "text": "Two apples.",
+    "lang": "en"
+  },
+  {
+    "id": "en-b802f384302c",
+    "text": "three",
+    "lang": "en"
+  },
+  {
+    "id": "en-953938902841",
+    "text": "Three balls.",
+    "lang": "en"
+  },
+  {
+    "id": "en-9f8f7eec5dea",
+    "text": "four",
+    "lang": "en"
+  },
+  {
+    "id": "en-a94709e71de0",
+    "text": "Four balls.",
+    "lang": "en"
+  },
+  {
+    "id": "en-4db2c1df4610",
+    "text": "five",
+    "lang": "en"
+  },
+  {
+    "id": "en-fcc1da445893",
+    "text": "Five eggs.",
+    "lang": "en"
+  },
+  {
+    "id": "en-bec9703f7a45",
+    "text": "six",
+    "lang": "en"
+  },
+  {
+    "id": "en-717cf2cf880b",
+    "text": "Six eggs.",
+    "lang": "en"
+  },
+  {
+    "id": "en-a00bbe560e6b",
+    "text": "seven",
+    "lang": "en"
+  },
+  {
+    "id": "en-d9ee4abfc0d7",
+    "text": "Seven blocks.",
+    "lang": "en"
+  },
+  {
+    "id": "en-d479fa0ef925",
+    "text": "eight",
+    "lang": "en"
+  },
+  {
+    "id": "en-0a5f0f4e8257",
+    "text": "Eight blocks.",
+    "lang": "en"
+  },
+  {
+    "id": "en-3978d009748e",
+    "text": "happy",
+    "lang": "en"
+  },
+  {
+    "id": "en-c6ce8159c1b4",
+    "text": "I’m happy.",
+    "lang": "en"
+  },
+  {
+    "id": "en-68c3f6159b34",
+    "text": "Happy!",
+    "lang": "en"
+  },
+  {
+    "id": "en-b4914600112b",
+    "text": "sad",
+    "lang": "en"
+  },
+  {
+    "id": "en-c853b3793abf",
+    "text": "I’m sad.",
+    "lang": "en"
+  },
+  {
+    "id": "en-81e0fadba757",
+    "text": "Sad!",
+    "lang": "en"
+  },
+  {
+    "id": "en-eff2146bfbc0",
+    "text": "hungry",
+    "lang": "en"
+  },
+  {
+    "id": "en-49fc8f060935",
+    "text": "I’m hungry.",
+    "lang": "en"
+  },
+  {
+    "id": "en-1291d99e6b67",
+    "text": "Hungry!",
+    "lang": "en"
+  },
+  {
+    "id": "en-31a02cf93839",
+    "text": "thirsty",
+    "lang": "en"
+  },
+  {
+    "id": "en-1ca186c1def2",
+    "text": "I’m thirsty.",
+    "lang": "en"
+  },
+  {
+    "id": "en-cd060d3b0dd7",
+    "text": "Thirsty!",
+    "lang": "en"
+  },
+  {
+    "id": "en-95c4bea12e4e",
+    "text": "big",
+    "lang": "en"
+  },
+  {
+    "id": "en-d04a0fe797b9",
+    "text": "A big box.",
+    "lang": "en"
+  },
+  {
+    "id": "en-89f6229a11ac",
+    "text": "small",
+    "lang": "en"
+  },
+  {
+    "id": "en-5d69e19074c3",
+    "text": "A small box.",
+    "lang": "en"
+  },
+  {
+    "id": "en-0afde56699db",
+    "text": "fast",
+    "lang": "en"
+  },
+  {
+    "id": "en-053d244a97b9",
+    "text": "The car is fast.",
+    "lang": "en"
+  },
+  {
+    "id": "en-174e62e78dc8",
+    "text": "Fast!",
+    "lang": "en"
+  },
+  {
+    "id": "en-57e8a7776d68",
+    "text": "slow",
+    "lang": "en"
+  },
+  {
+    "id": "en-3c6f5a89a4c7",
+    "text": "The car is slow.",
+    "lang": "en"
+  },
+  {
+    "id": "en-d277ad74b772",
+    "text": "Slow!",
+    "lang": "en"
+  },
+  {
+    "id": "zh-429173fed365",
+    "text": "月饼，我发现草丛动了动，原来是两位新朋友。今天和我一起玩吧。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-fbd7997fc5fa",
+    "text": "谢谢月饼陪我一起玩！抱着小熊猫玩偶，找找绘本里的小猫和小狗。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-a494ea71b1e4",
+    "text": "Look! A cat.",
+    "lang": "en"
+  },
+  {
+    "id": "en-3b2951a0617f",
+    "text": "Hello, cat!",
+    "lang": "en"
+  },
+  {
+    "id": "en-023be05cd8c2",
+    "text": "Look! A dog.",
+    "lang": "en"
+  },
+  {
+    "id": "en-5d3246a43bf4",
+    "text": "Hello, dog!",
+    "lang": "en"
+  },
+  {
+    "id": "en-dd4892422649",
+    "text": "C.",
+    "lang": "en"
+  },
+  {
+    "id": "en-541f28b6e898",
+    "text": "D.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-af303b423d80",
+    "text": "月饼，我抬头看看天空，又低头看看池塘。今天和我一起玩吧。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-2babd912ebd9",
+    "text": "谢谢月饼陪我一起玩！和玩偶一起做小鸟飞、小鱼游的动作。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-0eae77eee2af",
+    "text": "Look! A bird.",
+    "lang": "en"
+  },
+  {
+    "id": "en-93c69efb4f0c",
+    "text": "Hello, bird!",
+    "lang": "en"
+  },
+  {
+    "id": "en-6801be893312",
+    "text": "Look! A fish.",
+    "lang": "en"
+  },
+  {
+    "id": "en-ec57cdc3fc5c",
+    "text": "Hello, fish!",
+    "lang": "en"
+  },
+  {
+    "id": "en-1be80dd1890d",
+    "text": "B.",
+    "lang": "en"
+  },
+  {
+    "id": "en-4d05d6849bdd",
+    "text": "F.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-40f7d59e907f",
+    "text": "月饼，树后和花丛中，藏着两位害羞的朋友。今天和我一起玩吧。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-8183e0376289",
+    "text": "谢谢月饼陪我一起玩！把玩偶藏起来，一起说 Hello，再把它找出来。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-e11f38c72758",
+    "text": "A bear!",
+    "lang": "en"
+  },
+  {
+    "id": "en-71954fe04fd3",
+    "text": "Hello, bear!",
+    "lang": "en"
+  },
+  {
+    "id": "en-e2b4b17dcbb6",
+    "text": "A rabbit!",
+    "lang": "en"
+  },
+  {
+    "id": "en-cc1ae0580c71",
+    "text": "Hello, rabbit!",
+    "lang": "en"
+  },
+  {
+    "id": "en-77f846fa25ee",
+    "text": "R.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-cd2c7fe4cc49",
+    "text": "月饼，小鸭和青蛙来到池塘边，准备一起打招呼。今天和我一起玩吧。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-e4324a2df4b5",
+    "text": "谢谢月饼陪我一起玩！抱着玩偶，学小鸭摇摆，再学青蛙跳一跳。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-f2657e36bbac",
+    "text": "Look! A duck.",
+    "lang": "en"
+  },
+  {
+    "id": "en-eefbeb28c973",
+    "text": "Hello, duck!",
+    "lang": "en"
+  },
+  {
+    "id": "en-293fa75f6d25",
+    "text": "Look! A frog.",
+    "lang": "en"
+  },
+  {
+    "id": "en-02e07a0b6bee",
+    "text": "Hello, frog!",
+    "lang": "en"
+  },
+  {
+    "id": "zh-d6242b95ea53",
+    "text": "月饼，我是你的好朋友小熊猫。今天我们把这周的故事再玩一遍吧。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-78f17b015297",
+    "text": "谢谢月饼陪我一起玩！抱着小熊猫玩偶，给家人指认两位你喜欢的动物朋友。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-e7da8ae855a1",
+    "text": "月饼，我想给朋友画一幅画，先找两种颜色。今天和我一起玩吧。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-0993206cabfe",
+    "text": "谢谢月饼陪我一起玩！带玩偶找一个红色东西和一个蓝色东西。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-f180022daad5",
+    "text": "Look! Red.",
+    "lang": "en"
+  },
+  {
+    "id": "en-5240428655d0",
+    "text": "Look! Blue.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-0d0ed6fa0df0",
+    "text": "月饼，太阳照着花园，我给小花和叶子找颜色。今天和我一起玩吧。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-be4a9428be65",
+    "text": "谢谢月饼陪我一起玩！抱着玩偶看看家里的黄色和绿色物品。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-a6bfd0357565",
+    "text": "Look! Yellow.",
+    "lang": "en"
+  },
+  {
+    "id": "en-483337d02345",
+    "text": "Look! Green.",
+    "lang": "en"
+  },
+  {
+    "id": "en-9a082ef7891d",
+    "text": "Y.",
+    "lang": "en"
+  },
+  {
+    "id": "en-f705b858edd7",
+    "text": "G.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-b6f02e3ae0e7",
+    "text": "月饼，我带上球和小汽车，去找你一起玩。今天和我一起玩吧。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-cdef4dd3a766",
+    "text": "谢谢月饼陪我一起玩！和玩偶一起滚一滚球，或者推一推小汽车。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-fee8561844ad",
+    "text": "Look! A ball.",
+    "lang": "en"
+  },
+  {
+    "id": "en-3e8ae94b6fdb",
+    "text": "Look! A car.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-3a2421db302c",
+    "text": "月饼，我拿来积木，给玩具熊搭一个温暖的小家。今天和我一起玩吧。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-acb0f88bcce2",
+    "text": "谢谢月饼陪我一起玩！带着玩偶搭两块积木，或给它找一个舒服的位置。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-1f45fb188422",
+    "text": "Look! A teddy.",
+    "lang": "en"
+  },
+  {
+    "id": "en-d0d42d2baa7a",
+    "text": "Blocks!",
+    "lang": "en"
+  },
+  {
+    "id": "en-1a7e69efcb56",
+    "text": "T.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-e4b5823e547f",
+    "text": "谢谢月饼陪我一起玩！抱着小熊猫玩偶，一起把两件玩具送回家。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-39f9e6062fd8",
+    "text": "月饼，我想邀请你野餐，先装好两种水果。今天和我一起玩吧。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-5ab00c1d3063",
+    "text": "谢谢月饼陪我一起玩！带玩偶找一个苹果或香蕉，点播放，再一起说一说。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-0f9d48bd7220",
+    "text": "Look! An apple.",
+    "lang": "en"
+  },
+  {
+    "id": "en-b54cdedd7233",
+    "text": "Look! A banana.",
+    "lang": "en"
+  },
+  {
+    "id": "en-4c9a8a283f02",
+    "text": "A.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-98112fcb8b7a",
+    "text": "月饼，我跑得口渴了，想找一点喝的。今天和我一起玩吧。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-467b5ed759da",
+    "text": "谢谢月饼陪我一起玩！给玩偶准备一个空杯子，播放想喝的饮品。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-ef31e765e286",
+    "text": "Milk, please.",
+    "lang": "en"
+  },
+  {
+    "id": "en-7eda7300e4cf",
+    "text": "Water, please.",
+    "lang": "en"
+  },
+  {
+    "id": "en-8a5fed2b2025",
+    "text": "M.",
+    "lang": "en"
+  },
+  {
+    "id": "en-a04a760b2f15",
+    "text": "W.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-20e9714033dc",
+    "text": "月饼，我打开小盒子，里面有面包和鸡蛋。今天和我一起玩吧。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-43a752935a35",
+    "text": "谢谢月饼陪我一起玩！和玩偶一起玩假装吃早餐，不需要真的准备食物。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-a1b88d0dcfcd",
+    "text": "Look! Bread.",
+    "lang": "en"
+  },
+  {
+    "id": "en-d494e08f966e",
+    "text": "Look! An egg.",
+    "lang": "en"
+  },
+  {
+    "id": "en-047bae689507",
+    "text": "E.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-1eaba1dd3a59",
+    "text": "月饼，我带来橙子和米饭，邀请你一起分享。今天和我一起玩吧。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-059278b065ef",
+    "text": "谢谢月饼陪我一起玩！抱着玩偶选一样喜欢的食物，听听对应的英文。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-45401cfd7333",
+    "text": "Look! An orange.",
+    "lang": "en"
+  },
+  {
+    "id": "en-8dcf88b9647c",
+    "text": "Look! Rice.",
+    "lang": "en"
+  },
+  {
+    "id": "en-bead2f89311e",
+    "text": "O.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-08331c4c7a5a",
+    "text": "谢谢月饼陪我一起玩！和小熊猫玩偶摆一次假装的野餐，挑两样喜欢的食物。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-2a82aa0192d1",
+    "text": "月饼，我邀请你一起动起来，先跳跳，再跑跑。今天和我一起玩吧。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-ab24e0686399",
+    "text": "谢谢月饼陪我一起玩！在安全空地抱着玩偶跳一下，再原地跑几步。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-bb1a0e3b1244",
+    "text": "Jump!",
+    "lang": "en"
+  },
+  {
+    "id": "en-b78ee8edd0f9",
+    "text": "Run!",
+    "lang": "en"
+  },
+  {
+    "id": "en-533a79387f70",
+    "text": "J.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-690086dab7b8",
+    "text": "月饼，我练习过小路，听到停就稳稳站好。今天和我一起玩吧。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-010da0321933",
+    "text": "谢谢月饼陪我一起玩！家长点播放，月饼带玩偶慢慢走，听到 Stop 就停住。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-76f9e3fa4dc5",
+    "text": "Walk!",
+    "lang": "en"
+  },
+  {
+    "id": "en-e42a9e078456",
+    "text": "S.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-c8f57fdd9e25",
+    "text": "月饼，我挥挥手欢迎朋友，再拍手为大家加油。今天和我一起玩吧。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-c99465fc6b1c",
+    "text": "谢谢月饼陪我一起玩！让玩偶向家人挥挥手，然后一起拍手。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-75253be827c0",
+    "text": "Clap!",
+    "lang": "en"
+  },
+  {
+    "id": "en-1abd1ea7d744",
+    "text": "Wave!",
+    "lang": "en"
+  },
+  {
+    "id": "zh-9a54d54fbfed",
+    "text": "月饼，运动结束，我坐下休息，再站起来说再见。今天和我一起玩吧。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-3bd511e9ad90",
+    "text": "谢谢月饼陪我一起玩！让玩偶先坐好，再扶它站起来，跟着播放做动作。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-82e3f570a097",
+    "text": "Sit down, please.",
+    "lang": "en"
+  },
+  {
+    "id": "en-6cfec752fb56",
+    "text": "Stand up, please.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-c6649662abe2",
+    "text": "谢谢月饼陪我一起玩！抱着玩偶，让家长播放两条指令，一起做动作。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-f73953906add",
+    "text": "月饼，我照照镜子，找到了自己的头和小手。今天和我一起玩吧。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-da7596a5338e",
+    "text": "谢谢月饼陪我一起玩！月饼，抱着玩偶照照镜子。轻轻摸摸自己的头，再挥挥手，让玩偶也来试试。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-01ece3b42f3b",
+    "text": "This is my head.",
+    "lang": "en"
+  },
+  {
+    "id": "en-6d86823aa32b",
+    "text": "This is my hand.",
+    "lang": "en"
+  },
+  {
+    "id": "en-1e875587d706",
+    "text": "H.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-b3f277902707",
+    "text": "月饼，我用眼睛发现朋友，用耳朵听见问候。今天和我一起玩吧。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-5098bb003254",
+    "text": "谢谢月饼陪我一起玩！月饼，指指玩偶的眼睛和耳朵，再听家长说 Hello，一起找找声音从哪里来。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-6679c532f09d",
+    "text": "Look! An eye.",
+    "lang": "en"
+  },
+  {
+    "id": "en-4bf07c8a3919",
+    "text": "Look! An ear.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-fb51918b4187",
+    "text": "月饼，我找到鼻子，又用嘴巴笑着打招呼。今天和我一起玩吧。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-62521ec859bd",
+    "text": "谢谢月饼陪我一起玩！月饼，轻轻点点自己的鼻尖，再指指玩偶的嘴巴。和它笑一笑，说一声 Hello。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-d04dcd33fa01",
+    "text": "This is my nose.",
+    "lang": "en"
+  },
+  {
+    "id": "en-446fe800a4a4",
+    "text": "Look! A mouth.",
+    "lang": "en"
+  },
+  {
+    "id": "en-d70bd7bdc64d",
+    "text": "N.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-71f2fb7487a0",
+    "text": "月饼，我伸伸手臂，再活动一下自己的腿。今天和我一起玩吧。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-d26c54a3c9cf",
+    "text": "谢谢月饼陪我一起玩！月饼，坐下来，和玩偶一起伸伸手臂、动动腿。听听英文，再轻轻指一指。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-625dd5fa24ad",
+    "text": "This is my arm.",
+    "lang": "en"
+  },
+  {
+    "id": "en-376d4f0e3d22",
+    "text": "This is my leg.",
+    "lang": "en"
+  },
+  {
+    "id": "en-6f3e2c399064",
+    "text": "L.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-b3edd990a336",
+    "text": "谢谢月饼陪我一起玩！月饼，抱着玩偶和家长轮流指指身体部位。说一个，指一个，看看小熊猫还记得谁。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-6ab7f39e7bce",
+    "text": "月饼，我准备出门，在衣篮里找帽子和鞋子。今天和我一起玩吧。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-e1522762e703",
+    "text": "谢谢月饼陪我一起玩！月饼，帮玩偶挑一顶假装的帽子，再坐下来找找自己的一双鞋。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-ff952d2ae986",
+    "text": "Look! A hat.",
+    "lang": "en"
+  },
+  {
+    "id": "en-24d92e882a81",
+    "text": "Look! Shoes.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-a0f0d42d6bef",
+    "text": "月饼，我在衣柜里选出一件上衣和一条裤子。今天和我一起玩吧。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-2fe3021d1f62",
+    "text": "谢谢月饼陪我一起玩！月饼，和家长一起找上衣和裤子，平放在床上，帮玩偶比一比。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-f59a26e43cd4",
+    "text": "Look! A shirt.",
+    "lang": "en"
+  },
+  {
+    "id": "en-ce91163b1fe5",
+    "text": "Look! Pants.",
+    "lang": "en"
+  },
+  {
+    "id": "en-1f1fb367659a",
+    "text": "P.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-30b4dc8086cf",
+    "text": "月饼，我收到一条连衣裙和一双袜子，想邀请朋友试一试。今天和我一起玩吧。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-f6dcf0d7622a",
+    "text": "谢谢月饼陪我一起玩！月饼，用布片给玩偶假装穿一条连衣裙，再找一双袜子摆在旁边。喜欢哪件就选哪件。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-7df249968f93",
+    "text": "Look! A dress.",
+    "lang": "en"
+  },
+  {
+    "id": "en-2b7b9684d75c",
+    "text": "Look! Socks.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-d5d725ec0f14",
+    "text": "月饼，我把外套和裙子摆好，准备送回衣柜。今天和我一起玩吧。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-90372e23204d",
+    "text": "谢谢月饼陪我一起玩！月饼，和家长找找外套与裙子，可以看实物也可以看绘本。给玩偶选一件，把衣物轻轻放回去。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-f732b2b3019c",
+    "text": "Look! A coat.",
+    "lang": "en"
+  },
+  {
+    "id": "en-c18c504a0e04",
+    "text": "Look! A skirt.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-31afb9bebcbe",
+    "text": "谢谢月饼陪我一起玩！月饼，和家长挑两件衣物放在床上，让玩偶来指一指，再一起收好。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-ce5f34c7ec36",
+    "text": "月饼，我打开自己的相册，介绍妈妈和爸爸。今天和我一起玩吧。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-c0f56eae9306",
+    "text": "谢谢月饼陪我一起玩！月饼，抱着玩偶看看家里的照片，给小熊猫介绍照顾你的人，再说一声 Hello。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-6c90abd00864",
+    "text": "Hello, Mom!",
+    "lang": "en"
+  },
+  {
+    "id": "en-e074ecdbc760",
+    "text": "Hello, Dad!",
+    "lang": "en"
+  },
+  {
+    "id": "zh-a0151f7b30b0",
+    "text": "月饼，我请来自己的姐妹和兄弟，准备一起玩。今天和我一起玩吧。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-1f82ead89fac",
+    "text": "谢谢月饼陪我一起玩！月饼，用两个玩偶假装小熊猫的姐妹和兄弟，轮流向它们说 Hello。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-859d88799206",
+    "text": "Hello, sister!",
+    "lang": "en"
+  },
+  {
+    "id": "en-1fb2dc9384c3",
+    "text": "Hello, brother!",
+    "lang": "en"
+  },
+  {
+    "id": "zh-46db692ca90f",
+    "text": "月饼，我想念家里的长辈，拿着照片向他们问好。今天和我一起玩吧。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-e38c1c347d0d",
+    "text": "谢谢月饼陪我一起玩！月饼，和家长看看长辈的照片，或者用玩偶演一演，给亲近的长辈送一句 Hello。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-0ccdbbb3259c",
+    "text": "Hello, Grandma!",
+    "lang": "en"
+  },
+  {
+    "id": "en-e712401659d9",
+    "text": "Hello, Grandpa!",
+    "lang": "en"
+  },
+  {
+    "id": "zh-b2c3a84c2193",
+    "text": "月饼，我看见照片里的小宝宝，也看见陪伴自己的家人。今天和我一起玩吧。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-26863a0905c3",
+    "text": "谢谢月饼陪我一起玩！月饼，抱着玩偶和家人摆一个合影姿势。再轻轻摇摇玩偶，假装安抚小宝宝。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-044383d0b91d",
+    "text": "Look! A baby.",
+    "lang": "en"
+  },
+  {
+    "id": "en-edabcc0219cf",
+    "text": "Hello, family!",
+    "lang": "en"
+  },
+  {
+    "id": "zh-7e274f2139ed",
+    "text": "谢谢月饼陪我一起玩！月饼，和玩偶一起看看绘本或照片，给亲近的人说一声 Hello。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-4d60cca67bcf",
+    "text": "月饼，我找到了睡觉的小床和坐着休息的椅子。今天和我一起玩吧。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-1fe2aa66da35",
+    "text": "谢谢月饼陪我一起玩！月饼，和家长给玩偶铺一张假装的小床，再让它坐在椅子上休息。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-aa0bc4b5b72f",
+    "text": "Look! A bed.",
+    "lang": "en"
+  },
+  {
+    "id": "en-f78337aaeeea",
+    "text": "Look! A chair.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-de200a507ed4",
+    "text": "月饼，我走到门边欢迎朋友，带他们看看小桌子。今天和我一起玩吧。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-2114b6f3a1ec",
+    "text": "谢谢月饼陪我一起玩！月饼，用积木搭一张小桌子，再给小熊猫搭一扇门，请它来做客。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-0abf6959f353",
+    "text": "Look! A table.",
+    "lang": "en"
+  },
+  {
+    "id": "en-f54cab94f511",
+    "text": "Look! A door.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-87f5d93e20c8",
+    "text": "月饼，我看看窗外，再到沙发边准备听故事。今天和我一起玩吧。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-771dd8c86730",
+    "text": "谢谢月饼陪我一起玩！月饼，和家长带着玩偶看看窗外，再坐到沙发上，说一声 Hello。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-fb89c0ea29f9",
+    "text": "Look! A window.",
+    "lang": "en"
+  },
+  {
+    "id": "en-bfc6749ffa5c",
+    "text": "Look! A sofa.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-f66d1b170044",
+    "text": "月饼，我找到台灯和书，准备和朋友分享一个故事。今天和我一起玩吧。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-fe2283d6721d",
+    "text": "谢谢月饼陪我一起玩！月饼，请家长打开阅读灯，抱着玩偶选一本书。一起翻一页，说一声 Hello。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-e269f4da6aea",
+    "text": "Look! A lamp.",
+    "lang": "en"
+  },
+  {
+    "id": "en-3e4ce5cf1d10",
+    "text": "Look! A book.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-c4f23f482893",
+    "text": "谢谢月饼陪我一起玩！月饼，请家长陪你，抱着玩偶看看家里的两个小角落。给它指指床、椅子或书。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-c5c81c32aad7",
+    "text": "月饼，我准备开一家收纳小店，先摆出盒子和篮子。今天和我一起玩吧。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-38481f219e20",
+    "text": "谢谢月饼陪我一起玩！和家长找一个盒子和一个篮子，放到地面上，让玩偶来选一选。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-8968b597e0ed",
+    "text": "Look! A box.",
+    "lang": "en"
+  },
+  {
+    "id": "en-1de6ca0e5e1d",
+    "text": "Look! A basket.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-f42ea25d46ce",
+    "text": "月饼，我把小球放进盒子，又拿出来放到盒子上。今天和我一起玩吧。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-340a429423fa",
+    "text": "谢谢月饼陪我一起玩！拿一颗小球和一个盒子，先把球放进盒子里，再放到盒子上，让玩偶来找。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-85b4f37c7786",
+    "text": "The ball is in the box.",
+    "lang": "en"
+  },
+  {
+    "id": "en-3fb2ec2cf722",
+    "text": "The ball is on the box.",
+    "lang": "en"
+  },
+  {
+    "id": "en-1abb3ea06e15",
+    "text": "I.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-d6163b1d9271",
+    "text": "月饼，我发现小球到了桌子下面，又躲到了盒子后面。今天和我一起玩吧。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-329b1bec5287",
+    "text": "谢谢月饼陪我一起玩！请家长把球放在桌子下面或盒子后面。月饼站在旁边指一指，请玩偶帮忙找出来。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-39bdb5fd2b18",
+    "text": "The ball is under the table.",
+    "lang": "en"
+  },
+  {
+    "id": "en-5afe21cbd8e0",
+    "text": "The ball is behind the box.",
+    "lang": "en"
+  },
+  {
+    "id": "en-b3464cc35523",
+    "text": "U.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-8d3601cf22e7",
+    "text": "月饼，我把小球放得离盒子近一点，又放得远一点。今天和我一起玩吧。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-c68756a4f1c9",
+    "text": "谢谢月饼陪我一起玩！在地面放好盒子，把球放在盒子旁边，再放远一些。抱着玩偶看看，哪一次更近。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-7c04bc0f51ab",
+    "text": "The ball is near the box.",
+    "lang": "en"
+  },
+  {
+    "id": "en-71f2e866ae79",
+    "text": "The ball is far from the box.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-12e4c9a00325",
+    "text": "谢谢月饼陪我一起玩！月饼，让家长摆好盒子和球，轮流说位置、指位置，再让玩偶来找一找。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-79cc69e1f563",
+    "text": "月饼，我翻开天气绘本，一页是晴天，一页是雨天。今天和我一起玩吧。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-58c3c7403d7e",
+    "text": "谢谢月饼陪我一起玩！和玩偶看看窗外，或翻翻天气绘本。晴天就伸手画太阳，雨天就用手指轻轻点出雨滴。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-d0356662823a",
+    "text": "月饼，我在绘本里看见一团团云，又看见风吹动叶子。今天和我一起玩吧。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-ab719b087ad8",
+    "text": "谢谢月饼陪我一起玩！用手比一比圆圆的云，再轻轻摆动玩偶的小手，假装叶子被风吹动。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-b7587b4dbe37",
+    "text": "月饼，我看看天气卡，热的时候想扇扇风，冷的时候想围围巾。今天和我一起玩吧。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-e671c4458717",
+    "text": "谢谢月饼陪我一起玩！用手给玩偶轻轻扇风，再用小布片给它围一条假装的围巾。边玩边听两个天气词。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-57b25c479947",
+    "text": "月饼，我拿出旅行相册，里面有雪花，也有雨后的彩虹。今天和我一起玩吧。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-15aa1c6d10b0",
+    "text": "谢谢月饼陪我一起玩！用手指在空中画小雪花，再和玩偶一起画一道大大的彩虹。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-539d06b1cbef",
+    "text": "A rainbow!",
+    "lang": "en"
+  },
+  {
+    "id": "zh-d9cfb063ee35",
+    "text": "谢谢月饼陪我一起玩！月饼，和玩偶翻天气绘本，选两种喜欢的天气，用动作或画画介绍给家长。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-c23684e61e45",
+    "text": "月饼，我准备朋友日的苹果，想请你帮忙数一数。今天和我一起玩吧。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-f59fc6560a0b",
+    "text": "谢谢月饼陪我一起玩！月饼，和家长给玩偶摆一个苹果，再摆两个苹果，也可以用积木假装。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-b1c42b216b30",
+    "text": "One apple, please.",
+    "lang": "en"
+  },
+  {
+    "id": "en-9c06b654cc58",
+    "text": "Two apples, please.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-257b35a78a72",
+    "text": "月饼，我把球和汽车带来，想为朋友准备一样多的玩具。今天和我一起玩吧。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-9cec2feef317",
+    "text": "谢谢月饼陪我一起玩！月饼，抱着玩偶和家长一起数三件、四件玩具，轻轻指一个，数一个。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-596f240261bc",
+    "text": "Three cars.",
+    "lang": "en"
+  },
+  {
+    "id": "en-81b6f0bc1541",
+    "text": "Four cars.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-b37ec213530a",
+    "text": "月饼，朋友们带来鸡蛋，我要把点心盘准备好。今天和我一起玩吧。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-2830b9744f57",
+    "text": "谢谢月饼陪我一起玩！月饼，用积木假装点心，给玩偶摆五个，再摆六个，和家长一起慢慢数。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-a3cbb1be3e67",
+    "text": "Five apples.",
+    "lang": "en"
+  },
+  {
+    "id": "en-13f7144e3c96",
+    "text": "Six apples.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-b6451429126d",
+    "text": "月饼，我想用积木搭一条通往朋友日的小路。今天和我一起玩吧。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-d088248f609a",
+    "text": "谢谢月饼陪我一起玩！月饼，和家长给玩偶摆七块、八块积木，数量不够就看图片一起数。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-ab6542236a64",
+    "text": "Seven blocks, please.",
+    "lang": "en"
+  },
+  {
+    "id": "en-822f222a26be",
+    "text": "Eight blocks, please.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-62e70e302b31",
+    "text": "谢谢月饼陪我一起玩！月饼，和家长给玩偶选两种数量的积木或玩具，数清楚，再递给它。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-8f20d5f7ac69",
+    "text": "月饼，我找不到喜欢的玩具，你来陪它找一找。今天和我一起玩吧。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-d0d72fdbdc45",
+    "text": "谢谢月饼陪我一起玩！月饼，抱着玩偶，演一演开心和难过的样子，想说什么都可以告诉家长。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-f0a11c4138aa",
+    "text": "The cat is happy.",
+    "lang": "en"
+  },
+  {
+    "id": "en-7042b8bc1b54",
+    "text": "The cat is sad.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-43d7bafeeb36",
+    "text": "月饼，我和朋友玩过游戏，有的肚子饿，有的口渴。今天和我一起玩吧。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-18771036690a",
+    "text": "谢谢月饼陪我一起玩！月饼，拿空盘和空杯，听听玩偶想吃还是想喝，再假装送给它。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-6f18f971460e",
+    "text": "The rabbit is hungry.",
+    "lang": "en"
+  },
+  {
+    "id": "en-85dd53ca84d0",
+    "text": "The dog is thirsty.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-fb1c6ad69849",
+    "text": "月饼，我要收拾聚会用品，看看哪只盒子装得下。今天和我一起玩吧。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-c800ab992bec",
+    "text": "谢谢月饼陪我一起玩！月饼，和家长找大小不同的两个盒子，给玩偶的球和积木选一选。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-6eeb2db2afe6",
+    "text": "The box is big.",
+    "lang": "en"
+  },
+  {
+    "id": "en-c30e26afd0a7",
+    "text": "The box is small.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-6d0bec2eecaf",
+    "text": "月饼，朋友日要结束了，我想让玩具车慢慢送大家回家。今天和我一起玩吧。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-d6b6c97bd90b",
+    "text": "谢谢月饼陪我一起玩！月饼，坐在地上轻轻推玩具车，一次快一点，一次慢一点，车要远离脚边。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-1144deb963a3",
+    "text": "谢谢月饼陪我一起玩！月饼，抱着玩偶，选一次食物或水，再给它找一个合适的盒子，演演今天的故事。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-149720261e28",
+    "text": "月饼，草丛动了，我们去找新朋友吧。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-d5bc5cec0f72",
+    "text": "故事里的朋友还想请你帮忙。再听声音，把今天的小任务完成吧。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-b71b8cc66d5d",
+    "text": "小猫探出头，却不敢走到小路上。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-2788270943d9",
+    "text": "点点小猫，邀请它和我们一起走。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-40d582842bcb",
+    "text": "找到啦，它出来和我们打招呼了。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-a8836f5d1900",
+    "text": "再听一遍提示，慢慢找一找。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-dbb720bbaebe",
+    "text": "小狗也来了，可它走到了另一边。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-489cf9a9cc44",
+    "text": "找到小狗，把它请到小猫身边。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-b1ea7ac548c1",
+    "text": "找到啦，我们可以接着往下玩。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-9688a081202e",
+    "text": "两个朋友见面啦，我们一起说声你好。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-429d37991adf",
+    "text": "还记得小猫和小狗吗？今天去池塘找朋友。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-eac69f16cf4a",
+    "text": "Look! A bird. It’s a cat.",
+    "lang": "en"
+  },
+  {
+    "id": "en-8f906aadca57",
+    "text": "Hello, bird! It’s a dog.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-da52f87587cd",
+    "text": "小鸟飞来了，想请我们听它唱歌。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-10baab74a097",
+    "text": "点点天上的小鸟，和它打个招呼。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-4867fb47934e",
+    "text": "水面冒出泡泡，小鱼还没见到新朋友。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-bb9fdba6913b",
+    "text": "找到小鱼，请它游过来听小鸟唱歌。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-d7373168431d",
+    "text": "月饼帮它们见面了，池塘里热闹起来。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-19c8a4d47352",
+    "text": "小鸟送来邀请，小熊猫要找森林里的朋友。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-141d9628a3c1",
+    "text": "A bear! It’s a bird.",
+    "lang": "en"
+  },
+  {
+    "id": "en-04c6c04c2ed6",
+    "text": "Hello, bear! It’s a fish.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-c9fe88962a1f",
+    "text": "树边露出圆耳朵，小熊还在害羞呢。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-0353e7f913be",
+    "text": "请小熊出来，我们一起说声你好。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-18c8e4d607cf",
+    "text": "A rabbit! It’s a cat.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-79537e7265cb",
+    "text": "小兔听见问候，也从花丛边探出头。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-fbc4dda89d82",
+    "text": "点点小兔，邀请它站到小熊旁边。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-c510fc363626",
+    "text": "月饼找齐朋友啦，大家约好一起去池塘。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-ad7bfc132300",
+    "text": "月饼，池塘音乐会缺了两位小伙伴。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-8fa3407d8c56",
+    "text": "Look! A duck. It’s a bird.",
+    "lang": "en"
+  },
+  {
+    "id": "en-33300e64305b",
+    "text": "Hello, duck! It’s a fish.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-d42d9769a33c",
+    "text": "小鸟开唱了，小鸭却还在远处摇摇摆摆。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-841a24a763ee",
+    "text": "找到小鸭，请它来听音乐会。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-7b927ad6b485",
+    "text": "Look! A frog. It’s a rabbit.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-ea90adcd4fde",
+    "text": "小鱼游过来，可青蛙还没发现大家。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-c4d04abffc71",
+    "text": "请青蛙加入，让它和小鸭一起打招呼。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-0f3c7c7f4d24",
+    "text": "池塘朋友都到了，小熊猫和大家一起听歌。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-ffcdd7c09be7",
+    "text": "月饼，森林朋友来聚会，我们来当小主人。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-9f98fe1b4c97",
+    "text": "It’s a bird. It’s a dog.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-1e8bd6e02f6f",
+    "text": "小猫到了，后面还有没找到位置的朋友。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-938a6105a2ba",
+    "text": "先请小猫和我们一起迎接大家。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-f7dc4e9be9e4",
+    "text": "It’s a bear. It’s a bird.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-8da1caa4327b",
+    "text": "小熊和小兔到齐了，小鸭还在找入口。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-3a060bbcfa3a",
+    "text": "把小鸭请到朋友身边，聚会就能开始。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-b630395ba4ae",
+    "text": "It’s a duck. It’s a fish.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-e76073105e43",
+    "text": "八位朋友都来啦，下次一起布置玩具小屋。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-24277210f488",
+    "text": "小猫和小狗想要门牌，我们来选颜色。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-7f574c490bbf",
+    "text": "继续布置刚才的小世界。听清声音，再选物品或颜色吧。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-defa7bd7978c",
+    "text": "Look! Red. It’s a cat.",
+    "lang": "en"
+  },
+  {
+    "id": "en-048e457f0abe",
+    "text": "It’s red. It’s a dog.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-d807143bdc9b",
+    "text": "小熊猫拿出彩笔，小猫还没挑到红色。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-41670420c71b",
+    "text": "点出红色，把它送给小猫做门牌。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-794cbbc76ab3",
+    "text": "颜色选好啦，画面变得更漂亮了。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-dc478b846ea6",
+    "text": "Look! Blue. It’s a bird.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-3eb74d68e44b",
+    "text": "小鸟也来帮忙，小狗还在等蓝色。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-9b06988eed14",
+    "text": "选好蓝色，让小狗也有自己的门牌。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-8d6c907f8e7a",
+    "text": "月饼把颜色送对啦，两位朋友都找到家。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-ae574bd8cf18",
+    "text": "昨天的小屋有了门牌，今天给池塘添颜色。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-6cb3b02299da",
+    "text": "Look! Yellow. It’s a bird.",
+    "lang": "en"
+  },
+  {
+    "id": "en-eba58cec1369",
+    "text": "It’s yellow. It’s a fish.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-2d12e84485f1",
+    "text": "小鸟想画亮亮的小花，却找不到黄色。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-33dba02bc786",
+    "text": "找到黄色，让池塘边的小花亮起来。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-c8313483c1dc",
+    "text": "Look! Green. It’s red.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-d635424898f7",
+    "text": "小鱼来看画了，叶子却还没有绿色。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-d106f53fc767",
+    "text": "把绿色送到画里，给小鱼添一片叶子。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-f07e9bad3e28",
+    "text": "It’s green. It’s blue.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-c6f97e28453b",
+    "text": "月饼看，花和叶子都有颜色，朋友开心极了。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-b1a584e0205d",
+    "text": "月饼，小兔等我们送玩具，一起出发吧。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-ceb8b3befe8c",
+    "text": "Look! A ball. It’s a rabbit.",
+    "lang": "en"
+  },
+  {
+    "id": "en-44505ecd75ff",
+    "text": "It’s a ball. It’s red.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-a3c27513c61c",
+    "text": "小熊猫抱来一颗球，可小兔没看见它。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-38cd69a86ec2",
+    "text": "把球送给小兔，和它一起玩一会儿。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-90bf8178953a",
+    "text": "送到了，谢谢你把它带过来。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-ac769449c9e3",
+    "text": "Look! A car. It’s blue.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-a9ec737fcfce",
+    "text": "球送到了，小汽车却落在另一边。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-af344e51c411",
+    "text": "再找到小汽车，请小熊猫带上它。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-42d3a443ec66",
+    "text": "两件玩具都送到了，下次给玩具熊搭小家。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-844a941a5659",
+    "text": "小狗带着球来做客，我们给玩具熊搭小家。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-7805415c3b9b",
+    "text": "Look! A teddy. It’s a ball.",
+    "lang": "en"
+  },
+  {
+    "id": "en-35faf45ed39a",
+    "text": "It’s a teddy. It’s a car.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-43909be35ac0",
+    "text": "玩具熊坐在旁边，还没有舒服的位置。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-689c1a1e308c",
+    "text": "先把玩具熊请到我们准备的小角落。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-2a65ed2f7ecb",
+    "text": "Look! Blocks. It’s a dog.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-65a00c7d83db",
+    "text": "小汽车停好了，小家却还少几块积木。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-562193f6f0e9",
+    "text": "选出积木，把它们送给小熊猫搭小家。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-f3f4189fe2b8",
+    "text": "月饼帮忙搭好了，玩具熊可以和朋友一起住。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-064bf7f73331",
+    "text": "月饼，朋友玩过的玩具散开了，帮忙收好吧。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-f12d02cbbb3b",
+    "text": "It’s red. It’s a cat.",
+    "lang": "en"
+  },
+  {
+    "id": "en-8912de5305e0",
+    "text": "It’s yellow. It’s a dog.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-f7828bdde77c",
+    "text": "球和小汽车排着队，玩具熊却找不到家。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-4d96a8da0321",
+    "text": "先认出玩具熊，把它送回小角落。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-47eaa9a8dc5d",
+    "text": "颜色卡也收好了，积木还在小路边。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-6a5a0cd53190",
+    "text": "再把积木送回来，给小屋搭好最后一块。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-1c1bfa49934b",
+    "text": "玩具和颜色都归位，下次带朋友去野餐。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-0751ad33a68e",
+    "text": "月饼，我们邀请小兔野餐，先准备水果。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-06ea8d12583e",
+    "text": "野餐还没准备完。听听朋友的请求，把物品送给它吧。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-9200831dd4cd",
+    "text": "Look! An apple. It’s a rabbit.",
+    "lang": "en"
+  },
+  {
+    "id": "en-741c9120d174",
+    "text": "I like apples. It’s red.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-6c14fa866d01",
+    "text": "红球收好了，苹果却还没装进野餐篮。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-e66d58e04bfe",
+    "text": "把苹果送来，小兔就能尝到喜欢的水果。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-4e994bba7500",
+    "text": "Look! A banana. It’s a ball.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-1d30fc9b2406",
+    "text": "苹果准备好了，小熊猫又想起香蕉。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-41607886f1cb",
+    "text": "再找到香蕉，把它放到苹果旁边。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-a00a6cf609ad",
+    "text": "水果齐了，下次还要给朋友准备喝的。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-74f55382794e",
+    "text": "小狗带水果来了，我们再准备一点喝的。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-8ab3db588585",
+    "text": "I want milk. It’s a dog.",
+    "lang": "en"
+  },
+  {
+    "id": "en-5ba522fd6c4d",
+    "text": "Milk, please. I like apples.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-f89a85aec882",
+    "text": "它跑得有点累，小熊猫先拿来牛奶。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-cb4d356a8b9f",
+    "text": "把牛奶送给小熊猫，听听它怎样请求。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-78857f4d4c22",
+    "text": "I want water. I like bananas.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-338e1b601f6e",
+    "text": "小狗看看苹果，又想喝一点水。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-8632a11cdc17",
+    "text": "找到水，送到小狗身边让它休息一下。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-c61b66168f68",
+    "text": "月饼照顾好朋友啦，饮品可以带去野餐。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-1f740871b3a7",
+    "text": "小熊带上水和牛奶，野餐盒还没装满。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-a92c517ec93c",
+    "text": "Look! Bread. It’s a bear.",
+    "lang": "en"
+  },
+  {
+    "id": "en-97fdc67330b4",
+    "text": "I like bread. I want milk.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-3dad5ca2c135",
+    "text": "面包留在外面，小熊猫等着把它带走。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-b7f5384bec7a",
+    "text": "选出面包，帮小熊猫装好这一份。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-c51db343a72d",
+    "text": "Look! An egg. I want water.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-e30eabd939ea",
+    "text": "小熊准备好了，餐盒里还缺一个鸡蛋。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-42578b1dc3fe",
+    "text": "找到鸡蛋，把它放到面包旁边。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-ce0c0e2990f4",
+    "text": "月饼把午餐装好了，我们约朋友一起分享。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-3249f74fdb03",
+    "text": "小鸭带来面包和鸡蛋，还想分享新食物。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-150f68d34be6",
+    "text": "Look! An orange. It’s a duck.",
+    "lang": "en"
+  },
+  {
+    "id": "en-698712767aa1",
+    "text": "I like oranges. I like bread.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-15bb68112858",
+    "text": "小熊猫拿出橙子，小鸭还没看见。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-0d122dfdb58e",
+    "text": "把橙子送过来，邀请朋友尝一尝。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-b8a0f199e2cb",
+    "text": "Look! Rice. I like eggs.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-7267f4805e0b",
+    "text": "橙子分好了，旁边还有一份米饭。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-6d6e4056f426",
+    "text": "找到米饭，给等着的小鸭准备好。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-99e8c5d6b427",
+    "text": "月饼和朋友把食物摆好了，明天一起野餐。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-42017f60996c",
+    "text": "月饼，野餐开始前，朋友们还有小请求。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-f1e957c658c1",
+    "text": "I like apples. It’s a rabbit.",
+    "lang": "en"
+  },
+  {
+    "id": "en-649956b02c9a",
+    "text": "I want milk. I like apples.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-d67bd2e7cf74",
+    "text": "小兔看着水果，小熊猫想先拿到苹果。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-e1e11bbea2b5",
+    "text": "选出苹果，把它送给小熊猫。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-288cd76566ae",
+    "text": "I like bread. I want water.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-8d0311a59ece",
+    "text": "大家坐好了，小狗还在等一份水。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-3ea0f0701a17",
+    "text": "找到水，让小狗也能安心参加野餐。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-56045adb0288",
+    "text": "食物和饮品都到了，朋友们约好一起运动。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-7c6051cc8005",
+    "text": "月饼，小兔收好苹果，邀请我们参加运动会。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-644b11b11db6",
+    "text": "Jump! It’s a rabbit.",
+    "lang": "en"
+  },
+  {
+    "id": "en-ff4f384fd074",
+    "text": "I can jump. It’s a ball.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-3bb3b632030d",
+    "text": "球停在小路边，小兔先示范轻轻跳。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-e9bcf7fef3c6",
+    "text": "听听跳的指令，帮小熊猫选对动作。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-6053156afbe6",
+    "text": "Run! I like apples.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-8588ac5725dc",
+    "text": "小兔跳完了，想跑到朋友那边送邀请。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-e0f54fac639e",
+    "text": "再选跑的动作，让小熊猫跟上小兔。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-3d660d0039b4",
+    "text": "大家都接到邀请，下次练习走和停。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-2bb77243dbe3",
+    "text": "跑过的小兔回来了，今天慢慢走过小路。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-bfaaa82fe791",
+    "text": "Walk! It’s a rabbit.",
+    "lang": "en"
+  },
+  {
+    "id": "en-4a93b5600eab",
+    "text": "I can walk. It’s red.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-588f0b698e74",
+    "text": "小熊猫等着出发，先听慢慢走的指令。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-6f87856942e4",
+    "text": "选对走的动作，陪小熊猫走到路中央。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-112dfe198334",
+    "text": "Stop! It’s green.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-ccc0cce83bb0",
+    "text": "前面亮起红色提示，大家需要停下来。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-b5822ed0e042",
+    "text": "听到停，就选停的动作，稳稳站好。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-12936d183e5d",
+    "text": "Stop! I can run.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-2f55f469da2c",
+    "text": "月饼帮大家安全走完，接下来迎接运动员。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-d037a75aeb40",
+    "text": "小猫和小狗走到了，我们给运动员加油。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-a5ccc682c68d",
+    "text": "Clap! It’s a cat.",
+    "lang": "en"
+  },
+  {
+    "id": "en-f6d6ad1aff4a",
+    "text": "I can clap. It’s a dog.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-79ab8f1ded72",
+    "text": "朋友刚表演完，小熊猫想先拍拍手。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-911d855eb05e",
+    "text": "选出拍手，让朋友知道我们在为它加油。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-c86b837993e1",
+    "text": "Wave! I can walk.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-fafaf51a114c",
+    "text": "小狗停在远处，还没看见迎接它的小熊猫。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-8288b6f48b53",
+    "text": "找到挥手的动作，请它走过来。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-8901b6169e86",
+    "text": "I can wave. Stop!",
+    "lang": "en"
+  },
+  {
+    "id": "zh-4b8220ccfecc",
+    "text": "月饼的问候送到了，大家准备一起休息。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-62d353ceaec8",
+    "text": "小熊挥挥手，运动后和我们一起歇一会儿。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-c4ef2bf253a2",
+    "text": "Sit down. It’s a bear.",
+    "lang": "en"
+  },
+  {
+    "id": "en-c92addf40ec1",
+    "text": "Sit down, please. I can clap.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-2f13fff9ac05",
+    "text": "水放好了，小熊猫需要先坐下来。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-3571c80aa4d7",
+    "text": "选出坐下的动作，陪小熊猫安静休息。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-69b3a50ddfa5",
+    "text": "Stand up. I can wave.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-1fc20e433228",
+    "text": "大家休息好了，朋友准备挥手告别。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-d3b55b859684",
+    "text": "听听站起来的指令，让小熊猫站稳。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-75139bb642e3",
+    "text": "Stand up, please. I want water.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-9a13188d08a4",
+    "text": "月饼陪朋友完成运动，明天再玩运动派对。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-fbbc0d1f31f2",
+    "text": "月饼，好朋友运动派对需要一位小指挥。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-c927bcead3cc",
+    "text": "I can jump. It’s a rabbit.",
+    "lang": "en"
+  },
+  {
+    "id": "en-4e0ffbe832b1",
+    "text": "I can walk. It’s a ball.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-8a0aa0f91d98",
+    "text": "小兔抱着球等着，先请大家跳一跳。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-e8c3edc3e5d1",
+    "text": "听指令选动作，让小熊猫加入跳跃队。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-a6bb2fdda038",
+    "text": "I can clap. I want water.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-10c9d85697a5",
+    "text": "喝过水以后，朋友们想拍手庆祝。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-573fa8da11a3",
+    "text": "再选出拍手，让小熊猫和大家一起加油。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-1b9dfd484ff3",
+    "text": "Sit down. I can wave.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-3d23a8186e1f",
+    "text": "走走停停都完成了，最后挥手和朋友告别。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-cf2d3a6ce907",
+    "text": "月饼，红球停在镜子边，小熊猫想照照自己。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-805c4634d463",
+    "text": "This is my head. I can wave.",
+    "lang": "en"
+  },
+  {
+    "id": "en-5bb9eec6f2bb",
+    "text": "Touch your head. It’s red.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-ed92358a3aa2",
+    "text": "它看见头上的毛，却找不到镜子里的头。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-4347918b2d2a",
+    "text": "找到头的图片，让小熊猫认出自己。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-d5cd49cc0ec3",
+    "text": "This is my hand. It’s a ball.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-3ca03661aa3e",
+    "text": "小熊猫认出头了，又想和镜子里的朋友挥手。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-9702c98c045d",
+    "text": "选出小手，陪它一起挥挥手。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-8fcafe4e98ca",
+    "text": "镜子朋友也挥手啦，身体的小发现开始了。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-cec9b9ca5a0c",
+    "text": "小鸟飞到镜子边，和小熊猫玩看和听。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-7a9d74c6c1ab",
+    "text": "Look! An eye. It’s a bird.",
+    "lang": "en"
+  },
+  {
+    "id": "en-1094a179a73f",
+    "text": "This is my eye. Touch your head.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-4114d6e9579d",
+    "text": "小熊猫想看看小鸟，先找到眼睛。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-95e5a77e8ca2",
+    "text": "选出眼睛，让它知道用哪里看朋友。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-f76b45ae1253",
+    "text": "Look! An ear. Wave your hand.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-512f27b4999f",
+    "text": "小鸟唱起歌，可小熊猫的小耳朵还没准备好。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-42f798284663",
+    "text": "选出耳朵，一起安静听听小鸟的声音。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-8a430c72387e",
+    "text": "月饼帮它分清看和听，再挥手送别小鸟。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-c5e8a712decd",
+    "text": "小兔送来脸部拼图，小熊猫想拼出笑脸。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-9432b63d2ac4",
+    "text": "This is my nose. It’s a rabbit.",
+    "lang": "en"
+  },
+  {
+    "id": "en-83905736f320",
+    "text": "Touch your nose. This is my eye.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-0c893dfdbbcc",
+    "text": "眼睛和耳朵摆好了，鼻子还没放进去。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-919d4f001297",
+    "text": "选出鼻子，把笑脸中间的小空位补好。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-50c2c188a56f",
+    "text": "This is my mouth. This is my ear.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-1fe01d43bcec",
+    "text": "鼻子找到了，脸蛋还缺一张会笑的嘴巴。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-07654e86604f",
+    "text": "找到嘴巴，让小熊猫对小兔笑一笑。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-de548f065352",
+    "text": "月饼拼好了笑脸，朋友也笑着说声你好。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-f20aab6ce50c",
+    "text": "小熊坐在身边，邀请小熊猫伸展身体。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-96816d4446f8",
+    "text": "This is my arm. It’s a bear.",
+    "lang": "en"
+  },
+  {
+    "id": "en-1b8739ec201c",
+    "text": "Touch your arm. Wave your hand.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-0452bb585534",
+    "text": "小熊猫想伸出手臂，却先拿错了图片。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-0e077157e9c8",
+    "text": "选出手臂，陪小熊猫慢慢伸一伸。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-3d60ae21baab",
+    "text": "This is my leg. Touch your nose.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-20eeac6d45fe",
+    "text": "手臂放下来，小熊又想活动一下腿。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-997b7c9cf399",
+    "text": "找到腿的图片，和小熊猫坐着动一动。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-3898edf66a90",
+    "text": "Touch your leg. Sit down.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-d3cf00d0c45f",
+    "text": "月饼和朋友伸展完了，身体感觉更舒服。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-758bef4afd6f",
+    "text": "月饼，镜子游戏开场，小熊猫要准备晨间操。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-56b46beee6d7",
+    "text": "它想挥手打招呼，身体卡片却混在一起。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-02476b7a2ee1",
+    "text": "先找到手，让小熊猫挥手迎接朋友。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-55b81f4d00d3",
+    "text": "Touch your nose. Touch your arm.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-1313fa3f6aaa",
+    "text": "朋友到齐了，小熊猫想伸展一下手臂。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-959759279262",
+    "text": "找出手臂，陪它完成这一个动作。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-6dc89c1a1c30",
+    "text": "Touch your arm. Touch your leg.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-c8b5f8a3f859",
+    "text": "从头到脚都认识了，明天给小熊猫挑衣服。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-8f511c8359aa",
+    "text": "小兔来约出门，小熊猫还没穿戴整齐。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-4c9b6997bd99",
+    "text": "Look! A hat. Touch your head.",
+    "lang": "en"
+  },
+  {
+    "id": "en-f0b6e18d41d4",
+    "text": "Put on your hat. Touch your leg.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-7d3534b6764d",
+    "text": "它摸摸自己的头，发现少了一顶帽子。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-cad2d2c1cc2d",
+    "text": "把帽子送过来，帮小熊猫准备出发。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-50e68f998e6b",
+    "text": "Look! Shoes. It’s red.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-a00c942efbcd",
+    "text": "帽子戴好了，小熊猫的脚边还空着。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-0035964d6e4e",
+    "text": "再找到鞋子，把它们送到小熊猫身边。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-b96e981d093f",
+    "text": "These are my shoes. It’s a rabbit.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-8d366b884eb8",
+    "text": "月饼帮它准备好了，小兔邀请它明天再来。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-9464d6382875",
+    "text": "帽子和鞋子摆好了，小熊猫还想挑一身衣服。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-2ef532dc52c6",
+    "text": "This is my shirt. Put on your hat.",
+    "lang": "en"
+  },
+  {
+    "id": "en-3022d7eb0fae",
+    "text": "Look! A shirt. These are my shoes.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-6e41d7d20e3d",
+    "text": "它拿起蓝色上衣，想请我们帮忙选出来。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-4c75e6a30312",
+    "text": "把上衣送过来，让小熊猫比一比。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-092c1b9ae873",
+    "text": "These are my pants. It’s blue.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-33ed81722a01",
+    "text": "上衣合适了，裤子却留在另一边。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-b1a5516f2613",
+    "text": "找到裤子，和上衣一起送给小熊猫。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-0a3fa4c7ba3a",
+    "text": "Look! Pants. Wave your hand.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-ab2c9241ae3e",
+    "text": "月饼把衣服配齐了，小熊猫挥手说谢谢。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-de2ec1c44ddb",
+    "text": "小兔带着衣物来做客，邀请小熊猫换装。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-74884bc692c0",
+    "text": "Look! A dress. It’s a rabbit.",
+    "lang": "en"
+  },
+  {
+    "id": "en-39aaf43f5494",
+    "text": "This is a dress. This is my shirt.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-cec6964d52bf",
+    "text": "一条连衣裙摆好了，却还没送到朋友手中。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-a331b3ccaff7",
+    "text": "把连衣裙送过来，让朋友自己挑喜欢的。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-18c2fc4a0bfe",
+    "text": "Look! Socks. These are my pants.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-6bd11f6cd048",
+    "text": "上衣和裤子收好了，袜子还落在外面。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-c0f5df68e830",
+    "text": "找到袜子，把它们送回换装小角落。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-d49e80d288fa",
+    "text": "These are my socks. It’s yellow.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-d6313a50eb13",
+    "text": "月饼帮忙收齐衣物，朋友们约好一起整理。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-32599a8ff039",
+    "text": "小熊猫站在衣物旁，想把衣柜整理好。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-ba725eb788eb",
+    "text": "Look! A coat. This is a dress.",
+    "lang": "en"
+  },
+  {
+    "id": "en-83be1f09cc38",
+    "text": "Put on your coat. These are my socks.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-6a070772605b",
+    "text": "连衣裙收好了，外套还需要送回来。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-1d4728f03389",
+    "text": "选出外套，把它放进整理好的位置。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-27767842193d",
+    "text": "Look! A skirt. It’s green.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-214669026a9b",
+    "text": "袜子也归位了，裙子还留在另一边。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-140ff4b838cd",
+    "text": "找到裙子，帮小熊猫收好最后一件。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-e85e09d9f7ef",
+    "text": "This is a skirt. Stand up.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-f08ed4e8e3a2",
+    "text": "月饼把衣物整理好了，明天邀请朋友来选。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-6ccc45b4c7c7",
+    "text": "月饼，小熊猫的衣柜派对开始，朋友来挑衣服。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-8804958d66ff",
+    "text": "This is my shirt. These are my shoes.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-79471352b788",
+    "text": "小兔准备出门，想先找到自己的帽子。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-0570bd2c47b1",
+    "text": "把帽子送回来，让小熊猫帮小兔试一试。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-553269989ef6",
+    "text": "帽子找到了，小熊还在等自己的外套。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-f871c358a2c6",
+    "text": "再选出外套，帮小熊猫把衣物送到手中。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-3cb788913491",
+    "text": "衣柜整整齐齐，下次给朋友介绍小熊猫的家人。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-c185982c64bd",
+    "text": "月饼，小熊猫穿戴好了，想给你看家人相册。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-a3c9679e16cd",
+    "text": "Hello, Mom! Put on your hat.",
+    "lang": "en"
+  },
+  {
+    "id": "en-a060ceca9299",
+    "text": "This is my mom. These are my shoes.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-5508921d0675",
+    "text": "相册里少了一张照片，妈妈还没找到位置。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-b28b970a211e",
+    "text": "认出妈妈的照片，把它请回相册。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-4236c008f7e8",
+    "text": "妈妈回到相册了，爸爸的照片还放在外面。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-7b4fe76b5400",
+    "text": "再找到爸爸，让两张照片靠在一起。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-94b834da5a9d",
+    "text": "家人的照片齐了，下次介绍一起玩的小伙伴。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-bb051bb43dac",
+    "text": "妈妈和爸爸翻开相册，姐妹兄弟也想一起玩。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-8a412f3ddc75",
+    "text": "Hello, sister! This is my mom.",
+    "lang": "en"
+  },
+  {
+    "id": "en-624e49e6103a",
+    "text": "This is my sister. This is my dad.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-4f013c45f229",
+    "text": "姐妹想和我们玩球，却还没走到朋友身边。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-30637e533e9a",
+    "text": "找到姐妹，邀请她来和小熊猫一起玩。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-cf6656ebcd07",
+    "text": "Hello, brother! It’s a ball.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-e95ca34de2dd",
+    "text": "球滚过去了，兄弟带着汽车等在另一边。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-cea112c62bc1",
+    "text": "再请兄弟过来，让大家轮流分享玩具。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-f2d7d33a2d27",
+    "text": "This is my brother. It’s a car.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-cdc7b6f6180e",
+    "text": "月饼帮家人聚到一起，下次给长辈送问候。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-d66b0e3e6aa1",
+    "text": "姐妹兄弟准备了苹果，想给长辈送问候。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-3b5b2db5c047",
+    "text": "Hello, Grandma! This is my sister.",
+    "lang": "en"
+  },
+  {
+    "id": "en-492f7a54b06b",
+    "text": "This is my grandma. This is my brother.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-3b9270be4db4",
+    "text": "小熊猫找出照片，先请我们认一认奶奶。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-298b84836df5",
+    "text": "找到奶奶的照片，向她说声你好。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-993c91008903",
+    "text": "Hello, Grandpa! I like apples.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-1ae9791e8bbf",
+    "text": "问候送到了，爷爷还在另一张照片里。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-7a0ab2b138b3",
+    "text": "再找到爷爷，让照片里的家人团聚。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-57d3ddba0a56",
+    "text": "This is my grandpa. I want water.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-0923c70e32fc",
+    "text": "月饼认出两位长辈啦，苹果和水也准备好了。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-94f0b146a457",
+    "text": "爷爷奶奶都到了，小熊猫想拍一张温暖合影。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-587c79c9eb01",
+    "text": "Look! A baby. This is my mom.",
+    "lang": "en"
+  },
+  {
+    "id": "en-87aa03bddc27",
+    "text": "Hello, baby! This is my dad.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-de42ed83d31f",
+    "text": "妈妈抱着小宝宝，小熊猫还没找到它。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-3701708a741f",
+    "text": "点出小宝宝，轻轻向它说声你好。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-030f7d37a010",
+    "text": "This is my family. This is my grandma.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-1250a2d5debf",
+    "text": "爸爸站好了，可合影里还没有全家人。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-86ca94cd67fb",
+    "text": "找到全家人的图片，让大家一起进入合影。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-e8cd99bf80a1",
+    "text": "Hello, family! This is my grandpa.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-41dfbb9ca209",
+    "text": "月饼帮忙拍好了，家人的问候留在相册里。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-118c88253459",
+    "text": "月饼，小熊猫打开相册，想办一次家人聚会。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-f7bade40d179",
+    "text": "爸爸准备迎客，妈妈的照片还没有摆好。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-02bb086f28bb",
+    "text": "先找到妈妈，让她和小熊猫一起迎接大家。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-ee887a4c8ce4",
+    "text": "This is my grandma. Hello, baby!",
+    "lang": "en"
+  },
+  {
+    "id": "zh-d89e3b81479c",
+    "text": "兄弟姐妹到了，奶奶还在另一页相册里。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-f616181ea1ce",
+    "text": "再请奶奶过来，把温暖的问候送给她。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-9c44deedaaa5",
+    "text": "Hello, baby! This is my family.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-c994ed11ccf5",
+    "text": "全家人都见面啦，下次给来做客的人布置小屋。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-aa4e3a598c7b",
+    "text": "月饼，玩具熊来做客，我们给它准备休息角。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-dd3234a1b452",
+    "text": "Look! A bed. It’s a teddy.",
+    "lang": "en"
+  },
+  {
+    "id": "en-302d4a8ef903",
+    "text": "This is my bed. Hello, baby!",
+    "lang": "en"
+  },
+  {
+    "id": "zh-abec40dea865",
+    "text": "小宝宝睡着了，玩具熊却还没找到小床。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-d932ccf6f09e",
+    "text": "找出小床，让玩具熊有地方安静躺一会。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-d598a7a00a00",
+    "text": "Look! A chair. Sit down.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-b7fbac8ac5c0",
+    "text": "小床准备好了，小熊猫想坐在旁边陪它。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-7c0c3ec5ef74",
+    "text": "再找出椅子，给小熊猫安排一个位置。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-46a98939c53f",
+    "text": "Sit on the chair. Stand up.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-7db1db8cf638",
+    "text": "玩具熊和小熊猫都安顿好了，明天请家人来。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-4fa3bd85df1f",
+    "text": "爸爸妈妈带苹果来做客，小熊猫准备迎接。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-a0ff4ece922d",
+    "text": "Look! A table. This is my dad.",
+    "lang": "en"
+  },
+  {
+    "id": "en-5b8aa35d2e1c",
+    "text": "This is a table. This is my mom.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-20e8cce1f633",
+    "text": "椅子摆好了，可苹果还没有地方放。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-46d5619d69da",
+    "text": "找出桌子，让小熊猫把苹果摆上去。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-1c21b5ea8d81",
+    "text": "Look! A door. Sit on the chair.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-011c6f5f359d",
+    "text": "桌子准备好了，门外传来朋友的问候。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-bfa2e9cbf529",
+    "text": "再找到门，请小熊猫把门打开。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-aabd1a1e8457",
+    "text": "Open the door. I like apples.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-23cddc067a4b",
+    "text": "月饼帮忙迎来了家人，小屋里热闹起来。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-15f421ee60b7",
+    "text": "小猫进门做客，想和小熊猫找个舒服的地方。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-3bbc1887169f",
+    "text": "Look! A window. It’s a cat.",
+    "lang": "en"
+  },
+  {
+    "id": "en-72d4d090aabe",
+    "text": "Look at the window. Open the door.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-b55309c96014",
+    "text": "桌边没有小猫，它正看着窗外的小鸟。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-2fd692e67528",
+    "text": "找到窗户，和小熊猫一起看看小猫在哪里。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-1dae9ce8f0c5",
+    "text": "Look! A sofa. This is a table.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-d1be2c33ca9b",
+    "text": "窗外看完了，小猫想坐下来听一段故事。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-6c3bba8c7019",
+    "text": "再找到沙发，请小猫和小熊猫一起坐好。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-77cf482105dd",
+    "text": "Sit on the sofa. Sit down.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-b322186a98e4",
+    "text": "月饼给朋友找到位置，下次准备阅读的灯和书。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-b3c04d0dbc87",
+    "text": "妈妈坐在沙发边，想和小熊猫分享一本书。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-e9994062a6ac",
+    "text": "Look! A lamp. Sit on the sofa.",
+    "lang": "en"
+  },
+  {
+    "id": "en-4d2335b13d42",
+    "text": "This is a lamp. Look at the window.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-d0f5447e6fdf",
+    "text": "窗边暗下来，阅读角还少一盏亮亮的灯。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-1f182e602322",
+    "text": "找出台灯，让小熊猫把阅读角照亮。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-210d7f72aa3b",
+    "text": "Look! A book. This is my mom.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-a9f38211c7b8",
+    "text": "灯亮了，小熊猫想读的书还放在另一边。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-192e64548c26",
+    "text": "再找到书，把它送到小熊猫身边。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-e09db99e6deb",
+    "text": "Open the book. Sit on the chair.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-03122640a631",
+    "text": "月饼准备好了，朋友们可以安静听故事。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-e4ea9ebc6dcc",
+    "text": "月饼，朋友来参观小屋，我们做一次小主人。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-eff684daa108",
+    "text": "This is my bed. It’s a cat.",
+    "lang": "en"
+  },
+  {
+    "id": "en-f50ed6f07d5d",
+    "text": "This is a table. It’s a teddy.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-d86df3df4da4",
+    "text": "小猫想休息，小熊猫先帮它找张小床。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-37f5b3b0f3b8",
+    "text": "选出小床，让小猫知道休息角在哪里。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-08642e048b76",
+    "text": "Look at the window. I like apples.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-20efdf3c1b92",
+    "text": "苹果和水摆好了，玩具熊想看看阅读角。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-28a5e116934b",
+    "text": "再找到书，请小熊猫和玩具熊一起翻开。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-0f9a740497b3",
+    "text": "This is a lamp. I want water.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-baa5ab6bf9c8",
+    "text": "朋友参观完小屋，下次一起把东西整理好。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-5ee1875b3319",
+    "text": "月饼，红球和汽车散开了，我们开一家收纳小店。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-bc9e4d1529d8",
+    "text": "刚才的位置线索还在。再听一听，帮小熊猫把东西找齐吧。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-4876c583589e",
+    "text": "Look! A box. It’s a ball.",
+    "lang": "en"
+  },
+  {
+    "id": "en-818f3b384e6d",
+    "text": "This is a box. It’s a car.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-0dd77d416429",
+    "text": "小熊猫拿来盒子，可小猫挡住了它。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-56e55a9ee8ec",
+    "text": "找到盒子，把箱盖打开看看能装什么。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-757e22fa0f87",
+    "text": "Look! A basket. It’s red.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-bbb0eb3aae35",
+    "text": "球准备收好了，汽车还需要一个篮子。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-7966d3de01ff",
+    "text": "再找到篮子，把它送到小熊猫身边。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-a3a5ce4e7ef6",
+    "text": "This is a basket. It’s a cat.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-f9c4d1f8b063",
+    "text": "收纳工具齐了，小熊猫约你明天玩捉迷藏。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-e0e9d52347f9",
+    "text": "昨天认识的盒子还在，月饼来和我捉迷藏吧。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-1b0071e4fb22",
+    "text": "Look! A box. Let’s play.",
+    "lang": "en"
+  },
+  {
+    "id": "en-c81f957ebcc0",
+    "text": "I’m in the box.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-27d2dd139007",
+    "text": "小熊猫钻进盒子，环纹尾巴还露在外面。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-3913c756772d",
+    "text": "点开箱盖，看看小熊猫是不是躲在里面。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-dc46139f0821",
+    "text": "箱盖打开啦，小熊猫在里面呢！",
+    "lang": "zh"
+  },
+  {
+    "id": "en-113710501969",
+    "text": "The cat is on the box.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-3cf5b980c4f7",
+    "text": "小猫也来玩，轻轻跳到了盒子上面。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-e1551e3bbebe",
+    "text": "听听位置提示，找到躲在里面的小熊猫。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-ff79b1916d72",
+    "text": "你找到里面的小熊猫啦！",
+    "lang": "zh"
+  },
+  {
+    "id": "en-53289d13637f",
+    "text": "A red ball. Here you are.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-fabf2d30a186",
+    "text": "小猫下来，小熊猫出来，把熟悉的红球递给你。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-3a84a8c10d3d",
+    "text": "红球又滚走了，小熊猫和小猫顺着线索去找。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-512f038bd5e0",
+    "text": "Under the table. It’s a ball.",
+    "lang": "en"
+  },
+  {
+    "id": "en-7d3ab59bd0b7",
+    "text": "The ball is under the table. This is a table.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-ab41f80498c9",
+    "text": "小猫看看桌面，球却躲到桌子下面。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-58155031559f",
+    "text": "听位置提示，点出桌子下面的红球。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-b3646e8134d4",
+    "text": "位置找对啦，小熊猫看见它了。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-b8b4a3578707",
+    "text": "Behind the box. This is a box.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-03cd1518b1da",
+    "text": "球找到了，又轻轻滚到盒子的后面。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-b01fdde977d2",
+    "text": "再听提示，找到盒子后面露出的球。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-c5d7b171111b",
+    "text": "The ball is behind the box. It’s a cat.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-f2d32a360f97",
+    "text": "月饼两次都找到啦，小熊猫把球抱回身边。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-cdbff34e917b",
+    "text": "小兔来借球，小熊猫想比较盒子旁边的距离。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-3004504a2269",
+    "text": "Near the box. It’s a ball.",
+    "lang": "en"
+  },
+  {
+    "id": "en-fc087af071af",
+    "text": "The ball is near the box. This is a box.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-c6c7e98346dd",
+    "text": "一颗球放得近，小兔一下子就看见它。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-bf500a40f470",
+    "text": "听近的提示，选出离盒子近的球。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-5ca6327cbd61",
+    "text": "Far from the box. It’s a rabbit.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-fcae5a1e1cd1",
+    "text": "另一颗球放远了，小熊猫要慢慢走过去。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-317de678e645",
+    "text": "再听远的提示，选出离盒子远的球。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-80fa30c0ff46",
+    "text": "The ball is far from the box. I can walk.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-18c01180e7ac",
+    "text": "月饼帮忙分清远近，小兔把球借去一起玩。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-cecab720972c",
+    "text": "月饼，小猫送来寻找路线，我们去找红球。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-c1fe3b53a851",
+    "text": "Let’s find the ball.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-ef947c20cc0d",
+    "text": "盒子和篮子摆好了，第一条线索在盒子里面。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-a43911d302b9",
+    "text": "选对里面的位置，打开第一处寻找线索。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-9faae86f24c1",
+    "text": "线索指向桌子下面，小熊猫走过去查看。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-d726167b38da",
+    "text": "再找到桌子下面的球，让它回到朋友手中。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-9a7abd87e1d4",
+    "text": "Here is the red ball.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-6261637af81a",
+    "text": "红球找到啦，明天看看什么天气适合出去玩。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-0c44f8084b56",
+    "text": "月饼，小熊猫打开天气小窗，想带球去野餐。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-79382e90ddc7",
+    "text": "It’s sunny. Put on your hat.",
+    "lang": "en"
+  },
+  {
+    "id": "en-25ade668d62c",
+    "text": "Sunny! Put on your coat.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-d4fa66961191",
+    "text": "窗外有太阳，小熊猫先看清晴天的样子。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-1e9b57c28dba",
+    "text": "选出晴天，让小熊猫戴好帽子准备出发。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-8a794409bacd",
+    "text": "It’s rainy. It’s a ball.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-fc599eb1cd11",
+    "text": "小雨忽然来了，外套还摆在小屋里。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-034082ad0460",
+    "text": "再认出雨天，提醒小熊猫回屋拿好外套。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-c0701c5829a5",
+    "text": "Rainy! Look at the window.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-1337691b5ca4",
+    "text": "天气变了计划也能变，朋友约好先在屋里玩。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-766a4a4b621d",
+    "text": "小鸟飞到窗边，小熊猫想看看云和风。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-7f698e831133",
+    "text": "It’s cloudy. Put on your hat.",
+    "lang": "en"
+  },
+  {
+    "id": "en-c08bc0c5cbe6",
+    "text": "Cloudy! Look at the window.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-d41bdf984963",
+    "text": "一团团云飘来，把小窗外的天空遮住。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-2509c8467a11",
+    "text": "找到多云的图片，和小熊猫一起看看。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-7b4bef86685c",
+    "text": "It’s windy. It’s a bird.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-60f23179fd76",
+    "text": "云还在飘，风却把小熊猫的帽子吹偏了。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-1d386414808e",
+    "text": "再认出有风的天气，帮它把帽子拿稳。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-50f9b4daded1",
+    "text": "月饼提醒得及时，小熊猫和小鸟回屋等风小些。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-bb1d395aa6a0",
+    "text": "小熊猫整理天气卡，还准备了外套和水。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-470c1014ee81",
+    "text": "It’s hot. Put on your coat.",
+    "lang": "en"
+  },
+  {
+    "id": "en-8992f0edddf0",
+    "text": "Hot! I want water.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-c2ef6d17b87d",
+    "text": "太阳出来有点热，它想先凉快一下。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-f547443e0aff",
+    "text": "认出热的感觉，请小熊猫喝点水歇一会。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-f3d8d94c49d4",
+    "text": "It’s cold. It’s sunny.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-24f571378605",
+    "text": "另一张卡画着冷天，小熊猫想起自己的外套。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-fdfb128a7c2f",
+    "text": "再认出冷的感觉，让它把外套准备好。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-0fc6e13bfd5e",
+    "text": "Cold! It’s rainy.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-6fe96ab90725",
+    "text": "月饼会照顾朋友啦，冷热天气都有不同办法。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-72b9c45e1f9b",
+    "text": "月饼，小熊猫打开旅行相册，想分享两个发现。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-8bbb40f56259",
+    "text": "It’s snowy. Open the book.",
+    "lang": "en"
+  },
+  {
+    "id": "en-8aed0970b538",
+    "text": "Snowy! Put on your coat.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-ac2dd713c08e",
+    "text": "一页飘着雪花，相片里的朋友穿着外套。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-6f48ef3389e0",
+    "text": "找到下雪的天气，看看雪花落在哪里。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-4d4e15e8b0c1",
+    "text": "Look! A rainbow. It’s red.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-48d5ce4d65e3",
+    "text": "翻过一页，雨后出现一道彩色的小桥。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-4da3ee5c2b64",
+    "text": "找到彩虹，和小熊猫看看熟悉的红色蓝色。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-2b427fab8c8c",
+    "text": "A rainbow! It’s blue.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-ad96054108b9",
+    "text": "两张相片都找到了，明天把天气相册整理好。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-80709bcddb86",
+    "text": "月饼，朋友们来翻天气相册，我们帮它们选计划。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-d57699e29a78",
+    "text": "It’s cloudy. Put on your coat.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-8231326ddb12",
+    "text": "小猫想带球出去，先看看晴天那一页。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-fc3734309c10",
+    "text": "认出晴天，让小熊猫把帽子准备好。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-c84d073107dc",
+    "text": "It’s hot. I want water.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-3768e5de76a9",
+    "text": "下一页刮起风，朋友们想先回温暖的小屋。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-d89de0b33963",
+    "text": "再认出有风的天气，把帽子稳稳收好。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-35af775647bc",
+    "text": "It’s snowy. It’s a ball.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-a6074fe62e0d",
+    "text": "天气相册整理好了，下次给聚会准备不同数量。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-dbb5cd2581c4",
+    "text": "月饼，小兔带来篮子，我们准备朋友日点心。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-1a86b8641b5e",
+    "text": "朋友的用品还要准备。听清数量，再帮小熊猫选出来吧。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-319808538a54",
+    "text": "Let’s get ready. I like apples.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-752081087648",
+    "text": "小熊猫先要一个苹果，别一次拿太多。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-0990d1a13b27",
+    "text": "选出一个，把这一份送给小熊猫。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-aaaa481a1f65",
+    "text": "数量准备好啦，朋友可以来一起玩了。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-a1f474492f0e",
+    "text": "又来了一位朋友，现在需要两个苹果。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-08b50bb8a435",
+    "text": "再选出两个，让两位朋友都有自己的点心。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-5a8390a7229c",
+    "text": "Ready! Thank you.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-11b3bb5bddc6",
+    "text": "一个和两个都准备好了，明天再摆玩具。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-8587d7c8f855",
+    "text": "昨天分好了苹果，今天给朋友准备玩具。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-883245879f88",
+    "text": "Let’s get ready. It’s a ball.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-52b3790e84ee",
+    "text": "小熊猫数到三个球，想请月饼帮忙确认。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-25508259474b",
+    "text": "找到三个球，送到小熊猫准备的位置。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-339876c588ee",
+    "text": "球准备好了，小汽车却需要四辆才够。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-0f11a4fbb54d",
+    "text": "再找到四辆汽车，帮小熊猫摆成一排。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-fa0990974b5c",
+    "text": "玩具数量对上了，下次我们准备更多点心。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-36bc5700bb6b",
+    "text": "小熊猫想给更多朋友准备点心，先摆好空盘。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-d35f52f11542",
+    "text": "Let’s get ready. I like eggs.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-890b61944290",
+    "text": "鸡蛋还差一点，它数了数需要五个。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-efff58921c41",
+    "text": "找出五个鸡蛋，帮小熊猫放到一起。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-295e3862998e",
+    "text": "这一盘齐了，另一盘要给六位朋友准备鸡蛋。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-5e054d24d281",
+    "text": "再找出六个鸡蛋，让朋友都能轮流分享。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-78088aeb4dde",
+    "text": "月饼把点心准备好了，明天还要搭聚会小路。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-ad2351c9fa4e",
+    "text": "月饼，朋友日快开始，我们用积木搭一条小路。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-6689f6975253",
+    "text": "Let’s get ready. Look! Blocks.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-d75dd37eed80",
+    "text": "第一段小路需要七块积木，小兔正等着帮忙。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-1274e0813741",
+    "text": "选出七块积木，让小熊猫把这一段铺好。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-e3202587ae05",
+    "text": "第一段铺好了，接着需要八块积木搭另一段。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-4d34a27d290e",
+    "text": "再找出八块积木，让小汽车能慢慢开过去。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-fb5ab1687e50",
+    "text": "七块和八块都齐了，明天大家一起检查聚会。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-10754f4b89d2",
+    "text": "月饼，朋友们要来聚会，我们检查篮子里的数量。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-6d49e72295c5",
+    "text": "小熊猫拿起苹果，先为两位朋友各留一份。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-fd02863b5c32",
+    "text": "选出两个苹果，给这一桌准备点心。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-9ef00c13c0ac",
+    "text": "点心放好了，游戏角还需要四个球。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-1d0b5c85ba46",
+    "text": "再选出四个球，让朋友都有轮流玩的机会。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-4bcaf0908454",
+    "text": "从一个到八个都练过了，接下来听听朋友的心情。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-18766a413a2c",
+    "text": "月饼，小猫想分享心情，我们来听听它的故事。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-4f483ec586e7",
+    "text": "继续照顾刚才的朋友。听听它需要什么，再选一选吧。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-6b55a43b7673",
+    "text": "它找到红球，开心得眯起了眼睛。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-d6f51728dd98",
+    "text": "认出开心的表情，和小熊猫一起回应它。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-2fab48fa1b9d",
+    "text": "球又滚远了，小猫有一点难过。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-673b72613dcd",
+    "text": "再认出难过的表情，让小熊猫陪在它身边。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-1fea8717febf",
+    "text": "Here is the red ball. The cat is happy.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-8aa037de90f2",
+    "text": "小熊猫把球找回来，也记住了先听朋友的心情。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-4017e0fb9f3c",
+    "text": "小熊来做客，小熊猫想先问问它需要什么。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-c92df53cb4cc",
+    "text": "The bear is hungry.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-b80c07ff83f4",
+    "text": "小熊摸摸肚子，原来是肚子饿了。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-341d4b744461",
+    "text": "认出饿的感觉，让小熊猫准备面包。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-dabd60877bf1",
+    "text": "The bear is thirsty.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-1e3756878e3e",
+    "text": "吃过面包以后，小熊又想喝一点水。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-1583608b5cdb",
+    "text": "再认出口渴的感觉，让小熊猫递上水。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-a4a9b82f3fcd",
+    "text": "Bread and water. Thank you!",
+    "lang": "en"
+  },
+  {
+    "id": "zh-d0fbabb3e25f",
+    "text": "月饼听懂朋友的需要，小熊开心地说谢谢。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-46fa3a18a22b",
+    "text": "月饼，小熊猫收礼物，想挑大小合适的盒子。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-bdf8f39fbec0",
+    "text": "Look! A teddy and a ball.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-258a23583e6b",
+    "text": "大玩具熊在旁边，小盒子装不下它。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-d57dca1bebad",
+    "text": "认出大的盒子，给玩具熊留一个舒服位置。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-788c791bb5c0",
+    "text": "玩具熊安顿好了，红球只需要小小的盒子。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-47267ca8b5b3",
+    "text": "再认出小的盒子，让小球也有自己的家。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-1a00d80c6ff5",
+    "text": "The teddy is in the big box.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-7ce19e584367",
+    "text": "大小选对啦，小熊猫准备明天玩汽车游戏。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-f0da0f2a3779",
+    "text": "小兔带汽车来玩，小熊猫想试试不同速度。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-00940d73cef0",
+    "text": "The car is fast. It’s a car.",
+    "lang": "en"
+  },
+  {
+    "id": "en-34bf31e50064",
+    "text": "Fast! It’s a rabbit.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-f71fd8df03dd",
+    "text": "汽车跑得很快，一下子超过了旁边的标记。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-ba13f0b98876",
+    "text": "认出快的动作，看看汽车怎样向前跑。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-f6dc5b893286",
+    "text": "The car is slow. I can walk.",
+    "lang": "en"
+  },
+  {
+    "id": "zh-1fb52b4037e6",
+    "text": "到了朋友身边，汽车需要慢慢走才稳当。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-b8210d99fb6a",
+    "text": "再认出慢的动作，让汽车平稳停下来。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-36e277e22b9a",
+    "text": "Slow! Stop!",
+    "lang": "en"
+  },
+  {
+    "id": "zh-235f5dd4f5dd",
+    "text": "月饼帮它调整速度，朋友约好一起庆祝。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-afe3d6c80361",
+    "text": "月饼，好朋友庆祝会开始，我们来照顾每位朋友。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-dabfdc1af0df",
+    "text": "Hello, friends!",
+    "lang": "en"
+  },
+  {
+    "id": "zh-e4fc15dc54e1",
+    "text": "小熊摸摸肚子，它需要的不是球而是食物。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-76c129a5285a",
+    "text": "认出饿的感觉，请小熊猫准备一点苹果。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-e0f46924dfd9",
+    "text": "朋友吃好喝好了，小猫找回球，露出了笑脸。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-b319d237c8d7",
+    "text": "再认出开心的表情，和朋友一起分享好心情。",
+    "lang": "zh"
+  },
+  {
+    "id": "en-3c82b48b8526",
+    "text": "Thank you, friends!",
+    "lang": "en"
+  },
+  {
+    "id": "zh-1a7d3fb951fc",
+    "text": "十二周的小发现连起来了，小熊猫还会陪你重玩。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-30fe2c1cc184",
+    "text": "小猫探出头，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-e15d9b481d70",
+    "text": "却不敢走到小路上。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-b65b7c969260",
+    "text": "点点小猫，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-838696535d1e",
+    "text": "邀请它和我们一起走。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-d2fbaaf0d0e7",
+    "text": "小狗也来了，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-cee40ceb6593",
+    "text": "可它走到了另一边。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-94a55331c3ce",
+    "text": "找到小狗，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-ca361861a180",
+    "text": "把它请到小猫身边。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-9ad7417b00e9",
+    "text": "还记得小猫和小狗吗？",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-f76762c50a10",
+    "text": "今天去池塘找朋友。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-153ef981e175",
+    "text": "小鸟飞来了，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-8da514e09187",
+    "text": "想请我们听它唱歌。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-24e1de0e8386",
+    "text": "点点天上的小鸟，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-d1549a47fac4",
+    "text": "和它打个招呼。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-c0e4c53db981",
+    "text": "水面冒出泡泡，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-ee204b010b1f",
+    "text": "小鱼还没见到新朋友。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-0a40e8def324",
+    "text": "找到小鱼，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-fd3ddef4cc18",
+    "text": "请它游过来听小鸟唱歌。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-cbcc526cf6fa",
+    "text": "小鸟送来邀请，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-c0d85a3fd6fa",
+    "text": "小熊猫要找森林里的朋友。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-2a9afff91d8e",
+    "text": "树边露出圆耳朵，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-c9324c45dc51",
+    "text": "小熊还在害羞呢。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-8cffdb0687dd",
+    "text": "请小熊出来，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-59d9ca0923c8",
+    "text": "我们一起说声你好。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-36d17bfcb402",
+    "text": "小兔听见问候，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-e1bfd6454b7b",
+    "text": "也从花丛边探出头。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-3c159fcc8d10",
+    "text": "点点小兔，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-c5df4b8ed14b",
+    "text": "邀请它站到小熊旁边。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-24a866909cdb",
+    "text": "小鸟开唱了，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-a13c3ec01feb",
+    "text": "小鸭却还在远处摇摇摆摆。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-4e2c1d8fa106",
+    "text": "找到小鸭，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-1a57991266ab",
+    "text": "请它来听音乐会。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-569490a04f82",
+    "text": "小鱼游过来，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-f8c19a82baf5",
+    "text": "可青蛙还没发现大家。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-ef2a002693b1",
+    "text": "请青蛙加入，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-4284aa75bc27",
+    "text": "让它和小鸭一起打招呼。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-c68b35b41ca9",
+    "text": "池塘朋友都到了，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-6390e8ccdf53",
+    "text": "小熊猫和大家一起听歌。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-2d23e4822bae",
+    "text": "小猫到了，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-001ab98b6a66",
+    "text": "后面还有没找到位置的朋友。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-1444b4e97711",
+    "text": "小熊和小兔到齐了，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-6d707a5ab001",
+    "text": "小鸭还在找入口。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-99641e764f3a",
+    "text": "把小鸭请到朋友身边，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-587d9af32789",
+    "text": "聚会就能开始。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-c9a49278cb15",
+    "text": "小猫和小狗想要门牌，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-1ba332675f2b",
+    "text": "我们来选颜色。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-a6d3838e5b0e",
+    "text": "小熊猫拿出彩笔，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-558ce8df3620",
+    "text": "小猫还没挑到红色。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-0413f1ef7630",
+    "text": "小鸟也来帮忙，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-d996bdab5109",
+    "text": "小狗还在等蓝色。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-ae7d1b832908",
+    "text": "小鸟想画亮亮的小花，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-1ec1312809ec",
+    "text": "却找不到黄色。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-656164fed616",
+    "text": "小鱼来看画了，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-8c303108b9fd",
+    "text": "叶子却还没有绿色。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-988eedf8e86e",
+    "text": "把绿色送到画里，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-c5d4c952ecf5",
+    "text": "给小鱼添一片叶子。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-ddbd78da419b",
+    "text": "月饼，小兔等我们送玩具，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-cb86c6615ad5",
+    "text": "一起出发吧。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-764bb01b1d5a",
+    "text": "小熊猫抱来一颗球，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-4b1a5d8238be",
+    "text": "可小兔没看见它。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-291a3d4b10af",
+    "text": "把球送给小兔，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-6194a5e2e3ba",
+    "text": "和它一起玩一会儿。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-c6ae035df85b",
+    "text": "再找到小汽车，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-26e3d93818d6",
+    "text": "请小熊猫带上它。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-70f78cebd994",
+    "text": "两件玩具都送到了，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-24fcec2238e8",
+    "text": "下次给玩具熊搭小家。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-2c2526101224",
+    "text": "小狗带着球来做客，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-d724a6d7a25e",
+    "text": "我们给玩具熊搭小家。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-41eb0595bb35",
+    "text": "玩具熊坐在旁边，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-08d9a615f21f",
+    "text": "还没有舒服的位置。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-d68db9c171a9",
+    "text": "月饼帮忙搭好了，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-a395236c4d02",
+    "text": "玩具熊可以和朋友一起住。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-6ed4acec8c2a",
+    "text": "球和小汽车排着队，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-57e0a5baae79",
+    "text": "玩具熊却找不到家。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-1cba3dd78087",
+    "text": "先认出玩具熊，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-675262d56f2c",
+    "text": "把它送回小角落。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-224b05b54c50",
+    "text": "月饼，我们邀请小兔野餐，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-aa6ee7050dbc",
+    "text": "先准备水果。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-c2d4068cec64",
+    "text": "把苹果送来，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-99728e8a7808",
+    "text": "小兔就能尝到喜欢的水果。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-b3e448ed9274",
+    "text": "苹果准备好了，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-c72e5f85971e",
+    "text": "小熊猫又想起香蕉。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-c9358dcbf996",
+    "text": "小狗带水果来了，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-aa226ebb651f",
+    "text": "我们再准备一点喝的。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-b82bcac1f0b4",
+    "text": "它跑得有点累，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-952dfc7906ae",
+    "text": "小熊猫先拿来牛奶。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-40ee9a2f867d",
+    "text": "把牛奶送给小熊猫，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-ea0d8f8d0a7a",
+    "text": "听听它怎样请求。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-5671ff1c5fd9",
+    "text": "小狗看看苹果，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-944e5956dd1d",
+    "text": "又想喝一点水。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-c94645e9aa7c",
+    "text": "小熊带上水和牛奶，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-f2887ddc20e1",
+    "text": "野餐盒还没装满。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-770423fbe9d5",
+    "text": "面包留在外面，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-0fca71e7f41a",
+    "text": "小熊猫等着把它带走。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-56cde3270045",
+    "text": "小熊准备好了，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-1b43b2ba9078",
+    "text": "餐盒里还缺一个鸡蛋。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-8044d27a8adf",
+    "text": "小鸭带来面包和鸡蛋，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-bd761f126107",
+    "text": "还想分享新食物。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-e6d4c7169a43",
+    "text": "小熊猫拿出橙子，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-e3bf85890b4a",
+    "text": "小鸭还没看见。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-3c14d117ce93",
+    "text": "小兔看着水果，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-6cde4b72d033",
+    "text": "小熊猫想先拿到苹果。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-92bae0a33ab8",
+    "text": "大家坐好了，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-9950b946c7a6",
+    "text": "小狗还在等一份水。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-938b01fd9aa9",
+    "text": "月饼，小兔收好苹果，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-d28df4045a05",
+    "text": "邀请我们参加运动会。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-b93a931e0bde",
+    "text": "球停在小路边，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-7dabf88f2343",
+    "text": "小兔先示范轻轻跳。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-d6ef2e339020",
+    "text": "听听跳的指令，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-a3d4e65a1da5",
+    "text": "帮小熊猫选对动作。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-7b3df8de6463",
+    "text": "小兔跳完了，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-a70b1152306d",
+    "text": "想跑到朋友那边送邀请。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-c25781dba1d0",
+    "text": "再选跑的动作，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-4b0a48a8a953",
+    "text": "让小熊猫跟上小兔。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-d3277e5f871b",
+    "text": "跑过的小兔回来了，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-5626330c31d9",
+    "text": "今天慢慢走过小路。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-db4a4bfa29be",
+    "text": "小熊猫等着出发，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-5f91d653c729",
+    "text": "先听慢慢走的指令。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-13a77e8301f3",
+    "text": "选对走的动作，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-b0d9a54a3fc9",
+    "text": "陪小熊猫走到路中央。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-ad2b154fd4f5",
+    "text": "小猫和小狗走到了，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-63546c8c6dd4",
+    "text": "我们给运动员加油。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-b10208afff79",
+    "text": "朋友刚表演完，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-4fefc5ac2584",
+    "text": "小熊猫想先拍拍手。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-f10016a2d24e",
+    "text": "小狗停在远处，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-48aee7ba4534",
+    "text": "还没看见迎接它的小熊猫。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-b14c0b6bacc7",
+    "text": "小熊挥挥手，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-c0250fb4e6e3",
+    "text": "运动后和我们一起歇一会儿。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-c44929ea2f22",
+    "text": "选出坐下的动作，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-505f775213b9",
+    "text": "陪小熊猫安静休息。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-d2b6d8dce968",
+    "text": "听听站起来的指令，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-d91bfac437ab",
+    "text": "让小熊猫站稳。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-df6b323d055f",
+    "text": "小兔抱着球等着，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-e09d3d9bbfd2",
+    "text": "先请大家跳一跳。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-4059fba9f827",
+    "text": "听指令选动作，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-bd5508d55186",
+    "text": "让小熊猫加入跳跃队。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-66f39cf2f428",
+    "text": "再选出拍手，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-98c0a30c9531",
+    "text": "让小熊猫和大家一起加油。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-a69b63f93ced",
+    "text": "月饼，红球停在镜子边，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-ef05e25348bc",
+    "text": "小熊猫想照照自己。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-4fef4c56027f",
+    "text": "找到头的图片，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-7b08c82eab9b",
+    "text": "让小熊猫认出自己。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-ad59a1ff5c6a",
+    "text": "小熊猫认出头了，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-2d2914db2472",
+    "text": "又想和镜子里的朋友挥手。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-3b9728a0adaa",
+    "text": "小鸟飞到镜子边，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-098bbc08a76c",
+    "text": "和小熊猫玩看和听。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-3d7b5b749768",
+    "text": "小熊猫想看看小鸟，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-cbcb2c59dca6",
+    "text": "先找到眼睛。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-67acaefb3703",
+    "text": "小鸟唱起歌，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-4c3e617f6168",
+    "text": "可小熊猫的小耳朵还没准备好。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-61b17c37a4eb",
+    "text": "月饼帮它分清看和听，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-67be41d89e2c",
+    "text": "再挥手送别小鸟。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-6adc2c2fcc3a",
+    "text": "小兔送来脸部拼图，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-dca200e6c38d",
+    "text": "小熊猫想拼出笑脸。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-05f8c51521ca",
+    "text": "小熊坐在身边，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-e7d977aad4f8",
+    "text": "邀请小熊猫伸展身体。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-43a1d312fbc8",
+    "text": "小熊猫想伸出手臂，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-6e7a8b4fd61a",
+    "text": "却先拿错了图片。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-c977eb4e623a",
+    "text": "手臂放下来，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-7b81dfbd96ca",
+    "text": "小熊又想活动一下腿。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-d286c2227dbd",
+    "text": "找到腿的图片，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-ec95d2963acb",
+    "text": "和小熊猫坐着动一动。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-f5c81a3a4cd3",
+    "text": "月饼，镜子游戏开场，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-f3e813b13ed6",
+    "text": "小熊猫要准备晨间操。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-c8aa399b73d0",
+    "text": "朋友到齐了，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-e8c6c739eed6",
+    "text": "小熊猫想伸展一下手臂。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-f6e4b27e0a4f",
+    "text": "从头到脚都认识了，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-2fa77a490f6d",
+    "text": "明天给小熊猫挑衣服。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-0076c789e848",
+    "text": "小兔来约出门，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-d209655fa5b2",
+    "text": "小熊猫还没穿戴整齐。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-614508523369",
+    "text": "把帽子送过来，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-5a0570ef8534",
+    "text": "帮小熊猫准备出发。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-a01de88bc96d",
+    "text": "帽子戴好了，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-bb958353b1f2",
+    "text": "小熊猫的脚边还空着。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-45930eeb4f23",
+    "text": "再找到鞋子，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-15e109c711f1",
+    "text": "把它们送到小熊猫身边。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-25a56b72c6e0",
+    "text": "月饼帮它准备好了，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-b6041c875fdc",
+    "text": "小兔邀请它明天再来。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-b9d86a4a78d2",
+    "text": "帽子和鞋子摆好了，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-a3acdda8adb0",
+    "text": "小熊猫还想挑一身衣服。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-f7670e2b2697",
+    "text": "把上衣送过来，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-281867c77d2c",
+    "text": "让小熊猫比一比。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-c5f3d4ecbf06",
+    "text": "月饼把衣服配齐了，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-05aa8f9ffad1",
+    "text": "小熊猫挥手说谢谢。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-a782047f1ef8",
+    "text": "小兔带着衣物来做客，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-51ab71af433b",
+    "text": "邀请小熊猫换装。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-94f570b8fd6e",
+    "text": "小熊猫站在衣物旁，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-bad384216e96",
+    "text": "想把衣柜整理好。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-2fbeb3315a71",
+    "text": "月饼，小熊猫的衣柜派对开始，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-0c44f5c68b37",
+    "text": "朋友来挑衣服。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-89bafc96ee58",
+    "text": "小兔准备出门，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-c508dabb7f88",
+    "text": "想先找到自己的帽子。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-60dfb165c249",
+    "text": "把帽子送回来，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-17a886621d9f",
+    "text": "让小熊猫帮小兔试一试。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-17eec4fff694",
+    "text": "帽子找到了，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-79e7e9283dc8",
+    "text": "小熊还在等自己的外套。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-ae0f13f2875d",
+    "text": "再选出外套，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-a9620da121ed",
+    "text": "帮小熊猫把衣物送到手中。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-0e09bdb26975",
+    "text": "衣柜整整齐齐，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-2fcb5763ccc6",
+    "text": "下次给朋友介绍小熊猫的家人。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-67c7f71a7ee6",
+    "text": "月饼，小熊猫穿戴好了，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-7228946d374e",
+    "text": "想给你看家人相册。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-a14d1888d722",
+    "text": "相册里少了一张照片，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-c238fbf94293",
+    "text": "妈妈还没找到位置。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-b19412c623f6",
+    "text": "认出妈妈的照片，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-e1b854796b3e",
+    "text": "把它请回相册。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-af2265cc189e",
+    "text": "妈妈回到相册了，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-f9a4318cc7ce",
+    "text": "爸爸的照片还放在外面。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-ef1a6cfa54c9",
+    "text": "再找到爸爸，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-cae0a518983c",
+    "text": "让两张照片靠在一起。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-6cd39f2e0c70",
+    "text": "家人的照片齐了，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-396d7afa6c12",
+    "text": "下次介绍一起玩的小伙伴。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-55b5192736fb",
+    "text": "妈妈和爸爸翻开相册，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-2bbe2d1c8342",
+    "text": "姐妹兄弟也想一起玩。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-aef0098ffcd4",
+    "text": "姐妹想和我们玩球，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-f67e1897f174",
+    "text": "却还没走到朋友身边。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-50f76a29b85b",
+    "text": "找到姐妹，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-34a13a81268f",
+    "text": "邀请她来和小熊猫一起玩。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-237d926d6909",
+    "text": "球滚过去了，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-152a8aa56d4b",
+    "text": "兄弟带着汽车等在另一边。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-3e447308da3e",
+    "text": "再请兄弟过来，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-b897399557f0",
+    "text": "让大家轮流分享玩具。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-9874d6290786",
+    "text": "月饼帮家人聚到一起，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-5b8189572f07",
+    "text": "下次给长辈送问候。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-73ded1725b76",
+    "text": "姐妹兄弟准备了苹果，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-62a891138a01",
+    "text": "想给长辈送问候。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-2328a0f8012a",
+    "text": "小熊猫找出照片，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-be97bc8363b3",
+    "text": "先请我们认一认奶奶。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-5daba0aa6ad5",
+    "text": "找到奶奶的照片，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-6d75afa8cc52",
+    "text": "向她说声你好。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-05255462ca20",
+    "text": "问候送到了，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-6f8dadfb0bb3",
+    "text": "爷爷还在另一张照片里。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-acee6b155759",
+    "text": "再找到爷爷，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-59239ab02f0d",
+    "text": "让照片里的家人团聚。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-83fb6aaffe2e",
+    "text": "爷爷奶奶都到了，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-5778e6150f80",
+    "text": "小熊猫想拍一张温暖合影。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-0c9cac5b8ae7",
+    "text": "妈妈抱着小宝宝，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-1b781cb38f57",
+    "text": "小熊猫还没找到它。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-339d394dddba",
+    "text": "点出小宝宝，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-7eb67d87e0e6",
+    "text": "轻轻向它说声你好。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-e5e88058efd7",
+    "text": "爸爸站好了，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-e00da520d891",
+    "text": "可合影里还没有全家人。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-ddad440bfe7d",
+    "text": "找到全家人的图片，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-b3800895f6c8",
+    "text": "让大家一起进入合影。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-cf8bb0d01cf6",
+    "text": "月饼帮忙拍好了，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-aa7bf80f60c4",
+    "text": "家人的问候留在相册里。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-e704fdd5704b",
+    "text": "月饼，小熊猫打开相册，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-a141420d7a55",
+    "text": "想办一次家人聚会。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-2fe2788373b9",
+    "text": "爸爸准备迎客，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-708b5ce285b7",
+    "text": "妈妈的照片还没有摆好。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-a344e486e909",
+    "text": "先找到妈妈，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-72e0fb1b6822",
+    "text": "让她和小熊猫一起迎接大家。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-537c684bf254",
+    "text": "兄弟姐妹到了，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-380cd726902b",
+    "text": "奶奶还在另一页相册里。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-308656385761",
+    "text": "再请奶奶过来，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-34a2e6530a28",
+    "text": "把温暖的问候送给她。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-19bbc5c5445d",
+    "text": "全家人都见面啦，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-8efd526c2d74",
+    "text": "下次给来做客的人布置小屋。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-3971c6e97a68",
+    "text": "月饼，玩具熊来做客，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-e3de0c714533",
+    "text": "我们给它准备休息角。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-225ffce04cdb",
+    "text": "小宝宝睡着了，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-ddb2546505fe",
+    "text": "玩具熊却还没找到小床。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-174a622357b8",
+    "text": "小床准备好了，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-45a3cdc1f212",
+    "text": "小熊猫想坐在旁边陪它。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-057631a66ef6",
+    "text": "再找出椅子，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-b66849f9e3b4",
+    "text": "给小熊猫安排一个位置。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-e8725087609f",
+    "text": "玩具熊和小熊猫都安顿好了，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-75682e461a83",
+    "text": "明天请家人来。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-ca884ee637de",
+    "text": "爸爸妈妈带苹果来做客，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-addd2ffa2d07",
+    "text": "小熊猫准备迎接。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-8ec6eba905f7",
+    "text": "月饼帮忙迎来了家人，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-ab856e22af21",
+    "text": "小屋里热闹起来。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-7bfaeb741324",
+    "text": "小猫进门做客，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-1394ab352c1a",
+    "text": "想和小熊猫找个舒服的地方。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-aa4c737359e1",
+    "text": "桌边没有小猫，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-3012a43d187c",
+    "text": "它正看着窗外的小鸟。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-2ed351f557f4",
+    "text": "窗外看完了，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-7ba67637a011",
+    "text": "小猫想坐下来听一段故事。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-9e3434aca663",
+    "text": "再找到沙发，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-e87ceb2d2303",
+    "text": "请小猫和小熊猫一起坐好。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-077123b90330",
+    "text": "妈妈坐在沙发边，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-1236460429ca",
+    "text": "想和小熊猫分享一本书。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-2c02b663d377",
+    "text": "小猫想休息，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-b536ab75679b",
+    "text": "小熊猫先帮它找张小床。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-e2a5c688afaa",
+    "text": "苹果和水摆好了，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-97bc877588da",
+    "text": "玩具熊想看看阅读角。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-dbc2365aab7c",
+    "text": "小熊猫拿来盒子，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-fe159b34c985",
+    "text": "可小猫挡住了它。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-fe9b96eac763",
+    "text": "再找到篮子，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-b53e475789df",
+    "text": "把它送到小熊猫身边。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-065ca24f90b9",
+    "text": "收纳工具齐了，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-24a4552d39a5",
+    "text": "小熊猫约你明天玩捉迷藏。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-c3beea44f390",
+    "text": "小熊猫钻进盒子，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-4acc62678a94",
+    "text": "环纹尾巴还露在外面。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-cadaf12f74e7",
+    "text": "箱盖打开啦，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-bfaa10ae7c9e",
+    "text": "小熊猫在里面呢！",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-6b98627c4eec",
+    "text": "小猫也来玩，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-72f1c49bf618",
+    "text": "轻轻跳到了盒子上面。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-ecab608434fe",
+    "text": "听听位置提示，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-07cd1900013c",
+    "text": "找到躲在里面的小熊猫。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-07ff65254d32",
+    "text": "小猫下来，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-d0eb30eb8405",
+    "text": "小熊猫出来，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-364073e1c590",
+    "text": "把熟悉的红球递给你。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-b8ffcc5738e4",
+    "text": "红球又滚走了，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-5ec09b088403",
+    "text": "小熊猫和小猫顺着线索去找。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-2b2a0e677978",
+    "text": "小猫看看桌面，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-b130e3c255a3",
+    "text": "球却躲到桌子下面。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-16ca59b9a89c",
+    "text": "位置找对啦，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-3b64c1b71995",
+    "text": "小熊猫看见它了。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-f18d3b41860d",
+    "text": "月饼两次都找到啦，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-bc56b76936ee",
+    "text": "小熊猫把球抱回身边。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-f67dad09876e",
+    "text": "小兔来借球，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-929ed6e03402",
+    "text": "小熊猫想比较盒子旁边的距离。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-fdd195ab02a6",
+    "text": "一颗球放得近，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-b7a1843728da",
+    "text": "小兔一下子就看见它。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-1835c32050eb",
+    "text": "另一颗球放远了，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-d42a67fb81e5",
+    "text": "小熊猫要慢慢走过去。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-00578f7f5fce",
+    "text": "月饼帮忙分清远近，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-6980fdc4b755",
+    "text": "小兔把球借去一起玩。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-52735e923ffa",
+    "text": "月饼，小猫送来寻找路线，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-2d5a828e11ec",
+    "text": "我们去找红球。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-18e1f91b15b2",
+    "text": "线索指向桌子下面，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-8c36fcb070d4",
+    "text": "小熊猫走过去查看。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-86edb841169d",
+    "text": "月饼，小熊猫打开天气小窗，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-b924312740cc",
+    "text": "想带球去野餐。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-9a937147e358",
+    "text": "窗外有太阳，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-f2397540450a",
+    "text": "小熊猫先看清晴天的样子。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-d3d98a3383ab",
+    "text": "再认出雨天，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-0889bd0c46c1",
+    "text": "提醒小熊猫回屋拿好外套。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-2a8a64efc3b0",
+    "text": "小鸟飞到窗边，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-08af7094ed8e",
+    "text": "小熊猫想看看云和风。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-5a7c28f05bcd",
+    "text": "找到多云的图片，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-41a9122a50c4",
+    "text": "和小熊猫一起看看。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-54ed040612e6",
+    "text": "月饼提醒得及时，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-9cea7962e7a1",
+    "text": "小熊猫和小鸟回屋等风小些。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-d70498d2fc8b",
+    "text": "小熊猫整理天气卡，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-38ac08b3fab4",
+    "text": "还准备了外套和水。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-8f5796d52c0c",
+    "text": "认出热的感觉，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-359c64ccce55",
+    "text": "请小熊猫喝点水歇一会。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-8a1f28c27d03",
+    "text": "另一张卡画着冷天，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-7a7030ecad96",
+    "text": "小熊猫想起自己的外套。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-956e30d84625",
+    "text": "月饼，小熊猫打开旅行相册，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-ef665d67b1a0",
+    "text": "想分享两个发现。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-978c5c24ae41",
+    "text": "小猫想带球出去，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-078ef8c25ab2",
+    "text": "先看看晴天那一页。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-c8b5b4f4d2b6",
+    "text": "月饼，小兔带来篮子，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-b07793de5207",
+    "text": "我们准备朋友日点心。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-b5a0529cc1c7",
+    "text": "小熊猫先要一个苹果，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-e1ebf5f2590d",
+    "text": "别一次拿太多。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-d5a45e381856",
+    "text": "小熊猫数到三个球，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-b78b2768f855",
+    "text": "想请月饼帮忙确认。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-34a3f6cdb675",
+    "text": "找到三个球，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-535015c910cb",
+    "text": "送到小熊猫准备的位置。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-1b2d512b19cc",
+    "text": "再找到四辆汽车，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-86f40fc83be0",
+    "text": "帮小熊猫摆成一排。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-5cee4c4459ac",
+    "text": "小熊猫想给更多朋友准备点心，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-a6e5a969ebeb",
+    "text": "先摆好空盘。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-141aae77f9e5",
+    "text": "找出五个鸡蛋，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-c32487d512e4",
+    "text": "帮小熊猫放到一起。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-967646dd1e11",
+    "text": "第一段小路需要七块积木，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-e08c2bf220a8",
+    "text": "小兔正等着帮忙。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-ee82c7625294",
+    "text": "选出七块积木，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-505ddb75884e",
+    "text": "让小熊猫把这一段铺好。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-d1f1ba9e3cd0",
+    "text": "小熊猫拿起苹果，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-9b45a05f0285",
+    "text": "先为两位朋友各留一份。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-ffa95927dd4c",
+    "text": "月饼，小猫想分享心情，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-d9d6267adb9e",
+    "text": "我们来听听它的故事。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-c49d68cf1750",
+    "text": "认出开心的表情，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-b58dc8bc395d",
+    "text": "和小熊猫一起回应它。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-8e60d79c0030",
+    "text": "球又滚远了，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-73ab6431c487",
+    "text": "小猫有一点难过。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-e454f34681f8",
+    "text": "再认出难过的表情，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-47fdd8eab116",
+    "text": "让小熊猫陪在它身边。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-13b638bab236",
+    "text": "小熊猫把球找回来，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-10654322408e",
+    "text": "也记住了先听朋友的心情。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-6e5cb27ddf03",
+    "text": "小熊来做客，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-35b4f39a30ac",
+    "text": "小熊猫想先问问它需要什么。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-a7b750a17a08",
+    "text": "小熊摸摸肚子，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-1a0715748cec",
+    "text": "原来是肚子饿了。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-87193585b3d3",
+    "text": "认出饿的感觉，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-02e36bb69398",
+    "text": "让小熊猫准备面包。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-cc3a2d5e4f4a",
+    "text": "吃过面包以后，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-1ba793df69f4",
+    "text": "小熊又想喝一点水。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-9286a3bfc318",
+    "text": "再认出口渴的感觉，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-8414d62b888d",
+    "text": "让小熊猫递上水。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-fb7edb970c32",
+    "text": "月饼听懂朋友的需要，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-5946f3c0605a",
+    "text": "小熊开心地说谢谢。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-c29bfbb266c3",
+    "text": "月饼，小熊猫收礼物，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-43890eccec95",
+    "text": "想挑大小合适的盒子。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-f7a67224467c",
+    "text": "大玩具熊在旁边，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-c43afedd62f5",
+    "text": "小盒子装不下它。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-0b0460d33f57",
+    "text": "认出大的盒子，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-b2f511392013",
+    "text": "给玩具熊留一个舒服位置。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-28dc27e27dc1",
+    "text": "玩具熊安顿好了，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-3b5febaa9cdf",
+    "text": "红球只需要小小的盒子。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-398bac85143a",
+    "text": "大小选对啦，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-418c365b3415",
+    "text": "小熊猫准备明天玩汽车游戏。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-a4ade511794c",
+    "text": "小兔带汽车来玩，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-72b4f6bbe68b",
+    "text": "小熊猫想试试不同速度。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-e7cfc02d752b",
+    "text": "它需要的不是球而是食物。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-5a73c3466d59",
+    "text": "请小熊猫准备一点苹果。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-c2334bed0241",
+    "text": "朋友吃好喝好了，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-9a16d404a287",
+    "text": "小猫找回球，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-e610a8f6e6c4",
+    "text": "露出了笑脸。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-336493baaff9",
+    "text": "十二周的小发现连起来了，",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-dfe7f99a4f59",
+    "text": "小熊猫还会陪你重玩。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-2eac31c2c28f",
+    "text": "你好呀，月饼！我是小熊猫，我是月饼的好朋友。今天，我们一起去认识小动物吧！",
+    "lang": "zh"
+  },
+  {
+    "id": "en-69342c5c39e5",
+    "text": "Hello!",
+    "lang": "en"
+  },
+  {
+    "id": "en-8f846145b726",
+    "text": "Goodbye!",
+    "lang": "en"
+  },
+  {
+    "id": "zh-61f52aca9c70",
+    "text": "月饼，你来啦！点一点熟悉的朋友，听听它怎么说。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-857d61c9b3f7",
+    "text": "月饼，小耳朵准备好了吗？图片会跟着声音亮起来，我们一起听三遍，再说一句。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-057365e3fa45",
+    "text": "我们一起看看，故事里发生了什么。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-fc60a0753a71",
+    "text": "月饼，帮我找找吧。先听声音，再点图片。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-6a43b8633dbe",
+    "text": "我们再听一次，一起找找看。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-96930bcd5578",
+    "text": "找到了！谢谢你帮我。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-8fa583f44f59",
+    "text": "轮到月饼啦。先听我说，再点小麦克风，说完就可以听听自己的声音。不想录也可以只跟着说。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-daebcc4e6569",
+    "text": "谢谢月饼愿意试试看。你可以听听自己的声音，也可以再听一遍我的示范。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-2e4ef294786b",
+    "text": "现在抱上你的小熊猫，我们一起到家里找一找、玩一玩吧。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-00a03d2d6d4d",
+    "text": "月饼，今天和你一起玩真开心！送你一张小贴纸。下次我们再一起发现新故事。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-6f0a56569617",
+    "text": "看看字母，再听听熟悉的单词，它们的开头是什么声音呢？",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-d026f9ff9758",
+    "text": "月饼，我准备了一个小发现，想和你一起看看。点点今天的图片吧。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-994ec09e3a4f",
+    "text": "嗨，月饼！抱抱你的小熊猫，今天的故事就要开始啦。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-bacb131710e7",
+    "text": "好朋友见面啦！月饼，我们先听听今天要认识的声音。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-df798738a48d",
+    "text": "月饼，今天想和我一起发现什么呢？点一点图片，听听看。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-c03d9ba2e544",
+    "text": "月饼，今天的图片要轮流说话啦。听三遍，再听一句，喜欢哪个也可以点一下。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-a218302544c3",
+    "text": "我们给图片配上声音。亮起来的是正在说话的朋友，听完一个再换另一个。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-3cfb6919fd88",
+    "text": "小耳朵准备好了吗？我说一遍，你可以听，也可以跟着说。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-6d0eb0797447",
+    "text": "故事要开始啦！月饼，和我一起看看这次的小发现。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-48adef3b1289",
+    "text": "我把今天的发现编成了一个小故事。月饼，来听听吧。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-6e2f0c0e3393",
+    "text": "把小熊猫抱好，我们一起走进今天的故事。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-1259315b3076",
+    "text": "月饼，听听我在找什么。听清楚后，点一下对应的图片。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-a32d688d7e96",
+    "text": "小耳朵来帮忙！先听一个声音，再帮我找到它。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-41c42e64d018",
+    "text": "我们来玩找一找。月饼，听完再点，不着急。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-e572037c6b93",
+    "text": "没关系，我们一起再听清楚一点，然后找一找。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-6853026065db",
+    "text": "再给小耳朵一次机会吧。我再说一遍，你慢慢找。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-6584ab1768d4",
+    "text": "先别着急点，听听这个声音，再看看图片。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-39747ab3115e",
+    "text": "就是这个声音！月饼，谢谢你帮我找到它。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-049a0f3a8665",
+    "text": "找到啦，我们一起完成了这个小任务。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-904c8cabd8b7",
+    "text": "对上啦！和月饼一起找东西真开心。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-01d94b5a481a",
+    "text": "月饼，听听我是怎么说的。想留下自己的声音，就点一下小麦克风，录完再听一听。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-95f2f7806a3f",
+    "text": "我们来轮流说一说。我先说，接下来你也可以录一句，听听自己的声音。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-bd0269a344b7",
+    "text": "小熊猫说完啦，月饼可以跟着说。想听到自己说话，就试试小麦克风吧。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-683c910e9a7c",
+    "text": "谢谢月饼愿意试一试。想再练一遍，我就在这里陪你听。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-5cc3a025119e",
+    "text": "和好朋友一起练习真开心。想听自己的声音，就点一下回放。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-a7ce181a027b",
+    "text": "我们慢慢说，慢慢听，每一次尝试都算数。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-4ad05825dfb4",
+    "text": "月饼，把真实的小熊猫玩偶抱过来吧。我们把今天的小发现带进家里。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-645f16c53d78",
+    "text": "现在换家里的小熊猫来陪你玩！请家长一起看看今天的小任务。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-f8e14388a2ae",
+    "text": "我们离开屏幕玩两分钟。月饼，带上小熊猫，和家人一起试试看。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-fba4beb7e17f",
+    "text": "月饼，我们又一起完成了一次小冒险！这张贴纸送给你，今天就好好休息吧。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-ea6f548fd12f",
+    "text": "今天和月饼一起玩得很开心。收好你的小贴纸，我们下次再见。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-81b488851b2b",
+    "text": "谢谢月饼陪我发现新东西。抱抱你的小熊猫，今天的小故事就到这里啦。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-5ac58ca3a4e9",
+    "text": "接下来，和以前见过的朋友再打个招呼吧。先听听，要找什么呢？",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-677318c29fae",
+    "text": "我们再听两个以前学过的声音。月饼，和我一起找一找吧。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-d4bbe816be74",
+    "text": "现在换熟悉的老朋友出场，听听看，你还认识它吗？",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-4f134d62d79b",
+    "text": "月饼，先抱抱小熊猫，伸伸小手吧。想继续的时候，我们再回到故事里。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-abebc5066185",
+    "text": "小熊猫想歇一小会儿。和我一起动动肩膀，慢慢呼一口气，再选想不想继续玩。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-c432690078ff",
+    "text": "让小耳朵休息一下，看看身边的小东西吧。月饼准备好了，随时可以回来接着玩。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-eb18cc34c43a",
+    "text": "月饼，小熊猫来找你玩啦！你想怎样和我打招呼？",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-5c6243b3ac41",
+    "text": "好呀，我们一起挥挥小手。我也向月饼问声好！",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-5f06152a1166",
+    "text": "那就抱抱你的小熊猫吧。我在这里，陪月饼一起发现新故事。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-f858c6853287",
+    "text": "小熊猫想动一动，月饼想陪我慢慢走，还是拍拍手？",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-d7a22600c059",
+    "text": "我们在家长身边慢慢走几步，再带着小熊猫回到小屋。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-28fc17c3a885",
+    "text": "拍拍手，停一停，再拍拍手。我们的朋友节奏真好玩。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-1ec86bfd02ea",
+    "text": "月饼，接下来你想听小熊猫示范，还是和我轮流说一句？",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-588afb243d91",
+    "text": "好呀，小耳朵先来帮忙。回到图片上，想听哪一个就点哪一个。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-9e3347a15535",
+    "text": "那我们来轮流说。我先示范，月饼想说的时候，就接上自己的声音。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-a9364b75440a",
+    "text": "小熊猫想请月饼当故事里的小伙伴。你想学小鸟飞，还是学小鱼游？",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-8e0e39dd96ab",
+    "text": "伸开小手，轻轻扇一扇。我们的小鸟朋友飞来打招呼啦。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-cfc22396bca6",
+    "text": "把两只小手合起来，轻轻摆一摆。小鱼朋友游过来找我们啦。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-d70af24ee0b7",
+    "text": "月饼，看看身边的小熊猫。现在想给它一个拥抱，还是和它碰一碰小手？",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-c1a535fcb738",
+    "text": "把小熊猫轻轻抱在怀里吧。好朋友就在身边，陪你慢慢玩。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-2d8a55e1cb5b",
+    "text": "伸出你的小手，和玩偶轻轻碰一下。等会儿我们继续一起找声音。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-4c5c9354d292",
+    "text": "小熊猫想陪月饼歇一会儿。你想伸伸手，还是安静听听身边的声音？",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-20ff7b22ca6d",
+    "text": "把小手慢慢伸开，再轻轻放下来。想继续时，我们就回到故事里。",
+    "lang": "zh"
+  },
+  {
+    "id": "zh-570fe611a269",
+    "text": "先安静听一小会儿，看看哪个声音来做客。小熊猫等你准备好再一起玩。",
+    "lang": "zh"
+  }
+]

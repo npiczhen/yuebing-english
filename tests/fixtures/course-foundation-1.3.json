@@ -1,0 +1,3319 @@
+{
+  "version": "1.3.0",
+  "vocabulary": [
+    {
+      "id": "cat",
+      "zh": "小猫",
+      "phrase": "It’s a cat.",
+      "audio": "en-9d989e8d27dc",
+      "phraseAudio": "en-574418bfeaac",
+      "questionAudio": "en-9f7bc1da2fc4",
+      "image": "assets/cat.svg"
+    },
+    {
+      "id": "dog",
+      "zh": "小狗",
+      "phrase": "It’s a dog.",
+      "audio": "en-e49512524f47",
+      "phraseAudio": "en-e2b985a0432d",
+      "questionAudio": "en-93a86c911a0e",
+      "image": "assets/dog.svg"
+    },
+    {
+      "id": "bird",
+      "zh": "小鸟",
+      "phrase": "It’s a bird.",
+      "audio": "en-cd92815bf627",
+      "phraseAudio": "en-100a6392114e",
+      "questionAudio": "en-a4ffd77a273c",
+      "image": "assets/bird.svg"
+    },
+    {
+      "id": "fish",
+      "zh": "小鱼",
+      "phrase": "It’s a fish.",
+      "audio": "en-64875fcccaac",
+      "phraseAudio": "en-f8cc78a408f2",
+      "questionAudio": "en-b736b012cc1f",
+      "image": "assets/fish.svg"
+    },
+    {
+      "id": "bear",
+      "zh": "小熊",
+      "phrase": "It’s a bear.",
+      "audio": "en-09f5edeb4f5b",
+      "phraseAudio": "en-92a894f139e5",
+      "questionAudio": "en-cc8ffe7b4d27",
+      "image": "assets/bear.svg"
+    },
+    {
+      "id": "rabbit",
+      "zh": "小兔",
+      "phrase": "It’s a rabbit.",
+      "audio": "en-6d0ebbbdce32",
+      "phraseAudio": "en-73816178f69d",
+      "questionAudio": "en-8a8e11698bd4",
+      "image": "assets/rabbit.svg"
+    },
+    {
+      "id": "duck",
+      "zh": "小鸭",
+      "phrase": "It’s a duck.",
+      "audio": "en-5ece240085b9",
+      "phraseAudio": "en-d10d301cb212",
+      "questionAudio": "en-d0722e54824c",
+      "image": "assets/duck.svg"
+    },
+    {
+      "id": "frog",
+      "zh": "青蛙",
+      "phrase": "It’s a frog.",
+      "audio": "en-b3e0f62fa104",
+      "phraseAudio": "en-8907a6e9d86a",
+      "questionAudio": "en-0ff09d64855b",
+      "image": "assets/frog.svg"
+    },
+    {
+      "id": "red",
+      "zh": "红色",
+      "phrase": "It’s red.",
+      "audio": "en-78988010b890",
+      "phraseAudio": "en-754b3234605d",
+      "questionAudio": "en-ac7e2e0c8fc6",
+      "image": "assets/red.svg"
+    },
+    {
+      "id": "blue",
+      "zh": "蓝色",
+      "phrase": "It’s blue.",
+      "audio": "en-4c9a82ce72ca",
+      "phraseAudio": "en-18dea0352329",
+      "questionAudio": "en-ea61e061249a",
+      "image": "assets/blue.svg"
+    },
+    {
+      "id": "yellow",
+      "zh": "黄色",
+      "phrase": "It’s yellow.",
+      "audio": "en-96de5543d183",
+      "phraseAudio": "en-ea41415bc0fe",
+      "questionAudio": "en-10d09a82e866",
+      "image": "assets/yellow.svg"
+    },
+    {
+      "id": "green",
+      "zh": "绿色",
+      "phrase": "It’s green.",
+      "audio": "en-bc74f4f071a5",
+      "phraseAudio": "en-5dd5e5489bd1",
+      "questionAudio": "en-15c6681fe478",
+      "image": "assets/green.svg"
+    },
+    {
+      "id": "ball",
+      "zh": "球",
+      "phrase": "It’s a ball.",
+      "audio": "en-8bec0406497c",
+      "phraseAudio": "en-89430cb4c777",
+      "questionAudio": "en-c5d0c17249ed",
+      "image": "assets/ball.svg"
+    },
+    {
+      "id": "car",
+      "zh": "小汽车",
+      "phrase": "It’s a car.",
+      "audio": "en-9e32521dd2f8",
+      "phraseAudio": "en-46c2d43de4cd",
+      "questionAudio": "en-e0d05ecb6b6d",
+      "image": "assets/car.svg"
+    },
+    {
+      "id": "teddy",
+      "zh": "玩具熊",
+      "phrase": "It’s a teddy.",
+      "audio": "en-8e2534119027",
+      "phraseAudio": "en-f9626dcb336a",
+      "questionAudio": "en-0241bfe48036",
+      "image": "assets/teddy.svg"
+    },
+    {
+      "id": "blocks",
+      "zh": "积木",
+      "phrase": "Look! Blocks.",
+      "audio": "en-f7d5b2b95861",
+      "phraseAudio": "en-567aad37b788",
+      "questionAudio": "en-8c38aca872dc",
+      "image": "assets/blocks.svg"
+    },
+    {
+      "id": "apple",
+      "zh": "苹果",
+      "phrase": "I like apples.",
+      "audio": "en-d0be2dc421be",
+      "phraseAudio": "en-a3c705681bab",
+      "questionAudio": "en-3eb02af08603",
+      "image": "assets/apple.svg"
+    },
+    {
+      "id": "banana",
+      "zh": "香蕉",
+      "phrase": "I like bananas.",
+      "audio": "en-250e77f12a5a",
+      "phraseAudio": "en-2a28852d0f3d",
+      "questionAudio": "en-d629276272bc",
+      "image": "assets/banana.svg"
+    },
+    {
+      "id": "milk",
+      "zh": "牛奶",
+      "phrase": "I want milk.",
+      "audio": "en-cf5dbf0ec57d",
+      "phraseAudio": "en-a5821cbde08e",
+      "questionAudio": "en-067086c94711",
+      "image": "assets/milk.svg"
+    },
+    {
+      "id": "water",
+      "zh": "水",
+      "phrase": "I want water.",
+      "audio": "en-6d5a45920a15",
+      "phraseAudio": "en-941a95b013ed",
+      "questionAudio": "en-58d083e060e8",
+      "image": "assets/water.svg"
+    },
+    {
+      "id": "bread",
+      "zh": "面包",
+      "phrase": "I like bread.",
+      "audio": "en-6ff291d8175b",
+      "phraseAudio": "en-cff2329f618d",
+      "questionAudio": "en-5cbbcbbb0687",
+      "image": "assets/bread.svg"
+    },
+    {
+      "id": "egg",
+      "zh": "鸡蛋",
+      "phrase": "I like eggs.",
+      "audio": "en-4fa6024f1249",
+      "phraseAudio": "en-dd60ece1bbe6",
+      "questionAudio": "en-b3c470c588d6",
+      "image": "assets/egg.svg"
+    },
+    {
+      "id": "orange",
+      "zh": "橙子",
+      "phrase": "I like oranges.",
+      "audio": "en-ef0ebbb77298",
+      "phraseAudio": "en-2976d3e6de13",
+      "questionAudio": "en-c7b476f4c438",
+      "image": "assets/orange.svg"
+    },
+    {
+      "id": "rice",
+      "zh": "米饭",
+      "phrase": "I like rice.",
+      "audio": "en-6939278d66e3",
+      "phraseAudio": "en-1723bcde3d28",
+      "questionAudio": "en-0df38933d823",
+      "image": "assets/rice.svg"
+    },
+    {
+      "id": "jump",
+      "zh": "跳",
+      "phrase": "I can jump.",
+      "audio": "en-271e9a568c0e",
+      "phraseAudio": "en-7c868bb59cbd",
+      "questionAudio": "en-1ef01ac0ff32",
+      "image": "assets/jump.svg"
+    },
+    {
+      "id": "run",
+      "zh": "跑",
+      "phrase": "I can run.",
+      "audio": "en-df6ad19037c9",
+      "phraseAudio": "en-bf708d74f2aa",
+      "questionAudio": "en-10c570b627b4",
+      "image": "assets/run.svg"
+    },
+    {
+      "id": "walk",
+      "zh": "走",
+      "phrase": "I can walk.",
+      "audio": "en-df06b147f778",
+      "phraseAudio": "en-0cbb1db53e02",
+      "questionAudio": "en-53370c56a71b",
+      "image": "assets/walk.svg"
+    },
+    {
+      "id": "stop",
+      "zh": "停",
+      "phrase": "Stop!",
+      "audio": "en-1b480158e1f3",
+      "phraseAudio": "en-808022c59d79",
+      "questionAudio": "en-6d13e37b2e2e",
+      "image": "assets/stop.svg"
+    },
+    {
+      "id": "clap",
+      "zh": "拍手",
+      "phrase": "I can clap.",
+      "audio": "en-c19ab8d3c2c9",
+      "phraseAudio": "en-4dc87550cba9",
+      "questionAudio": "en-eb2fe2026491",
+      "image": "assets/clap.svg"
+    },
+    {
+      "id": "wave",
+      "zh": "挥手",
+      "phrase": "I can wave.",
+      "audio": "en-d7ce74466d54",
+      "phraseAudio": "en-4f6cef6b27a2",
+      "questionAudio": "en-b202c054da51",
+      "image": "assets/wave.svg"
+    },
+    {
+      "id": "sit",
+      "zh": "坐下",
+      "phrase": "Sit down.",
+      "audio": "en-abdcde66d68b",
+      "phraseAudio": "en-2901bcc068c3",
+      "questionAudio": "en-89bcbaf1049c",
+      "image": "assets/sit.svg"
+    },
+    {
+      "id": "stand",
+      "zh": "站起来",
+      "phrase": "Stand up.",
+      "audio": "en-569ebdc2fb50",
+      "phraseAudio": "en-7f88b7247b30",
+      "questionAudio": "en-d4ae990000dd",
+      "image": "assets/stand.svg"
+    },
+    {
+      "id": "head",
+      "zh": "头",
+      "phrase": "Touch your head.",
+      "audio": "en-1a954628a960",
+      "phraseAudio": "en-21abbb74c8e7",
+      "questionAudio": "en-3941acc32ebf",
+      "image": "assets/head.svg"
+    },
+    {
+      "id": "hand",
+      "zh": "手",
+      "phrase": "Wave your hand.",
+      "audio": "en-9621a244a447",
+      "phraseAudio": "en-9b1496a738b7",
+      "questionAudio": "en-e1644a8a9c78",
+      "image": "assets/hand.svg"
+    },
+    {
+      "id": "eye",
+      "zh": "眼睛",
+      "phrase": "This is my eye.",
+      "audio": "en-79df4b171812",
+      "phraseAudio": "en-40641d4332ae",
+      "questionAudio": "en-729faa9da493",
+      "image": "assets/eye.svg"
+    },
+    {
+      "id": "ear",
+      "zh": "耳朵",
+      "phrase": "This is my ear.",
+      "audio": "en-ddbc6188203d",
+      "phraseAudio": "en-95db3b226adb",
+      "questionAudio": "en-a8186e15cf04",
+      "image": "assets/ear.svg"
+    },
+    {
+      "id": "nose",
+      "zh": "鼻子",
+      "phrase": "Touch your nose.",
+      "audio": "en-1a1f58c9adc7",
+      "phraseAudio": "en-acde7f30d27d",
+      "questionAudio": "en-8018bef5667c",
+      "image": "assets/nose.svg"
+    },
+    {
+      "id": "mouth",
+      "zh": "嘴巴",
+      "phrase": "This is my mouth.",
+      "audio": "en-87d17825792d",
+      "phraseAudio": "en-ce7acae085a4",
+      "questionAudio": "en-04ac2b7cc4a7",
+      "image": "assets/mouth.svg"
+    },
+    {
+      "id": "arm",
+      "zh": "手臂",
+      "phrase": "Touch your arm.",
+      "audio": "en-ed945d6b996f",
+      "phraseAudio": "en-c8d60c1aa893",
+      "questionAudio": "en-94c68026356b",
+      "image": "assets/arm.svg"
+    },
+    {
+      "id": "leg",
+      "zh": "腿",
+      "phrase": "Touch your leg.",
+      "audio": "en-321d6cc5177a",
+      "phraseAudio": "en-05bacf63d320",
+      "questionAudio": "en-1624b202ca48",
+      "image": "assets/leg.svg"
+    },
+    {
+      "id": "hat",
+      "zh": "帽子",
+      "phrase": "Put on your hat.",
+      "audio": "en-10e5866050d2",
+      "phraseAudio": "en-b56a42859f0a",
+      "questionAudio": "en-b72be1640b82",
+      "image": "assets/hat.svg"
+    },
+    {
+      "id": "shoes",
+      "zh": "鞋子",
+      "phrase": "These are my shoes.",
+      "audio": "en-19f319efbd6d",
+      "phraseAudio": "en-9ca753c34fbe",
+      "questionAudio": "en-6be6936b4242",
+      "image": "assets/shoes.svg"
+    },
+    {
+      "id": "shirt",
+      "zh": "上衣",
+      "phrase": "This is my shirt.",
+      "audio": "en-faa5d6830269",
+      "phraseAudio": "en-62921f26feaa",
+      "questionAudio": "en-a23b641abe83",
+      "image": "assets/shirt.svg"
+    },
+    {
+      "id": "pants",
+      "zh": "裤子",
+      "phrase": "These are my pants.",
+      "audio": "en-e65aace92378",
+      "phraseAudio": "en-2cf06a73cd72",
+      "questionAudio": "en-d788610772d4",
+      "image": "assets/pants.svg"
+    },
+    {
+      "id": "dress",
+      "zh": "连衣裙",
+      "phrase": "This is a dress.",
+      "audio": "en-9dbfbe4709d4",
+      "phraseAudio": "en-403348d45892",
+      "questionAudio": "en-1b518350a7c6",
+      "image": "assets/dress.svg"
+    },
+    {
+      "id": "socks",
+      "zh": "袜子",
+      "phrase": "These are my socks.",
+      "audio": "en-c9da8a6b0810",
+      "phraseAudio": "en-97d7677cc305",
+      "questionAudio": "en-0f4d8f4ebe8c",
+      "image": "assets/socks.svg"
+    },
+    {
+      "id": "coat",
+      "zh": "外套",
+      "phrase": "Put on your coat.",
+      "audio": "en-09d5f620386e",
+      "phraseAudio": "en-3e4bcc898441",
+      "questionAudio": "en-65c3260083ac",
+      "image": "assets/coat.svg"
+    },
+    {
+      "id": "skirt",
+      "zh": "裙子",
+      "phrase": "This is a skirt.",
+      "audio": "en-158b1ce851a7",
+      "phraseAudio": "en-5b51f5b9a0e1",
+      "questionAudio": "en-bf565825a4c6",
+      "image": "assets/skirt.svg"
+    },
+    {
+      "id": "mom",
+      "zh": "妈妈",
+      "phrase": "This is my mom.",
+      "audio": "en-e5e0213249cd",
+      "phraseAudio": "en-f4d21e06746e",
+      "questionAudio": "en-d5999aaa9ee6",
+      "image": "assets/mom.svg"
+    },
+    {
+      "id": "dad",
+      "zh": "爸爸",
+      "phrase": "This is my dad.",
+      "audio": "en-0da19b540f7c",
+      "phraseAudio": "en-037c4c751ae0",
+      "questionAudio": "en-1d4e4fbf6e67",
+      "image": "assets/dad.svg"
+    },
+    {
+      "id": "sister",
+      "zh": "姐妹",
+      "phrase": "This is my sister.",
+      "audio": "en-1dd09baa19dc",
+      "phraseAudio": "en-34e8e51aac20",
+      "questionAudio": "en-10366e56d9bd",
+      "image": "assets/sister.svg"
+    },
+    {
+      "id": "brother",
+      "zh": "兄弟",
+      "phrase": "This is my brother.",
+      "audio": "en-d67cca5aaed6",
+      "phraseAudio": "en-efebb02c8b8f",
+      "questionAudio": "en-d881801ebc48",
+      "image": "assets/brother.svg"
+    },
+    {
+      "id": "grandma",
+      "zh": "奶奶或外婆",
+      "phrase": "This is my grandma.",
+      "audio": "en-88ebe8bf7816",
+      "phraseAudio": "en-be4824419145",
+      "questionAudio": "en-d97eac4e87ee",
+      "image": "assets/grandma.svg"
+    },
+    {
+      "id": "grandpa",
+      "zh": "爷爷或外公",
+      "phrase": "This is my grandpa.",
+      "audio": "en-7f136523a96b",
+      "phraseAudio": "en-3a50feec57e6",
+      "questionAudio": "en-b160dec37087",
+      "image": "assets/grandpa.svg"
+    },
+    {
+      "id": "baby",
+      "zh": "小宝宝",
+      "phrase": "Hello, baby!",
+      "audio": "en-6cf34755b9de",
+      "phraseAudio": "en-58fcb0a07192",
+      "questionAudio": "en-1d7cb70af0ec",
+      "image": "assets/baby.svg"
+    },
+    {
+      "id": "family",
+      "zh": "家人",
+      "phrase": "This is my family.",
+      "audio": "en-c33f059b0ca7",
+      "phraseAudio": "en-efd1c8648e96",
+      "questionAudio": "en-6ea718febb3e",
+      "image": "assets/family.svg"
+    },
+    {
+      "id": "bed",
+      "zh": "床",
+      "phrase": "This is my bed.",
+      "audio": "en-fefe2393a7fc",
+      "phraseAudio": "en-e2092110f95b",
+      "questionAudio": "en-eed892504867",
+      "image": "assets/bed.svg"
+    },
+    {
+      "id": "chair",
+      "zh": "椅子",
+      "phrase": "Sit on the chair.",
+      "audio": "en-851e13a65333",
+      "phraseAudio": "en-849b608c1e5c",
+      "questionAudio": "en-cee1d58df64e",
+      "image": "assets/chair.svg"
+    },
+    {
+      "id": "table",
+      "zh": "桌子",
+      "phrase": "This is a table.",
+      "audio": "en-c3ee137d4f22",
+      "phraseAudio": "en-960654364914",
+      "questionAudio": "en-051cfd99f614",
+      "image": "assets/table.svg"
+    },
+    {
+      "id": "door",
+      "zh": "门",
+      "phrase": "Open the door.",
+      "audio": "en-2680b6746cf8",
+      "phraseAudio": "en-6cc1f0c23f9b",
+      "questionAudio": "en-031dec91954b",
+      "image": "assets/door.svg"
+    },
+    {
+      "id": "window",
+      "zh": "窗户",
+      "phrase": "Look at the window.",
+      "audio": "en-320ad267d8d9",
+      "phraseAudio": "en-09022a001707",
+      "questionAudio": "en-b39380f4826e",
+      "image": "assets/window.svg"
+    },
+    {
+      "id": "sofa",
+      "zh": "沙发",
+      "phrase": "Sit on the sofa.",
+      "audio": "en-68e0dce54a9e",
+      "phraseAudio": "en-05b0d60c5062",
+      "questionAudio": "en-b12fedd35ea0",
+      "image": "assets/sofa.svg"
+    },
+    {
+      "id": "lamp",
+      "zh": "台灯",
+      "phrase": "This is a lamp.",
+      "audio": "en-bc4edcce8a85",
+      "phraseAudio": "en-8c988fd55adf",
+      "questionAudio": "en-0e257d89d3cc",
+      "image": "assets/lamp.svg"
+    },
+    {
+      "id": "book",
+      "zh": "书",
+      "phrase": "Open the book.",
+      "audio": "en-e7e694c58cd5",
+      "phraseAudio": "en-a49e8338ccd9",
+      "questionAudio": "en-3983604f9db9",
+      "image": "assets/book.svg"
+    },
+    {
+      "id": "box",
+      "zh": "盒子",
+      "phrase": "This is a box.",
+      "audio": "en-c7d8a6d722a1",
+      "phraseAudio": "en-3861b60043e5",
+      "questionAudio": "en-92abbe96d52b",
+      "image": "assets/box.svg"
+    },
+    {
+      "id": "basket",
+      "zh": "篮子",
+      "phrase": "This is a basket.",
+      "audio": "en-c9be014f81ae",
+      "phraseAudio": "en-b8e281828879",
+      "questionAudio": "en-11cbd762c0f6",
+      "image": "assets/basket.svg"
+    },
+    {
+      "id": "in",
+      "zh": "在里面",
+      "phrase": "In the box.",
+      "audio": "en-af10ef20dd90",
+      "phraseAudio": "en-54b8cda69095",
+      "questionAudio": "en-54b8cda69095",
+      "image": "assets/in.svg"
+    },
+    {
+      "id": "on",
+      "zh": "在上面",
+      "phrase": "On the box.",
+      "audio": "en-db3d405b1067",
+      "phraseAudio": "en-9c632f3c6670",
+      "questionAudio": "en-9c632f3c6670",
+      "image": "assets/on.svg"
+    },
+    {
+      "id": "under",
+      "zh": "在下面",
+      "phrase": "Under the table.",
+      "audio": "en-dad64cc6f975",
+      "phraseAudio": "en-e9dd26613ccc",
+      "questionAudio": "en-e9dd26613ccc",
+      "image": "assets/under.svg"
+    },
+    {
+      "id": "behind",
+      "zh": "在后面",
+      "phrase": "Behind the box.",
+      "audio": "en-fb6dbd81382d",
+      "phraseAudio": "en-db838c74fde4",
+      "questionAudio": "en-db838c74fde4",
+      "image": "assets/behind.svg"
+    },
+    {
+      "id": "near",
+      "zh": "在近处",
+      "phrase": "Near the box.",
+      "audio": "en-d8c46683a8f9",
+      "phraseAudio": "en-169dc390a0be",
+      "questionAudio": "en-169dc390a0be",
+      "image": "assets/near.svg"
+    },
+    {
+      "id": "far",
+      "zh": "在远处",
+      "phrase": "Far from the box.",
+      "audio": "en-70b2db8ae957",
+      "phraseAudio": "en-ae042608f30c",
+      "questionAudio": "en-ae042608f30c",
+      "image": "assets/far.svg"
+    },
+    {
+      "id": "sunny",
+      "zh": "晴朗的",
+      "phrase": "It’s sunny.",
+      "audio": "en-b892f067921d",
+      "phraseAudio": "en-bc88ea32638b",
+      "questionAudio": "en-f8a07adb882d",
+      "image": "assets/sunny.svg"
+    },
+    {
+      "id": "rainy",
+      "zh": "下雨的",
+      "phrase": "It’s rainy.",
+      "audio": "en-14beca199c7f",
+      "phraseAudio": "en-a9ebeb0f099a",
+      "questionAudio": "en-1d20b7f6b99c",
+      "image": "assets/rainy.svg"
+    },
+    {
+      "id": "cloudy",
+      "zh": "多云的",
+      "phrase": "It’s cloudy.",
+      "audio": "en-5a53260b3d6e",
+      "phraseAudio": "en-97235adbf5a4",
+      "questionAudio": "en-3d6f01b64f61",
+      "image": "assets/cloudy.svg"
+    },
+    {
+      "id": "windy",
+      "zh": "有风的",
+      "phrase": "It’s windy.",
+      "audio": "en-45bf01a821bc",
+      "phraseAudio": "en-b3b578a429a5",
+      "questionAudio": "en-62eb2b251d4f",
+      "image": "assets/windy.svg"
+    },
+    {
+      "id": "hot",
+      "zh": "热的",
+      "phrase": "It’s hot.",
+      "audio": "en-4bd8eddacb60",
+      "phraseAudio": "en-b59f01cbcb9d",
+      "questionAudio": "en-8fe7bdf7cc56",
+      "image": "assets/hot.svg"
+    },
+    {
+      "id": "cold",
+      "zh": "冷的",
+      "phrase": "It’s cold.",
+      "audio": "en-424fa43965bd",
+      "phraseAudio": "en-6b662ca1cde6",
+      "questionAudio": "en-57f16684fac9",
+      "image": "assets/cold.svg"
+    },
+    {
+      "id": "snowy",
+      "zh": "下雪的",
+      "phrase": "It’s snowy.",
+      "audio": "en-50de10bbeafd",
+      "phraseAudio": "en-ca0f71eb53fc",
+      "questionAudio": "en-9065b22626df",
+      "image": "assets/snowy.svg"
+    },
+    {
+      "id": "rainbow",
+      "zh": "彩虹",
+      "phrase": "Look! A rainbow.",
+      "audio": "en-f1eb08c4e3f8",
+      "phraseAudio": "en-398a5d53a281",
+      "questionAudio": "en-2ee635507c03",
+      "image": "assets/rainbow.svg"
+    }
+  ],
+  "lessons": [
+    {
+      "id": "w1-d1",
+      "title": "谁躲在花园里",
+      "week": 1,
+      "day": 1,
+      "theme": "forest",
+      "words": [
+        "cat",
+        "dog"
+      ],
+      "newWords": [
+        "cat",
+        "dog"
+      ],
+      "intro": "月饼，我发现草丛动了动，原来是两位新朋友。今天和我一起玩吧。",
+      "task": "抱着小熊猫玩偶，找找绘本里的小猫和小狗。",
+      "frames": [
+        {
+          "word": "cat",
+          "text": "Look! A cat.",
+          "caption": "小熊猫发现草丛动了动，原来是两位新朋友。",
+          "audio": "en-a494ea71b1e4"
+        },
+        {
+          "word": "cat",
+          "text": "Hello, cat!",
+          "caption": "月饼，听听小熊猫怎么说",
+          "audio": "en-3b2951a0617f"
+        },
+        {
+          "word": "dog",
+          "text": "Look! A dog.",
+          "caption": "故事里又出现了新发现",
+          "audio": "en-023be05cd8c2"
+        },
+        {
+          "word": "dog",
+          "text": "Hello, dog!",
+          "caption": "一起帮小熊猫完成今天的小任务",
+          "audio": "en-5d3246a43bf4"
+        }
+      ]
+    },
+    {
+      "id": "w1-d2",
+      "title": "池塘边的新朋友",
+      "week": 1,
+      "day": 2,
+      "theme": "forest",
+      "words": [
+        "bird",
+        "fish"
+      ],
+      "newWords": [
+        "bird",
+        "fish"
+      ],
+      "intro": "月饼，我抬头看看天空，又低头看看池塘。今天和我一起玩吧。",
+      "task": "和玩偶一起做小鸟飞、小鱼游的动作。",
+      "frames": [
+        {
+          "word": "bird",
+          "text": "Look! A bird.",
+          "caption": "小熊猫抬头看看天空，又低头看看池塘。",
+          "audio": "en-0eae77eee2af"
+        },
+        {
+          "word": "bird",
+          "text": "Hello, bird!",
+          "caption": "月饼，听听小熊猫怎么说",
+          "audio": "en-93c69efb4f0c"
+        },
+        {
+          "word": "fish",
+          "text": "Look! A fish.",
+          "caption": "故事里又出现了新发现",
+          "audio": "en-6801be893312"
+        },
+        {
+          "word": "fish",
+          "text": "Hello, fish!",
+          "caption": "一起帮小熊猫完成今天的小任务",
+          "audio": "en-ec57cdc3fc5c"
+        }
+      ]
+    },
+    {
+      "id": "w1-d3",
+      "title": "森林里的捉迷藏",
+      "week": 1,
+      "day": 3,
+      "theme": "forest",
+      "words": [
+        "bear",
+        "rabbit"
+      ],
+      "newWords": [
+        "bear",
+        "rabbit"
+      ],
+      "intro": "月饼，树后和花丛中，藏着两位害羞的朋友。今天和我一起玩吧。",
+      "task": "把玩偶藏起来，一起说 Hello，再把它找出来。",
+      "frames": [
+        {
+          "word": "bear",
+          "text": "A bear!",
+          "caption": "树后和花丛中，藏着两位害羞的朋友。",
+          "audio": "en-e11f38c72758"
+        },
+        {
+          "word": "bear",
+          "text": "Hello, bear!",
+          "caption": "月饼，听听小熊猫怎么说",
+          "audio": "en-71954fe04fd3"
+        },
+        {
+          "word": "rabbit",
+          "text": "A rabbit!",
+          "caption": "故事里又出现了新发现",
+          "audio": "en-e2b4b17dcbb6"
+        },
+        {
+          "word": "rabbit",
+          "text": "Hello, rabbit!",
+          "caption": "一起帮小熊猫完成今天的小任务",
+          "audio": "en-cc1ae0580c71"
+        }
+      ]
+    },
+    {
+      "id": "w1-d4",
+      "title": "池塘音乐会",
+      "week": 1,
+      "day": 4,
+      "theme": "forest",
+      "words": [
+        "duck",
+        "frog"
+      ],
+      "newWords": [
+        "duck",
+        "frog"
+      ],
+      "intro": "月饼，小鸭和青蛙来到池塘边，准备一起打招呼。今天和我一起玩吧。",
+      "task": "抱着玩偶，学小鸭摇摆，再学青蛙跳一跳。",
+      "frames": [
+        {
+          "word": "duck",
+          "text": "Look! A duck.",
+          "caption": "小鸭和青蛙来到池塘边，准备一起打招呼。",
+          "audio": "en-f2657e36bbac"
+        },
+        {
+          "word": "duck",
+          "text": "Hello, duck!",
+          "caption": "月饼，听听小熊猫怎么说",
+          "audio": "en-eefbeb28c973"
+        },
+        {
+          "word": "frog",
+          "text": "Look! A frog.",
+          "caption": "故事里又出现了新发现",
+          "audio": "en-293fa75f6d25"
+        },
+        {
+          "word": "frog",
+          "text": "Hello, frog!",
+          "caption": "一起帮小熊猫完成今天的小任务",
+          "audio": "en-02e07a0b6bee"
+        }
+      ]
+    },
+    {
+      "id": "w1-d5",
+      "title": "森林朋友来聚会",
+      "week": 1,
+      "day": 5,
+      "theme": "forest",
+      "words": [
+        "cat",
+        "dog",
+        "bird",
+        "fish",
+        "bear",
+        "rabbit",
+        "duck",
+        "frog"
+      ],
+      "newWords": [],
+      "intro": "月饼，我是你的好朋友小熊猫。今天我们把这周的故事再玩一遍吧。",
+      "task": "抱着小熊猫玩偶，给家人指认两位你喜欢的动物朋友。",
+      "frames": [
+        {
+          "word": "cat",
+          "text": "It’s a cat.",
+          "caption": "朋友们又见面啦",
+          "audio": "en-574418bfeaac"
+        },
+        {
+          "word": "bird",
+          "text": "It’s a bird.",
+          "caption": "你还记得它吗",
+          "audio": "en-100a6392114e"
+        },
+        {
+          "word": "bear",
+          "text": "It’s a bear.",
+          "caption": "把熟悉的声音找出来",
+          "audio": "en-92a894f139e5"
+        },
+        {
+          "word": "duck",
+          "text": "It’s a duck.",
+          "caption": "和月饼一起再说一次",
+          "audio": "en-d10d301cb212"
+        }
+      ]
+    },
+    {
+      "id": "w2-d1",
+      "title": "小熊猫的两盒彩笔",
+      "week": 2,
+      "day": 1,
+      "theme": "playroom",
+      "words": [
+        "red",
+        "blue"
+      ],
+      "newWords": [
+        "red",
+        "blue"
+      ],
+      "intro": "月饼，我想给朋友画一幅画，先找两种颜色。今天和我一起玩吧。",
+      "task": "带玩偶找一个红色东西和一个蓝色东西。",
+      "frames": [
+        {
+          "word": "red",
+          "text": "Look! Red.",
+          "caption": "小熊猫想给朋友画一幅画，先找两种颜色。",
+          "audio": "en-f180022daad5"
+        },
+        {
+          "word": "red",
+          "text": "It’s red.",
+          "caption": "月饼，听听小熊猫怎么说",
+          "audio": "en-754b3234605d"
+        },
+        {
+          "word": "blue",
+          "text": "Look! Blue.",
+          "caption": "故事里又出现了新发现",
+          "audio": "en-5240428655d0"
+        },
+        {
+          "word": "blue",
+          "text": "It’s blue.",
+          "caption": "一起帮小熊猫完成今天的小任务",
+          "audio": "en-18dea0352329"
+        }
+      ]
+    },
+    {
+      "id": "w2-d2",
+      "title": "花园换上新颜色",
+      "week": 2,
+      "day": 2,
+      "theme": "playroom",
+      "words": [
+        "yellow",
+        "green"
+      ],
+      "newWords": [
+        "yellow",
+        "green"
+      ],
+      "intro": "月饼，太阳照着花园，我给小花和叶子找颜色。今天和我一起玩吧。",
+      "task": "抱着玩偶看看家里的黄色和绿色物品。",
+      "frames": [
+        {
+          "word": "yellow",
+          "text": "Look! Yellow.",
+          "caption": "太阳照着花园，小熊猫给小花和叶子找颜色。",
+          "audio": "en-a6bfd0357565"
+        },
+        {
+          "word": "yellow",
+          "text": "It’s yellow.",
+          "caption": "月饼，听听小熊猫怎么说",
+          "audio": "en-ea41415bc0fe"
+        },
+        {
+          "word": "green",
+          "text": "Look! Green.",
+          "caption": "故事里又出现了新发现",
+          "audio": "en-483337d02345"
+        },
+        {
+          "word": "green",
+          "text": "It’s green.",
+          "caption": "一起帮小熊猫完成今天的小任务",
+          "audio": "en-5dd5e5489bd1"
+        }
+      ]
+    },
+    {
+      "id": "w2-d3",
+      "title": "玩具送到朋友家",
+      "week": 2,
+      "day": 3,
+      "theme": "playroom",
+      "words": [
+        "ball",
+        "car"
+      ],
+      "newWords": [
+        "ball",
+        "car"
+      ],
+      "intro": "月饼，我带上球和小汽车，去找你一起玩。今天和我一起玩吧。",
+      "task": "和玩偶一起滚一滚球，或者推一推小汽车。",
+      "frames": [
+        {
+          "word": "ball",
+          "text": "Look! A ball.",
+          "caption": "小熊猫带上球和小汽车，去找月饼一起玩。",
+          "audio": "en-fee8561844ad"
+        },
+        {
+          "word": "ball",
+          "text": "It’s a ball.",
+          "caption": "月饼，听听小熊猫怎么说",
+          "audio": "en-89430cb4c777"
+        },
+        {
+          "word": "car",
+          "text": "Look! A car.",
+          "caption": "故事里又出现了新发现",
+          "audio": "en-3e8ae94b6fdb"
+        },
+        {
+          "word": "car",
+          "text": "It’s a car.",
+          "caption": "一起帮小熊猫完成今天的小任务",
+          "audio": "en-46c2d43de4cd"
+        }
+      ]
+    },
+    {
+      "id": "w2-d4",
+      "title": "一起搭一个小家",
+      "week": 2,
+      "day": 4,
+      "theme": "playroom",
+      "words": [
+        "teddy",
+        "blocks"
+      ],
+      "newWords": [
+        "teddy",
+        "blocks"
+      ],
+      "intro": "月饼，我拿来积木，给玩具熊搭一个温暖的小家。今天和我一起玩吧。",
+      "task": "带着玩偶搭两块积木，或给它找一个舒服的位置。",
+      "frames": [
+        {
+          "word": "teddy",
+          "text": "Look! A teddy.",
+          "caption": "小熊猫拿来积木，给玩具熊搭一个温暖的小家。",
+          "audio": "en-1f45fb188422"
+        },
+        {
+          "word": "teddy",
+          "text": "It’s a teddy.",
+          "caption": "月饼，听听小熊猫怎么说",
+          "audio": "en-f9626dcb336a"
+        },
+        {
+          "word": "blocks",
+          "text": "Look! Blocks.",
+          "caption": "故事里又出现了新发现",
+          "audio": "en-567aad37b788"
+        },
+        {
+          "word": "blocks",
+          "text": "Blocks!",
+          "caption": "一起帮小熊猫完成今天的小任务",
+          "audio": "en-d0d42d2baa7a"
+        }
+      ]
+    },
+    {
+      "id": "w2-d5",
+      "title": "玩具整理小帮手",
+      "week": 2,
+      "day": 5,
+      "theme": "playroom",
+      "words": [
+        "red",
+        "blue",
+        "yellow",
+        "green",
+        "ball",
+        "car",
+        "teddy",
+        "blocks"
+      ],
+      "newWords": [],
+      "intro": "月饼，我是你的好朋友小熊猫。今天我们把这周的故事再玩一遍吧。",
+      "task": "抱着小熊猫玩偶，一起把两件玩具送回家。",
+      "frames": [
+        {
+          "word": "red",
+          "text": "It’s red.",
+          "caption": "朋友们又见面啦",
+          "audio": "en-754b3234605d"
+        },
+        {
+          "word": "yellow",
+          "text": "It’s yellow.",
+          "caption": "你还记得它吗",
+          "audio": "en-ea41415bc0fe"
+        },
+        {
+          "word": "ball",
+          "text": "It’s a ball.",
+          "caption": "把熟悉的声音找出来",
+          "audio": "en-89430cb4c777"
+        },
+        {
+          "word": "teddy",
+          "text": "It’s a teddy.",
+          "caption": "和月饼一起再说一次",
+          "audio": "en-f9626dcb336a"
+        }
+      ]
+    },
+    {
+      "id": "w3-d1",
+      "title": "水果篮准备好啦",
+      "week": 3,
+      "day": 1,
+      "theme": "picnic",
+      "words": [
+        "apple",
+        "banana"
+      ],
+      "newWords": [
+        "apple",
+        "banana"
+      ],
+      "intro": "月饼，我想邀请你野餐，先装好两种水果。今天和我一起玩吧。",
+      "task": "带玩偶找一个苹果或香蕉，点播放，再一起说一说。",
+      "frames": [
+        {
+          "word": "apple",
+          "text": "Look! An apple.",
+          "caption": "小熊猫想邀请月饼野餐，先装好两种水果。",
+          "audio": "en-0f9d48bd7220"
+        },
+        {
+          "word": "apple",
+          "text": "I like apples.",
+          "caption": "月饼，听听小熊猫怎么说",
+          "audio": "en-a3c705681bab"
+        },
+        {
+          "word": "banana",
+          "text": "Look! A banana.",
+          "caption": "故事里又出现了新发现",
+          "audio": "en-b54cdedd7233"
+        },
+        {
+          "word": "banana",
+          "text": "I like bananas.",
+          "caption": "一起帮小熊猫完成今天的小任务",
+          "audio": "en-2a28852d0f3d"
+        }
+      ]
+    },
+    {
+      "id": "w3-d2",
+      "title": "野餐要带什么喝的",
+      "week": 3,
+      "day": 2,
+      "theme": "picnic",
+      "words": [
+        "milk",
+        "water"
+      ],
+      "newWords": [
+        "milk",
+        "water"
+      ],
+      "intro": "月饼，我跑得口渴了，想找一点喝的。今天和我一起玩吧。",
+      "task": "给玩偶准备一个空杯子，播放想喝的饮品。",
+      "frames": [
+        {
+          "word": "milk",
+          "text": "I want milk.",
+          "caption": "小熊猫跑得口渴了，想找一点喝的。",
+          "audio": "en-a5821cbde08e"
+        },
+        {
+          "word": "milk",
+          "text": "Milk, please.",
+          "caption": "月饼，听听小熊猫怎么说",
+          "audio": "en-ef31e765e286"
+        },
+        {
+          "word": "water",
+          "text": "I want water.",
+          "caption": "故事里又出现了新发现",
+          "audio": "en-941a95b013ed"
+        },
+        {
+          "word": "water",
+          "text": "Water, please.",
+          "caption": "一起帮小熊猫完成今天的小任务",
+          "audio": "en-7eda7300e4cf"
+        }
+      ]
+    },
+    {
+      "id": "w3-d3",
+      "title": "打开野餐盒",
+      "week": 3,
+      "day": 3,
+      "theme": "picnic",
+      "words": [
+        "bread",
+        "egg"
+      ],
+      "newWords": [
+        "bread",
+        "egg"
+      ],
+      "intro": "月饼，我打开小盒子，里面有面包和鸡蛋。今天和我一起玩吧。",
+      "task": "和玩偶一起玩假装吃早餐，不需要真的准备食物。",
+      "frames": [
+        {
+          "word": "bread",
+          "text": "Look! Bread.",
+          "caption": "小熊猫打开小盒子，里面有面包和鸡蛋。",
+          "audio": "en-a1b88d0dcfcd"
+        },
+        {
+          "word": "bread",
+          "text": "I like bread.",
+          "caption": "月饼，听听小熊猫怎么说",
+          "audio": "en-cff2329f618d"
+        },
+        {
+          "word": "egg",
+          "text": "Look! An egg.",
+          "caption": "故事里又出现了新发现",
+          "audio": "en-d494e08f966e"
+        },
+        {
+          "word": "egg",
+          "text": "I like eggs.",
+          "caption": "一起帮小熊猫完成今天的小任务",
+          "audio": "en-dd60ece1bbe6"
+        }
+      ]
+    },
+    {
+      "id": "w3-d4",
+      "title": "分享好吃的",
+      "week": 3,
+      "day": 4,
+      "theme": "picnic",
+      "words": [
+        "orange",
+        "rice"
+      ],
+      "newWords": [
+        "orange",
+        "rice"
+      ],
+      "intro": "月饼，我带来橙子和米饭，邀请你一起分享。今天和我一起玩吧。",
+      "task": "抱着玩偶选一样喜欢的食物，听听对应的英文。",
+      "frames": [
+        {
+          "word": "orange",
+          "text": "Look! An orange.",
+          "caption": "小熊猫带来橙子和米饭，邀请月饼一起分享。",
+          "audio": "en-45401cfd7333"
+        },
+        {
+          "word": "orange",
+          "text": "I like oranges.",
+          "caption": "月饼，听听小熊猫怎么说",
+          "audio": "en-2976d3e6de13"
+        },
+        {
+          "word": "rice",
+          "text": "Look! Rice.",
+          "caption": "故事里又出现了新发现",
+          "audio": "en-8dcf88b9647c"
+        },
+        {
+          "word": "rice",
+          "text": "I like rice.",
+          "caption": "一起帮小熊猫完成今天的小任务",
+          "audio": "en-1723bcde3d28"
+        }
+      ]
+    },
+    {
+      "id": "w3-d5",
+      "title": "月饼的野餐邀请",
+      "week": 3,
+      "day": 5,
+      "theme": "picnic",
+      "words": [
+        "apple",
+        "banana",
+        "milk",
+        "water",
+        "bread",
+        "egg",
+        "orange",
+        "rice"
+      ],
+      "newWords": [],
+      "intro": "月饼，我是你的好朋友小熊猫。今天我们把这周的故事再玩一遍吧。",
+      "task": "和小熊猫玩偶摆一次假装的野餐，挑两样喜欢的食物。",
+      "frames": [
+        {
+          "word": "apple",
+          "text": "I like apples.",
+          "caption": "朋友们又见面啦",
+          "audio": "en-a3c705681bab"
+        },
+        {
+          "word": "milk",
+          "text": "I want milk.",
+          "caption": "你还记得它吗",
+          "audio": "en-a5821cbde08e"
+        },
+        {
+          "word": "bread",
+          "text": "I like bread.",
+          "caption": "把熟悉的声音找出来",
+          "audio": "en-cff2329f618d"
+        },
+        {
+          "word": "orange",
+          "text": "I like oranges.",
+          "caption": "和月饼一起再说一次",
+          "audio": "en-2976d3e6de13"
+        }
+      ]
+    },
+    {
+      "id": "w4-d1",
+      "title": "运动会开始啦",
+      "week": 4,
+      "day": 1,
+      "theme": "meadow",
+      "words": [
+        "jump",
+        "run"
+      ],
+      "newWords": [
+        "jump",
+        "run"
+      ],
+      "intro": "月饼，我邀请你一起动起来，先跳跳，再跑跑。今天和我一起玩吧。",
+      "task": "在安全空地抱着玩偶跳一下，再原地跑几步。",
+      "frames": [
+        {
+          "word": "jump",
+          "text": "Jump!",
+          "caption": "小熊猫邀请月饼一起动起来，先跳跳，再跑跑。",
+          "audio": "en-bb1a0e3b1244"
+        },
+        {
+          "word": "jump",
+          "text": "I can jump.",
+          "caption": "月饼，听听小熊猫怎么说",
+          "audio": "en-7c868bb59cbd"
+        },
+        {
+          "word": "run",
+          "text": "Run!",
+          "caption": "故事里又出现了新发现",
+          "audio": "en-b78ee8edd0f9"
+        },
+        {
+          "word": "run",
+          "text": "I can run.",
+          "caption": "一起帮小熊猫完成今天的小任务",
+          "audio": "en-bf708d74f2aa"
+        }
+      ]
+    },
+    {
+      "id": "w4-d2",
+      "title": "慢慢走，停一停",
+      "week": 4,
+      "day": 2,
+      "theme": "meadow",
+      "words": [
+        "walk",
+        "stop"
+      ],
+      "newWords": [
+        "walk",
+        "stop"
+      ],
+      "intro": "月饼，我练习过小路，听到停就稳稳站好。今天和我一起玩吧。",
+      "task": "家长点播放，月饼带玩偶慢慢走，听到 Stop 就停住。",
+      "frames": [
+        {
+          "word": "walk",
+          "text": "Walk!",
+          "caption": "小熊猫练习过小路，听到停就稳稳站好。",
+          "audio": "en-76f9e3fa4dc5"
+        },
+        {
+          "word": "walk",
+          "text": "I can walk.",
+          "caption": "月饼，听听小熊猫怎么说",
+          "audio": "en-0cbb1db53e02"
+        },
+        {
+          "word": "stop",
+          "text": "Stop!",
+          "caption": "故事里又出现了新发现",
+          "audio": "en-808022c59d79"
+        },
+        {
+          "word": "stop",
+          "text": "Stop!",
+          "caption": "一起帮小熊猫完成今天的小任务",
+          "audio": "en-808022c59d79"
+        }
+      ]
+    },
+    {
+      "id": "w4-d3",
+      "title": "给朋友加加油",
+      "week": 4,
+      "day": 3,
+      "theme": "meadow",
+      "words": [
+        "clap",
+        "wave"
+      ],
+      "newWords": [
+        "clap",
+        "wave"
+      ],
+      "intro": "月饼，我挥挥手欢迎朋友，再拍手为大家加油。今天和我一起玩吧。",
+      "task": "让玩偶向家人挥挥手，然后一起拍手。",
+      "frames": [
+        {
+          "word": "clap",
+          "text": "Clap!",
+          "caption": "小熊猫挥挥手欢迎朋友，再拍手为大家加油。",
+          "audio": "en-75253be827c0"
+        },
+        {
+          "word": "clap",
+          "text": "I can clap.",
+          "caption": "月饼，听听小熊猫怎么说",
+          "audio": "en-4dc87550cba9"
+        },
+        {
+          "word": "wave",
+          "text": "Wave!",
+          "caption": "故事里又出现了新发现",
+          "audio": "en-1abd1ea7d744"
+        },
+        {
+          "word": "wave",
+          "text": "I can wave.",
+          "caption": "一起帮小熊猫完成今天的小任务",
+          "audio": "en-4f6cef6b27a2"
+        }
+      ]
+    },
+    {
+      "id": "w4-d4",
+      "title": "运动后的休息",
+      "week": 4,
+      "day": 4,
+      "theme": "meadow",
+      "words": [
+        "sit",
+        "stand"
+      ],
+      "newWords": [
+        "sit",
+        "stand"
+      ],
+      "intro": "月饼，运动结束，我坐下休息，再站起来说再见。今天和我一起玩吧。",
+      "task": "让玩偶先坐好，再扶它站起来，跟着播放做动作。",
+      "frames": [
+        {
+          "word": "sit",
+          "text": "Sit down.",
+          "caption": "运动结束，小熊猫坐下休息，再站起来说再见。",
+          "audio": "en-2901bcc068c3"
+        },
+        {
+          "word": "sit",
+          "text": "Sit down, please.",
+          "caption": "月饼，听听小熊猫怎么说",
+          "audio": "en-82e3f570a097"
+        },
+        {
+          "word": "stand",
+          "text": "Stand up.",
+          "caption": "故事里又出现了新发现",
+          "audio": "en-7f88b7247b30"
+        },
+        {
+          "word": "stand",
+          "text": "Stand up, please.",
+          "caption": "一起帮小熊猫完成今天的小任务",
+          "audio": "en-6cfec752fb56"
+        }
+      ]
+    },
+    {
+      "id": "w4-d5",
+      "title": "好朋友运动派对",
+      "week": 4,
+      "day": 5,
+      "theme": "meadow",
+      "words": [
+        "jump",
+        "run",
+        "walk",
+        "stop",
+        "clap",
+        "wave",
+        "sit",
+        "stand"
+      ],
+      "newWords": [],
+      "intro": "月饼，我是你的好朋友小熊猫。今天我们把这周的故事再玩一遍吧。",
+      "task": "抱着玩偶，让家长播放两条指令，一起做动作。",
+      "frames": [
+        {
+          "word": "jump",
+          "text": "I can jump.",
+          "caption": "朋友们又见面啦",
+          "audio": "en-7c868bb59cbd"
+        },
+        {
+          "word": "walk",
+          "text": "I can walk.",
+          "caption": "你还记得它吗",
+          "audio": "en-0cbb1db53e02"
+        },
+        {
+          "word": "clap",
+          "text": "I can clap.",
+          "caption": "把熟悉的声音找出来",
+          "audio": "en-4dc87550cba9"
+        },
+        {
+          "word": "sit",
+          "text": "Sit down.",
+          "caption": "和月饼一起再说一次",
+          "audio": "en-2901bcc068c3"
+        }
+      ]
+    },
+    {
+      "id": "w5-d1",
+      "title": "小熊猫的镜子游戏",
+      "week": 5,
+      "day": 1,
+      "theme": "playroom",
+      "words": [
+        "head",
+        "hand"
+      ],
+      "newWords": [
+        "head",
+        "hand"
+      ],
+      "intro": "月饼，我照照镜子，找到了自己的头和小手。今天和我一起玩吧。",
+      "task": "月饼，抱着玩偶照照镜子。轻轻摸摸自己的头，再挥挥手，让玩偶也来试试。",
+      "frames": [
+        {
+          "word": "head",
+          "text": "This is my head.",
+          "caption": "小熊猫照照镜子，找到了自己的头和小手。",
+          "audio": "en-01ece3b42f3b"
+        },
+        {
+          "word": "head",
+          "text": "Touch your head.",
+          "caption": "月饼，听听小熊猫怎么说",
+          "audio": "en-21abbb74c8e7"
+        },
+        {
+          "word": "hand",
+          "text": "This is my hand.",
+          "caption": "故事里又出现了新发现",
+          "audio": "en-6d86823aa32b"
+        },
+        {
+          "word": "hand",
+          "text": "Wave your hand.",
+          "caption": "一起帮小熊猫完成今天的小任务",
+          "audio": "en-9b1496a738b7"
+        }
+      ]
+    },
+    {
+      "id": "w5-d2",
+      "title": "用眼睛看，用耳朵听",
+      "week": 5,
+      "day": 2,
+      "theme": "playroom",
+      "words": [
+        "eye",
+        "ear"
+      ],
+      "newWords": [
+        "eye",
+        "ear"
+      ],
+      "intro": "月饼，我用眼睛发现朋友，用耳朵听见问候。今天和我一起玩吧。",
+      "task": "月饼，指指玩偶的眼睛和耳朵，再听家长说 Hello，一起找找声音从哪里来。",
+      "frames": [
+        {
+          "word": "eye",
+          "text": "Look! An eye.",
+          "caption": "小熊猫用眼睛发现朋友，用耳朵听见问候。",
+          "audio": "en-6679c532f09d"
+        },
+        {
+          "word": "eye",
+          "text": "This is my eye.",
+          "caption": "月饼，听听小熊猫怎么说",
+          "audio": "en-40641d4332ae"
+        },
+        {
+          "word": "ear",
+          "text": "Look! An ear.",
+          "caption": "故事里又出现了新发现",
+          "audio": "en-4bf07c8a3919"
+        },
+        {
+          "word": "ear",
+          "text": "This is my ear.",
+          "caption": "一起帮小熊猫完成今天的小任务",
+          "audio": "en-95db3b226adb"
+        }
+      ]
+    },
+    {
+      "id": "w5-d3",
+      "title": "笑一笑的小脸蛋",
+      "week": 5,
+      "day": 3,
+      "theme": "playroom",
+      "words": [
+        "nose",
+        "mouth"
+      ],
+      "newWords": [
+        "nose",
+        "mouth"
+      ],
+      "intro": "月饼，我找到鼻子，又用嘴巴笑着打招呼。今天和我一起玩吧。",
+      "task": "月饼，轻轻点点自己的鼻尖，再指指玩偶的嘴巴。和它笑一笑，说一声 Hello。",
+      "frames": [
+        {
+          "word": "nose",
+          "text": "This is my nose.",
+          "caption": "小熊猫找到鼻子，又用嘴巴笑着打招呼。",
+          "audio": "en-d04dcd33fa01"
+        },
+        {
+          "word": "nose",
+          "text": "Touch your nose.",
+          "caption": "月饼，听听小熊猫怎么说",
+          "audio": "en-acde7f30d27d"
+        },
+        {
+          "word": "mouth",
+          "text": "This is my mouth.",
+          "caption": "故事里又出现了新发现",
+          "audio": "en-ce7acae085a4"
+        },
+        {
+          "word": "mouth",
+          "text": "Look! A mouth.",
+          "caption": "一起帮小熊猫完成今天的小任务",
+          "audio": "en-446fe800a4a4"
+        }
+      ]
+    },
+    {
+      "id": "w5-d4",
+      "title": "伸伸手臂，动动腿",
+      "week": 5,
+      "day": 4,
+      "theme": "playroom",
+      "words": [
+        "arm",
+        "leg"
+      ],
+      "newWords": [
+        "arm",
+        "leg"
+      ],
+      "intro": "月饼，我伸伸手臂，再活动一下自己的腿。今天和我一起玩吧。",
+      "task": "月饼，坐下来，和玩偶一起伸伸手臂、动动腿。听听英文，再轻轻指一指。",
+      "frames": [
+        {
+          "word": "arm",
+          "text": "This is my arm.",
+          "caption": "小熊猫伸伸手臂，再活动一下自己的腿。",
+          "audio": "en-625dd5fa24ad"
+        },
+        {
+          "word": "arm",
+          "text": "Touch your arm.",
+          "caption": "月饼，听听小熊猫怎么说",
+          "audio": "en-c8d60c1aa893"
+        },
+        {
+          "word": "leg",
+          "text": "This is my leg.",
+          "caption": "故事里又出现了新发现",
+          "audio": "en-376d4f0e3d22"
+        },
+        {
+          "word": "leg",
+          "text": "Touch your leg.",
+          "caption": "一起帮小熊猫完成今天的小任务",
+          "audio": "en-05bacf63d320"
+        }
+      ]
+    },
+    {
+      "id": "w5-d5",
+      "title": "镜子里的小伙伴",
+      "week": 5,
+      "day": 5,
+      "theme": "playroom",
+      "words": [
+        "head",
+        "hand",
+        "eye",
+        "ear",
+        "nose",
+        "mouth",
+        "arm",
+        "leg"
+      ],
+      "newWords": [],
+      "intro": "月饼，我是你的好朋友小熊猫。今天我们把这周的故事再玩一遍吧。",
+      "task": "月饼，抱着玩偶和家长轮流指指身体部位。说一个，指一个，看看小熊猫还记得谁。",
+      "frames": [
+        {
+          "word": "head",
+          "text": "Touch your head.",
+          "caption": "朋友们又见面啦",
+          "audio": "en-21abbb74c8e7"
+        },
+        {
+          "word": "eye",
+          "text": "This is my eye.",
+          "caption": "你还记得它吗",
+          "audio": "en-40641d4332ae"
+        },
+        {
+          "word": "nose",
+          "text": "Touch your nose.",
+          "caption": "把熟悉的声音找出来",
+          "audio": "en-acde7f30d27d"
+        },
+        {
+          "word": "arm",
+          "text": "Touch your arm.",
+          "caption": "和月饼一起再说一次",
+          "audio": "en-c8d60c1aa893"
+        }
+      ]
+    },
+    {
+      "id": "w6-d1",
+      "title": "出门前的小衣篮",
+      "week": 6,
+      "day": 1,
+      "theme": "playroom",
+      "words": [
+        "hat",
+        "shoes"
+      ],
+      "newWords": [
+        "hat",
+        "shoes"
+      ],
+      "intro": "月饼，我准备出门，在衣篮里找帽子和鞋子。今天和我一起玩吧。",
+      "task": "月饼，帮玩偶挑一顶假装的帽子，再坐下来找找自己的一双鞋。",
+      "frames": [
+        {
+          "word": "hat",
+          "text": "Look! A hat.",
+          "caption": "小熊猫准备出门，在衣篮里找帽子和鞋子。",
+          "audio": "en-ff952d2ae986"
+        },
+        {
+          "word": "hat",
+          "text": "Put on your hat.",
+          "caption": "月饼，听听小熊猫怎么说",
+          "audio": "en-b56a42859f0a"
+        },
+        {
+          "word": "shoes",
+          "text": "Look! Shoes.",
+          "caption": "故事里又出现了新发现",
+          "audio": "en-24d92e882a81"
+        },
+        {
+          "word": "shoes",
+          "text": "These are my shoes.",
+          "caption": "一起帮小熊猫完成今天的小任务",
+          "audio": "en-9ca753c34fbe"
+        }
+      ]
+    },
+    {
+      "id": "w6-d2",
+      "title": "给小熊猫挑衣服",
+      "week": 6,
+      "day": 2,
+      "theme": "playroom",
+      "words": [
+        "shirt",
+        "pants"
+      ],
+      "newWords": [
+        "shirt",
+        "pants"
+      ],
+      "intro": "月饼，我在衣柜里选出一件上衣和一条裤子。今天和我一起玩吧。",
+      "task": "月饼，和家长一起找上衣和裤子，平放在床上，帮玩偶比一比。",
+      "frames": [
+        {
+          "word": "shirt",
+          "text": "This is my shirt.",
+          "caption": "小熊猫在衣柜里选出一件上衣和一条裤子。",
+          "audio": "en-62921f26feaa"
+        },
+        {
+          "word": "shirt",
+          "text": "Look! A shirt.",
+          "caption": "月饼，听听小熊猫怎么说",
+          "audio": "en-f59a26e43cd4"
+        },
+        {
+          "word": "pants",
+          "text": "These are my pants.",
+          "caption": "故事里又出现了新发现",
+          "audio": "en-2cf06a73cd72"
+        },
+        {
+          "word": "pants",
+          "text": "Look! Pants.",
+          "caption": "一起帮小熊猫完成今天的小任务",
+          "audio": "en-ce91163b1fe5"
+        }
+      ]
+    },
+    {
+      "id": "w6-d3",
+      "title": "玩偶的换装邀请",
+      "week": 6,
+      "day": 3,
+      "theme": "playroom",
+      "words": [
+        "dress",
+        "socks"
+      ],
+      "newWords": [
+        "dress",
+        "socks"
+      ],
+      "intro": "月饼，我收到一条连衣裙和一双袜子，想邀请朋友试一试。今天和我一起玩吧。",
+      "task": "月饼，用布片给玩偶假装穿一条连衣裙，再找一双袜子摆在旁边。喜欢哪件就选哪件。",
+      "frames": [
+        {
+          "word": "dress",
+          "text": "Look! A dress.",
+          "caption": "小熊猫收到一条连衣裙和一双袜子，想邀请朋友试一试。",
+          "audio": "en-7df249968f93"
+        },
+        {
+          "word": "dress",
+          "text": "This is a dress.",
+          "caption": "月饼，听听小熊猫怎么说",
+          "audio": "en-403348d45892"
+        },
+        {
+          "word": "socks",
+          "text": "Look! Socks.",
+          "caption": "故事里又出现了新发现",
+          "audio": "en-2b7b9684d75c"
+        },
+        {
+          "word": "socks",
+          "text": "These are my socks.",
+          "caption": "一起帮小熊猫完成今天的小任务",
+          "audio": "en-97d7677cc305"
+        }
+      ]
+    },
+    {
+      "id": "w6-d4",
+      "title": "整理衣柜的小帮手",
+      "week": 6,
+      "day": 4,
+      "theme": "playroom",
+      "words": [
+        "coat",
+        "skirt"
+      ],
+      "newWords": [
+        "coat",
+        "skirt"
+      ],
+      "intro": "月饼，我把外套和裙子摆好，准备送回衣柜。今天和我一起玩吧。",
+      "task": "月饼，和家长找找外套与裙子，可以看实物也可以看绘本。给玩偶选一件，把衣物轻轻放回去。",
+      "frames": [
+        {
+          "word": "coat",
+          "text": "Look! A coat.",
+          "caption": "小熊猫把外套和裙子摆好，准备送回衣柜。",
+          "audio": "en-f732b2b3019c"
+        },
+        {
+          "word": "coat",
+          "text": "Put on your coat.",
+          "caption": "月饼，听听小熊猫怎么说",
+          "audio": "en-3e4bcc898441"
+        },
+        {
+          "word": "skirt",
+          "text": "Look! A skirt.",
+          "caption": "故事里又出现了新发现",
+          "audio": "en-c18c504a0e04"
+        },
+        {
+          "word": "skirt",
+          "text": "This is a skirt.",
+          "caption": "一起帮小熊猫完成今天的小任务",
+          "audio": "en-5b51f5b9a0e1"
+        }
+      ]
+    },
+    {
+      "id": "w6-d5",
+      "title": "小熊猫的衣柜派对",
+      "week": 6,
+      "day": 5,
+      "theme": "playroom",
+      "words": [
+        "hat",
+        "shoes",
+        "shirt",
+        "pants",
+        "dress",
+        "socks",
+        "coat",
+        "skirt"
+      ],
+      "newWords": [],
+      "intro": "月饼，我是你的好朋友小熊猫。今天我们把这周的故事再玩一遍吧。",
+      "task": "月饼，和家长挑两件衣物放在床上，让玩偶来指一指，再一起收好。",
+      "frames": [
+        {
+          "word": "hat",
+          "text": "Put on your hat.",
+          "caption": "朋友们又见面啦",
+          "audio": "en-b56a42859f0a"
+        },
+        {
+          "word": "shirt",
+          "text": "This is my shirt.",
+          "caption": "你还记得它吗",
+          "audio": "en-62921f26feaa"
+        },
+        {
+          "word": "dress",
+          "text": "This is a dress.",
+          "caption": "把熟悉的声音找出来",
+          "audio": "en-403348d45892"
+        },
+        {
+          "word": "coat",
+          "text": "Put on your coat.",
+          "caption": "和月饼一起再说一次",
+          "audio": "en-3e4bcc898441"
+        }
+      ]
+    },
+    {
+      "id": "w7-d1",
+      "title": "小熊猫的家人相册",
+      "week": 7,
+      "day": 1,
+      "theme": "picnic",
+      "words": [
+        "mom",
+        "dad"
+      ],
+      "newWords": [
+        "mom",
+        "dad"
+      ],
+      "intro": "月饼，我打开自己的相册，介绍妈妈和爸爸。今天和我一起玩吧。",
+      "task": "月饼，抱着玩偶看看家里的照片，给小熊猫介绍照顾你的人，再说一声 Hello。",
+      "frames": [
+        {
+          "word": "mom",
+          "text": "Hello, Mom!",
+          "caption": "小熊猫打开自己的相册，介绍妈妈和爸爸。",
+          "audio": "en-6c90abd00864"
+        },
+        {
+          "word": "mom",
+          "text": "This is my mom.",
+          "caption": "月饼，听听小熊猫怎么说",
+          "audio": "en-f4d21e06746e"
+        },
+        {
+          "word": "dad",
+          "text": "Hello, Dad!",
+          "caption": "故事里又出现了新发现",
+          "audio": "en-e074ecdbc760"
+        },
+        {
+          "word": "dad",
+          "text": "This is my dad.",
+          "caption": "一起帮小熊猫完成今天的小任务",
+          "audio": "en-037c4c751ae0"
+        }
+      ]
+    },
+    {
+      "id": "w7-d2",
+      "title": "和兄弟姐妹一起玩",
+      "week": 7,
+      "day": 2,
+      "theme": "picnic",
+      "words": [
+        "sister",
+        "brother"
+      ],
+      "newWords": [
+        "sister",
+        "brother"
+      ],
+      "intro": "月饼，我请来自己的姐妹和兄弟，准备一起玩。今天和我一起玩吧。",
+      "task": "月饼，用两个玩偶假装小熊猫的姐妹和兄弟，轮流向它们说 Hello。",
+      "frames": [
+        {
+          "word": "sister",
+          "text": "Hello, sister!",
+          "caption": "小熊猫请来自己的姐妹和兄弟，准备一起玩。",
+          "audio": "en-859d88799206"
+        },
+        {
+          "word": "sister",
+          "text": "This is my sister.",
+          "caption": "月饼，听听小熊猫怎么说",
+          "audio": "en-34e8e51aac20"
+        },
+        {
+          "word": "brother",
+          "text": "Hello, brother!",
+          "caption": "故事里又出现了新发现",
+          "audio": "en-1fb2dc9384c3"
+        },
+        {
+          "word": "brother",
+          "text": "This is my brother.",
+          "caption": "一起帮小熊猫完成今天的小任务",
+          "audio": "en-efebb02c8b8f"
+        }
+      ]
+    },
+    {
+      "id": "w7-d3",
+      "title": "给长辈送一个问候",
+      "week": 7,
+      "day": 3,
+      "theme": "picnic",
+      "words": [
+        "grandma",
+        "grandpa"
+      ],
+      "newWords": [
+        "grandma",
+        "grandpa"
+      ],
+      "intro": "月饼，我想念家里的长辈，拿着照片向他们问好。今天和我一起玩吧。",
+      "task": "月饼，和家长看看长辈的照片，或者用玩偶演一演，给亲近的长辈送一句 Hello。",
+      "frames": [
+        {
+          "word": "grandma",
+          "text": "Hello, Grandma!",
+          "caption": "小熊猫想念家里的长辈，拿着照片向他们问好。",
+          "audio": "en-0ccdbbb3259c"
+        },
+        {
+          "word": "grandma",
+          "text": "This is my grandma.",
+          "caption": "月饼，听听小熊猫怎么说",
+          "audio": "en-be4824419145"
+        },
+        {
+          "word": "grandpa",
+          "text": "Hello, Grandpa!",
+          "caption": "故事里又出现了新发现",
+          "audio": "en-e712401659d9"
+        },
+        {
+          "word": "grandpa",
+          "text": "This is my grandpa.",
+          "caption": "一起帮小熊猫完成今天的小任务",
+          "audio": "en-3a50feec57e6"
+        }
+      ]
+    },
+    {
+      "id": "w7-d4",
+      "title": "家人的温暖合影",
+      "week": 7,
+      "day": 4,
+      "theme": "picnic",
+      "words": [
+        "baby",
+        "family"
+      ],
+      "newWords": [
+        "baby",
+        "family"
+      ],
+      "intro": "月饼，我看见照片里的小宝宝，也看见陪伴自己的家人。今天和我一起玩吧。",
+      "task": "月饼，抱着玩偶和家人摆一个合影姿势。再轻轻摇摇玩偶，假装安抚小宝宝。",
+      "frames": [
+        {
+          "word": "baby",
+          "text": "Look! A baby.",
+          "caption": "小熊猫看见照片里的小宝宝，也看见陪伴自己的家人。",
+          "audio": "en-044383d0b91d"
+        },
+        {
+          "word": "baby",
+          "text": "Hello, baby!",
+          "caption": "月饼，听听小熊猫怎么说",
+          "audio": "en-58fcb0a07192"
+        },
+        {
+          "word": "family",
+          "text": "This is my family.",
+          "caption": "故事里又出现了新发现",
+          "audio": "en-efd1c8648e96"
+        },
+        {
+          "word": "family",
+          "text": "Hello, family!",
+          "caption": "一起帮小熊猫完成今天的小任务",
+          "audio": "en-edabcc0219cf"
+        }
+      ]
+    },
+    {
+      "id": "w7-d5",
+      "title": "好朋友的家人相册",
+      "week": 7,
+      "day": 5,
+      "theme": "picnic",
+      "words": [
+        "mom",
+        "dad",
+        "sister",
+        "brother",
+        "grandma",
+        "grandpa",
+        "baby",
+        "family"
+      ],
+      "newWords": [],
+      "intro": "月饼，我是你的好朋友小熊猫。今天我们把这周的故事再玩一遍吧。",
+      "task": "月饼，和玩偶一起看看绘本或照片，给亲近的人说一声 Hello。",
+      "frames": [
+        {
+          "word": "mom",
+          "text": "This is my mom.",
+          "caption": "朋友们又见面啦",
+          "audio": "en-f4d21e06746e"
+        },
+        {
+          "word": "sister",
+          "text": "This is my sister.",
+          "caption": "你还记得它吗",
+          "audio": "en-34e8e51aac20"
+        },
+        {
+          "word": "grandma",
+          "text": "This is my grandma.",
+          "caption": "把熟悉的声音找出来",
+          "audio": "en-be4824419145"
+        },
+        {
+          "word": "baby",
+          "text": "Hello, baby!",
+          "caption": "和月饼一起再说一次",
+          "audio": "en-58fcb0a07192"
+        }
+      ]
+    },
+    {
+      "id": "w8-d1",
+      "title": "给玩偶安排小角落",
+      "week": 8,
+      "day": 1,
+      "theme": "playroom",
+      "words": [
+        "bed",
+        "chair"
+      ],
+      "newWords": [
+        "bed",
+        "chair"
+      ],
+      "intro": "月饼，我找到了睡觉的小床和坐着休息的椅子。今天和我一起玩吧。",
+      "task": "月饼，和家长给玩偶铺一张假装的小床，再让它坐在椅子上休息。",
+      "frames": [
+        {
+          "word": "bed",
+          "text": "Look! A bed.",
+          "caption": "小熊猫找到了睡觉的小床和坐着休息的椅子。",
+          "audio": "en-aa0bc4b5b72f"
+        },
+        {
+          "word": "bed",
+          "text": "This is my bed.",
+          "caption": "月饼，听听小熊猫怎么说",
+          "audio": "en-e2092110f95b"
+        },
+        {
+          "word": "chair",
+          "text": "Look! A chair.",
+          "caption": "故事里又出现了新发现",
+          "audio": "en-f78337aaeeea"
+        },
+        {
+          "word": "chair",
+          "text": "Sit on the chair.",
+          "caption": "一起帮小熊猫完成今天的小任务",
+          "audio": "en-849b608c1e5c"
+        }
+      ]
+    },
+    {
+      "id": "w8-d2",
+      "title": "欢迎来到小熊猫家",
+      "week": 8,
+      "day": 2,
+      "theme": "playroom",
+      "words": [
+        "table",
+        "door"
+      ],
+      "newWords": [
+        "table",
+        "door"
+      ],
+      "intro": "月饼，我走到门边欢迎朋友，带他们看看小桌子。今天和我一起玩吧。",
+      "task": "月饼，用积木搭一张小桌子，再给小熊猫搭一扇门，请它来做客。",
+      "frames": [
+        {
+          "word": "table",
+          "text": "Look! A table.",
+          "caption": "小熊猫走到门边欢迎朋友，带他们看看小桌子。",
+          "audio": "en-0abf6959f353"
+        },
+        {
+          "word": "table",
+          "text": "This is a table.",
+          "caption": "月饼，听听小熊猫怎么说",
+          "audio": "en-960654364914"
+        },
+        {
+          "word": "door",
+          "text": "Look! A door.",
+          "caption": "故事里又出现了新发现",
+          "audio": "en-f54cab94f511"
+        },
+        {
+          "word": "door",
+          "text": "Open the door.",
+          "caption": "一起帮小熊猫完成今天的小任务",
+          "audio": "en-6cc1f0c23f9b"
+        }
+      ]
+    },
+    {
+      "id": "w8-d3",
+      "title": "窗边的故事时间",
+      "week": 8,
+      "day": 3,
+      "theme": "playroom",
+      "words": [
+        "window",
+        "sofa"
+      ],
+      "newWords": [
+        "window",
+        "sofa"
+      ],
+      "intro": "月饼，我看看窗外，再到沙发边准备听故事。今天和我一起玩吧。",
+      "task": "月饼，和家长带着玩偶看看窗外，再坐到沙发上，说一声 Hello。",
+      "frames": [
+        {
+          "word": "window",
+          "text": "Look! A window.",
+          "caption": "小熊猫看看窗外，再到沙发边准备听故事。",
+          "audio": "en-fb89c0ea29f9"
+        },
+        {
+          "word": "window",
+          "text": "Look at the window.",
+          "caption": "月饼，听听小熊猫怎么说",
+          "audio": "en-09022a001707"
+        },
+        {
+          "word": "sofa",
+          "text": "Look! A sofa.",
+          "caption": "故事里又出现了新发现",
+          "audio": "en-bfc6749ffa5c"
+        },
+        {
+          "word": "sofa",
+          "text": "Sit on the sofa.",
+          "caption": "一起帮小熊猫完成今天的小任务",
+          "audio": "en-05b0d60c5062"
+        }
+      ]
+    },
+    {
+      "id": "w8-d4",
+      "title": "留一盏小灯读故事",
+      "week": 8,
+      "day": 4,
+      "theme": "playroom",
+      "words": [
+        "lamp",
+        "book"
+      ],
+      "newWords": [
+        "lamp",
+        "book"
+      ],
+      "intro": "月饼，我找到台灯和书，准备和朋友分享一个故事。今天和我一起玩吧。",
+      "task": "月饼，请家长打开阅读灯，抱着玩偶选一本书。一起翻一页，说一声 Hello。",
+      "frames": [
+        {
+          "word": "lamp",
+          "text": "Look! A lamp.",
+          "caption": "小熊猫找到台灯和书，准备和朋友分享一个故事。",
+          "audio": "en-e269f4da6aea"
+        },
+        {
+          "word": "lamp",
+          "text": "This is a lamp.",
+          "caption": "月饼，听听小熊猫怎么说",
+          "audio": "en-8c988fd55adf"
+        },
+        {
+          "word": "book",
+          "text": "Look! A book.",
+          "caption": "故事里又出现了新发现",
+          "audio": "en-3e4ce5cf1d10"
+        },
+        {
+          "word": "book",
+          "text": "Open the book.",
+          "caption": "一起帮小熊猫完成今天的小任务",
+          "audio": "en-a49e8338ccd9"
+        }
+      ]
+    },
+    {
+      "id": "w8-d5",
+      "title": "欢迎来到月饼家",
+      "week": 8,
+      "day": 5,
+      "theme": "playroom",
+      "words": [
+        "bed",
+        "chair",
+        "table",
+        "door",
+        "window",
+        "sofa",
+        "lamp",
+        "book"
+      ],
+      "newWords": [],
+      "intro": "月饼，我是你的好朋友小熊猫。今天我们把这周的故事再玩一遍吧。",
+      "task": "月饼，请家长陪你，抱着玩偶看看家里的两个小角落。给它指指床、椅子或书。",
+      "frames": [
+        {
+          "word": "bed",
+          "text": "This is my bed.",
+          "caption": "朋友们又见面啦",
+          "audio": "en-e2092110f95b"
+        },
+        {
+          "word": "table",
+          "text": "This is a table.",
+          "caption": "你还记得它吗",
+          "audio": "en-960654364914"
+        },
+        {
+          "word": "window",
+          "text": "Look at the window.",
+          "caption": "把熟悉的声音找出来",
+          "audio": "en-09022a001707"
+        },
+        {
+          "word": "lamp",
+          "text": "This is a lamp.",
+          "caption": "和月饼一起再说一次",
+          "audio": "en-8c988fd55adf"
+        }
+      ]
+    },
+    {
+      "id": "w9-d1",
+      "title": "小熊猫的收纳小店",
+      "week": 9,
+      "day": 1,
+      "theme": "playroom",
+      "words": [
+        "box",
+        "basket"
+      ],
+      "newWords": [
+        "box",
+        "basket"
+      ],
+      "intro": "月饼，我准备开一家收纳小店，先摆出盒子和篮子。今天和我一起玩吧。",
+      "task": "和家长找一个盒子和一个篮子，放到地面上，让玩偶来选一选。",
+      "frames": [
+        {
+          "word": "box",
+          "text": "Look! A box.",
+          "caption": "小熊猫准备开一家收纳小店，先摆出盒子和篮子。",
+          "audio": "en-8968b597e0ed"
+        },
+        {
+          "word": "box",
+          "text": "This is a box.",
+          "caption": "月饼，听听小熊猫怎么说",
+          "audio": "en-3861b60043e5"
+        },
+        {
+          "word": "basket",
+          "text": "Look! A basket.",
+          "caption": "故事里又出现了新发现",
+          "audio": "en-1de6ca0e5e1d"
+        },
+        {
+          "word": "basket",
+          "text": "This is a basket.",
+          "caption": "一起帮小熊猫完成今天的小任务",
+          "audio": "en-b8e281828879"
+        }
+      ]
+    },
+    {
+      "id": "w9-d2",
+      "title": "小球藏到哪里啦",
+      "week": 9,
+      "day": 2,
+      "theme": "playroom",
+      "words": [
+        "in",
+        "on"
+      ],
+      "newWords": [
+        "in",
+        "on"
+      ],
+      "intro": "月饼，我把小球放进盒子，又拿出来放到盒子上。今天和我一起玩吧。",
+      "task": "拿一颗小球和一个盒子，先把球放进盒子里，再放到盒子上，让玩偶来找。",
+      "frames": [
+        {
+          "word": "in",
+          "text": "In the box.",
+          "caption": "小熊猫把小球放进盒子，又拿出来放到盒子上。",
+          "audio": "en-54b8cda69095"
+        },
+        {
+          "word": "in",
+          "text": "The ball is in the box.",
+          "caption": "月饼，听听小熊猫怎么说",
+          "audio": "en-85b4f37c7786"
+        },
+        {
+          "word": "on",
+          "text": "On the box.",
+          "caption": "故事里又出现了新发现",
+          "audio": "en-9c632f3c6670"
+        },
+        {
+          "word": "on",
+          "text": "The ball is on the box.",
+          "caption": "一起帮小熊猫完成今天的小任务",
+          "audio": "en-3fb2ec2cf722"
+        }
+      ]
+    },
+    {
+      "id": "w9-d3",
+      "title": "换个地方找小球",
+      "week": 9,
+      "day": 3,
+      "theme": "playroom",
+      "words": [
+        "under",
+        "behind"
+      ],
+      "newWords": [
+        "under",
+        "behind"
+      ],
+      "intro": "月饼，我发现小球到了桌子下面，又躲到了盒子后面。今天和我一起玩吧。",
+      "task": "请家长把球放在桌子下面或盒子后面。月饼站在旁边指一指，请玩偶帮忙找出来。",
+      "frames": [
+        {
+          "word": "under",
+          "text": "Under the table.",
+          "caption": "小熊猫发现小球到了桌子下面，又躲到了盒子后面。",
+          "audio": "en-e9dd26613ccc"
+        },
+        {
+          "word": "under",
+          "text": "The ball is under the table.",
+          "caption": "月饼，听听小熊猫怎么说",
+          "audio": "en-39bdb5fd2b18"
+        },
+        {
+          "word": "behind",
+          "text": "Behind the box.",
+          "caption": "故事里又出现了新发现",
+          "audio": "en-db838c74fde4"
+        },
+        {
+          "word": "behind",
+          "text": "The ball is behind the box.",
+          "caption": "一起帮小熊猫完成今天的小任务",
+          "audio": "en-5afe21cbd8e0"
+        }
+      ]
+    },
+    {
+      "id": "w9-d4",
+      "title": "离盒子近一点，远一点",
+      "week": 9,
+      "day": 4,
+      "theme": "playroom",
+      "words": [
+        "near",
+        "far"
+      ],
+      "newWords": [
+        "near",
+        "far"
+      ],
+      "intro": "月饼，我把小球放得离盒子近一点，又放得远一点。今天和我一起玩吧。",
+      "task": "在地面放好盒子，把球放在盒子旁边，再放远一些。抱着玩偶看看，哪一次更近。",
+      "frames": [
+        {
+          "word": "near",
+          "text": "Near the box.",
+          "caption": "小熊猫把小球放得离盒子近一点，又放得远一点。",
+          "audio": "en-169dc390a0be"
+        },
+        {
+          "word": "near",
+          "text": "The ball is near the box.",
+          "caption": "月饼，听听小熊猫怎么说",
+          "audio": "en-7c04bc0f51ab"
+        },
+        {
+          "word": "far",
+          "text": "Far from the box.",
+          "caption": "故事里又出现了新发现",
+          "audio": "en-ae042608f30c"
+        },
+        {
+          "word": "far",
+          "text": "The ball is far from the box.",
+          "caption": "一起帮小熊猫完成今天的小任务",
+          "audio": "en-71f2e866ae79"
+        }
+      ]
+    },
+    {
+      "id": "w9-d5",
+      "title": "小熊猫的寻找路线",
+      "week": 9,
+      "day": 5,
+      "theme": "playroom",
+      "words": [
+        "box",
+        "basket",
+        "in",
+        "on",
+        "under",
+        "behind",
+        "near",
+        "far"
+      ],
+      "newWords": [],
+      "intro": "月饼，我是你的好朋友小熊猫。今天我们把这周的故事再玩一遍吧。",
+      "task": "月饼，让家长摆好盒子和球，轮流说位置、指位置，再让玩偶来找一找。",
+      "frames": [
+        {
+          "word": "box",
+          "text": "This is a box.",
+          "caption": "朋友们又见面啦",
+          "audio": "en-3861b60043e5"
+        },
+        {
+          "word": "in",
+          "text": "In the box.",
+          "caption": "你还记得它吗",
+          "audio": "en-54b8cda69095"
+        },
+        {
+          "word": "under",
+          "text": "Under the table.",
+          "caption": "把熟悉的声音找出来",
+          "audio": "en-e9dd26613ccc"
+        },
+        {
+          "word": "near",
+          "text": "Near the box.",
+          "caption": "和月饼一起再说一次",
+          "audio": "en-169dc390a0be"
+        }
+      ]
+    },
+    {
+      "id": "w10-d1",
+      "title": "打开天气小窗",
+      "week": 10,
+      "day": 1,
+      "theme": "meadow",
+      "words": [
+        "sunny",
+        "rainy"
+      ],
+      "newWords": [
+        "sunny",
+        "rainy"
+      ],
+      "intro": "月饼，我翻开天气绘本，一页是晴天，一页是雨天。今天和我一起玩吧。",
+      "task": "和玩偶看看窗外，或翻翻天气绘本。晴天就伸手画太阳，雨天就用手指轻轻点出雨滴。",
+      "frames": [
+        {
+          "word": "sunny",
+          "text": "It’s sunny.",
+          "caption": "小熊猫翻开天气绘本，一页是晴天，一页是雨天。",
+          "audio": "en-bc88ea32638b"
+        },
+        {
+          "word": "sunny",
+          "text": "Sunny!",
+          "caption": "月饼，听听小熊猫怎么说",
+          "audio": "en-f8a07adb882d"
+        },
+        {
+          "word": "rainy",
+          "text": "It’s rainy.",
+          "caption": "故事里又出现了新发现",
+          "audio": "en-a9ebeb0f099a"
+        },
+        {
+          "word": "rainy",
+          "text": "Rainy!",
+          "caption": "一起帮小熊猫完成今天的小任务",
+          "audio": "en-1d20b7f6b99c"
+        }
+      ]
+    },
+    {
+      "id": "w10-d2",
+      "title": "云朵和风来做客",
+      "week": 10,
+      "day": 2,
+      "theme": "meadow",
+      "words": [
+        "cloudy",
+        "windy"
+      ],
+      "newWords": [
+        "cloudy",
+        "windy"
+      ],
+      "intro": "月饼，我在绘本里看见一团团云，又看见风吹动叶子。今天和我一起玩吧。",
+      "task": "用手比一比圆圆的云，再轻轻摆动玩偶的小手，假装叶子被风吹动。",
+      "frames": [
+        {
+          "word": "cloudy",
+          "text": "It’s cloudy.",
+          "caption": "小熊猫在绘本里看见一团团云，又看见风吹动叶子。",
+          "audio": "en-97235adbf5a4"
+        },
+        {
+          "word": "cloudy",
+          "text": "Cloudy!",
+          "caption": "月饼，听听小熊猫怎么说",
+          "audio": "en-3d6f01b64f61"
+        },
+        {
+          "word": "windy",
+          "text": "It’s windy.",
+          "caption": "故事里又出现了新发现",
+          "audio": "en-b3b578a429a5"
+        },
+        {
+          "word": "windy",
+          "text": "Windy!",
+          "caption": "一起帮小熊猫完成今天的小任务",
+          "audio": "en-62eb2b251d4f"
+        }
+      ]
+    },
+    {
+      "id": "w10-d3",
+      "title": "今天穿什么呢",
+      "week": 10,
+      "day": 3,
+      "theme": "meadow",
+      "words": [
+        "hot",
+        "cold"
+      ],
+      "newWords": [
+        "hot",
+        "cold"
+      ],
+      "intro": "月饼，我看看天气卡，热的时候想扇扇风，冷的时候想围围巾。今天和我一起玩吧。",
+      "task": "用手给玩偶轻轻扇风，再用小布片给它围一条假装的围巾。边玩边听两个天气词。",
+      "frames": [
+        {
+          "word": "hot",
+          "text": "It’s hot.",
+          "caption": "小熊猫看看天气卡，热的时候想扇扇风，冷的时候想围围巾。",
+          "audio": "en-b59f01cbcb9d"
+        },
+        {
+          "word": "hot",
+          "text": "Hot!",
+          "caption": "月饼，听听小熊猫怎么说",
+          "audio": "en-8fe7bdf7cc56"
+        },
+        {
+          "word": "cold",
+          "text": "It’s cold.",
+          "caption": "故事里又出现了新发现",
+          "audio": "en-6b662ca1cde6"
+        },
+        {
+          "word": "cold",
+          "text": "Cold!",
+          "caption": "一起帮小熊猫完成今天的小任务",
+          "audio": "en-57f16684fac9"
+        }
+      ]
+    },
+    {
+      "id": "w10-d4",
+      "title": "雪花和彩虹相册",
+      "week": 10,
+      "day": 4,
+      "theme": "meadow",
+      "words": [
+        "snowy",
+        "rainbow"
+      ],
+      "newWords": [
+        "snowy",
+        "rainbow"
+      ],
+      "intro": "月饼，我拿出旅行相册，里面有雪花，也有雨后的彩虹。今天和我一起玩吧。",
+      "task": "用手指在空中画小雪花，再和玩偶一起画一道大大的彩虹。",
+      "frames": [
+        {
+          "word": "snowy",
+          "text": "It’s snowy.",
+          "caption": "小熊猫拿出旅行相册，里面有雪花，也有雨后的彩虹。",
+          "audio": "en-ca0f71eb53fc"
+        },
+        {
+          "word": "snowy",
+          "text": "Snowy!",
+          "caption": "月饼，听听小熊猫怎么说",
+          "audio": "en-9065b22626df"
+        },
+        {
+          "word": "rainbow",
+          "text": "Look! A rainbow.",
+          "caption": "故事里又出现了新发现",
+          "audio": "en-398a5d53a281"
+        },
+        {
+          "word": "rainbow",
+          "text": "A rainbow!",
+          "caption": "一起帮小熊猫完成今天的小任务",
+          "audio": "en-539d06b1cbef"
+        }
+      ]
+    },
+    {
+      "id": "w10-d5",
+      "title": "小熊猫的天气相册",
+      "week": 10,
+      "day": 5,
+      "theme": "meadow",
+      "words": [
+        "sunny",
+        "rainy",
+        "cloudy",
+        "windy",
+        "hot",
+        "cold",
+        "snowy",
+        "rainbow"
+      ],
+      "newWords": [],
+      "intro": "月饼，我是你的好朋友小熊猫。今天我们把这周的故事再玩一遍吧。",
+      "task": "月饼，和玩偶翻天气绘本，选两种喜欢的天气，用动作或画画介绍给家长。",
+      "frames": [
+        {
+          "word": "sunny",
+          "text": "It’s sunny.",
+          "caption": "朋友们又见面啦",
+          "audio": "en-bc88ea32638b"
+        },
+        {
+          "word": "cloudy",
+          "text": "It’s cloudy.",
+          "caption": "你还记得它吗",
+          "audio": "en-97235adbf5a4"
+        },
+        {
+          "word": "hot",
+          "text": "It’s hot.",
+          "caption": "把熟悉的声音找出来",
+          "audio": "en-b59f01cbcb9d"
+        },
+        {
+          "word": "snowy",
+          "text": "It’s snowy.",
+          "caption": "和月饼一起再说一次",
+          "audio": "en-ca0f71eb53fc"
+        }
+      ]
+    },
+    {
+      "id": "w11-d1",
+      "title": "朋友日的点心篮",
+      "week": 11,
+      "day": 1,
+      "theme": "picnic",
+      "words": [
+        "apple",
+        "water"
+      ],
+      "newWords": [],
+      "intro": "月饼，我要办一个朋友日，先在点心篮里准备苹果和水。今天和我一起玩吧。",
+      "task": "和玩偶摆一个假装的点心摊，选苹果或水，听一句，再轮流说一句。",
+      "frames": [
+        {
+          "word": "apple",
+          "text": "Look! An apple.",
+          "caption": "小熊猫要办一个朋友日，先在点心篮里准备苹果和水。",
+          "audio": "en-0f9d48bd7220"
+        },
+        {
+          "word": "apple",
+          "text": "I like apples.",
+          "caption": "月饼，听听小熊猫怎么说",
+          "audio": "en-a3c705681bab"
+        },
+        {
+          "word": "water",
+          "text": "I want water.",
+          "caption": "故事里又出现了新发现",
+          "audio": "en-941a95b013ed"
+        },
+        {
+          "word": "water",
+          "text": "Water, please.",
+          "caption": "一起帮小熊猫完成今天的小任务",
+          "audio": "en-7eda7300e4cf"
+        }
+      ]
+    },
+    {
+      "id": "w11-d2",
+      "title": "穿戴好，去见朋友",
+      "week": 11,
+      "day": 2,
+      "theme": "picnic",
+      "words": [
+        "hat",
+        "shoes"
+      ],
+      "newWords": [],
+      "intro": "月饼，我准备去朋友日，找出帽子，再把鞋子摆好。今天和我一起玩吧。",
+      "task": "给玩偶挑一顶假装的帽子，再找找自己的一双鞋。让玩偶先说，你再跟着说。",
+      "frames": [
+        {
+          "word": "hat",
+          "text": "Look! A hat.",
+          "caption": "小熊猫准备去朋友日，找出帽子，再把鞋子摆好。",
+          "audio": "en-ff952d2ae986"
+        },
+        {
+          "word": "hat",
+          "text": "Put on your hat.",
+          "caption": "月饼，听听小熊猫怎么说",
+          "audio": "en-b56a42859f0a"
+        },
+        {
+          "word": "shoes",
+          "text": "Look! Shoes.",
+          "caption": "故事里又出现了新发现",
+          "audio": "en-24d92e882a81"
+        },
+        {
+          "word": "shoes",
+          "text": "These are my shoes.",
+          "caption": "一起帮小熊猫完成今天的小任务",
+          "audio": "en-9ca753c34fbe"
+        }
+      ]
+    },
+    {
+      "id": "w11-d3",
+      "title": "带上两件小礼物",
+      "week": 11,
+      "day": 3,
+      "theme": "picnic",
+      "words": [
+        "ball",
+        "car"
+      ],
+      "newWords": [],
+      "intro": "月饼，我带着球和小汽车来到朋友日，想和大家分享。今天和我一起玩吧。",
+      "task": "让玩偶在球和小汽车之间选一件。你来递给它，再一起听对应的英文。",
+      "frames": [
+        {
+          "word": "ball",
+          "text": "Look! A ball.",
+          "caption": "小熊猫带着球和小汽车来到朋友日，想和大家分享。",
+          "audio": "en-fee8561844ad"
+        },
+        {
+          "word": "ball",
+          "text": "It’s a ball.",
+          "caption": "月饼，听听小熊猫怎么说",
+          "audio": "en-89430cb4c777"
+        },
+        {
+          "word": "car",
+          "text": "Look! A car.",
+          "caption": "故事里又出现了新发现",
+          "audio": "en-3e8ae94b6fdb"
+        },
+        {
+          "word": "car",
+          "text": "It’s a car.",
+          "caption": "一起帮小熊猫完成今天的小任务",
+          "audio": "en-46c2d43de4cd"
+        }
+      ]
+    },
+    {
+      "id": "w11-d4",
+      "title": "朋友日的小小庆祝",
+      "week": 11,
+      "day": 4,
+      "theme": "picnic",
+      "words": [
+        "jump",
+        "clap"
+      ],
+      "newWords": [],
+      "intro": "月饼，我和朋友们见面啦，大家跳一跳，再拍手庆祝。今天和我一起玩吧。",
+      "task": "在家长身边轻轻跳一下，再和玩偶一起拍手。听到哪句，就轮流做哪个动作。",
+      "frames": [
+        {
+          "word": "jump",
+          "text": "Jump!",
+          "caption": "小熊猫和朋友们见面啦，大家跳一跳，再拍手庆祝。",
+          "audio": "en-bb1a0e3b1244"
+        },
+        {
+          "word": "jump",
+          "text": "I can jump.",
+          "caption": "月饼，听听小熊猫怎么说",
+          "audio": "en-7c868bb59cbd"
+        },
+        {
+          "word": "clap",
+          "text": "Clap!",
+          "caption": "故事里又出现了新发现",
+          "audio": "en-75253be827c0"
+        },
+        {
+          "word": "clap",
+          "text": "I can clap.",
+          "caption": "一起帮小熊猫完成今天的小任务",
+          "audio": "en-4dc87550cba9"
+        }
+      ]
+    },
+    {
+      "id": "w11-d5",
+      "title": "月饼的朋友日派对",
+      "week": 11,
+      "day": 5,
+      "theme": "picnic",
+      "words": [
+        "apple",
+        "water",
+        "hat",
+        "shoes",
+        "ball",
+        "car",
+        "jump",
+        "clap"
+      ],
+      "newWords": [],
+      "intro": "月饼，我是你的好朋友小熊猫。今天我们把这周的故事再玩一遍吧。",
+      "task": "月饼，带着玩偶办一次小小朋友日。选点心、挑玩具、做动作，把喜欢的两句英文连起来玩。",
+      "frames": [
+        {
+          "word": "apple",
+          "text": "I like apples.",
+          "caption": "朋友们又见面啦",
+          "audio": "en-a3c705681bab"
+        },
+        {
+          "word": "hat",
+          "text": "Put on your hat.",
+          "caption": "你还记得它吗",
+          "audio": "en-b56a42859f0a"
+        },
+        {
+          "word": "ball",
+          "text": "It’s a ball.",
+          "caption": "把熟悉的声音找出来",
+          "audio": "en-89430cb4c777"
+        },
+        {
+          "word": "jump",
+          "text": "I can jump.",
+          "caption": "和月饼一起再说一次",
+          "audio": "en-7c868bb59cbd"
+        }
+      ]
+    },
+    {
+      "id": "w12-d1",
+      "title": "声音侦探：小猫和汽车",
+      "week": 12,
+      "day": 1,
+      "theme": "forest",
+      "words": [
+        "cat",
+        "car"
+      ],
+      "newWords": [],
+      "intro": "月饼，我拿来小猫和小汽车的图片，想听听它们开头的声音。今天和我一起玩吧。",
+      "task": "把玩偶当成声音侦探。先听小猫，再听小汽车，轮流模仿完整单词。",
+      "frames": [
+        {
+          "word": "cat",
+          "text": "Look! A cat.",
+          "caption": "小熊猫拿来小猫和小汽车的图片，想听听它们开头的声音。",
+          "audio": "en-a494ea71b1e4"
+        },
+        {
+          "word": "cat",
+          "text": "Hello, cat!",
+          "caption": "月饼，听听小熊猫怎么说",
+          "audio": "en-3b2951a0617f"
+        },
+        {
+          "word": "car",
+          "text": "Look! A car.",
+          "caption": "故事里又出现了新发现",
+          "audio": "en-3e8ae94b6fdb"
+        },
+        {
+          "word": "car",
+          "text": "It’s a car.",
+          "caption": "一起帮小熊猫完成今天的小任务",
+          "audio": "en-46c2d43de4cd"
+        }
+      ]
+    },
+    {
+      "id": "w12-d2",
+      "title": "声音侦探：球和小熊",
+      "week": 12,
+      "day": 2,
+      "theme": "forest",
+      "words": [
+        "ball",
+        "bear"
+      ],
+      "newWords": [],
+      "intro": "月饼，我把球和小熊图片放在一起，发现它们的开头很像。今天和我一起玩吧。",
+      "task": "让玩偶先听球和小熊的英文。你也说一遍完整单词，再指指相应的图片。",
+      "frames": [
+        {
+          "word": "ball",
+          "text": "Look! A ball.",
+          "caption": "小熊猫把球和小熊图片放在一起，发现它们的开头很像。",
+          "audio": "en-fee8561844ad"
+        },
+        {
+          "word": "ball",
+          "text": "It’s a ball.",
+          "caption": "月饼，听听小熊猫怎么说",
+          "audio": "en-89430cb4c777"
+        },
+        {
+          "word": "bear",
+          "text": "Look! A bear.",
+          "caption": "故事里又出现了新发现",
+          "audio": "en-9d15eea11d89"
+        },
+        {
+          "word": "bear",
+          "text": "Hello, bear!",
+          "caption": "一起帮小熊猫完成今天的小任务",
+          "audio": "en-71954fe04fd3"
+        }
+      ]
+    },
+    {
+      "id": "w12-d3",
+      "title": "声音侦探：池塘朋友",
+      "week": 12,
+      "day": 3,
+      "theme": "forest",
+      "words": [
+        "fish",
+        "frog"
+      ],
+      "newWords": [],
+      "intro": "月饼，我翻到池塘那一页，听听小鱼和青蛙的声音线索。今天和我一起玩吧。",
+      "task": "和玩偶做小鱼游、小青蛙跳的手势。听完整单词，选一个喜欢的再说一遍。",
+      "frames": [
+        {
+          "word": "fish",
+          "text": "Look! A fish.",
+          "caption": "小熊猫翻到池塘那一页，听听小鱼和青蛙的声音线索。",
+          "audio": "en-6801be893312"
+        },
+        {
+          "word": "fish",
+          "text": "Hello, fish!",
+          "caption": "月饼，听听小熊猫怎么说",
+          "audio": "en-ec57cdc3fc5c"
+        },
+        {
+          "word": "frog",
+          "text": "Look! A frog.",
+          "caption": "故事里又出现了新发现",
+          "audio": "en-293fa75f6d25"
+        },
+        {
+          "word": "frog",
+          "text": "Hello, frog!",
+          "caption": "一起帮小熊猫完成今天的小任务",
+          "audio": "en-02e07a0b6bee"
+        }
+      ]
+    },
+    {
+      "id": "w12-d4",
+      "title": "声音侦探：温暖的问候",
+      "week": 12,
+      "day": 4,
+      "theme": "forest",
+      "words": [
+        "milk",
+        "mom"
+      ],
+      "newWords": [],
+      "intro": "月饼，我拿着牛奶图片去找妈妈，分享今天找到的声音。今天和我一起玩吧。",
+      "task": "和家长分别当小熊猫和它的妈妈，用一只空杯子假装送牛奶。轮流说一句，再交换角色。",
+      "frames": [
+        {
+          "word": "milk",
+          "text": "I want milk.",
+          "caption": "小熊猫拿着牛奶图片去找妈妈，分享今天找到的声音。",
+          "audio": "en-a5821cbde08e"
+        },
+        {
+          "word": "milk",
+          "text": "Milk, please.",
+          "caption": "月饼，听听小熊猫怎么说",
+          "audio": "en-ef31e765e286"
+        },
+        {
+          "word": "mom",
+          "text": "Hello, Mom!",
+          "caption": "故事里又出现了新发现",
+          "audio": "en-6c90abd00864"
+        },
+        {
+          "word": "mom",
+          "text": "This is my mom.",
+          "caption": "一起帮小熊猫完成今天的小任务",
+          "audio": "en-f4d21e06746e"
+        }
+      ]
+    },
+    {
+      "id": "w12-d5",
+      "title": "好朋友的声音寻宝",
+      "week": 12,
+      "day": 5,
+      "theme": "forest",
+      "words": [
+        "cat",
+        "car",
+        "ball",
+        "bear",
+        "fish",
+        "frog",
+        "milk",
+        "mom"
+      ],
+      "newWords": [],
+      "intro": "月饼，我是你的好朋友小熊猫。今天我们把这周的故事再玩一遍吧。",
+      "task": "月饼，选两张喜欢的图片，让玩偶先说完整单词，你再接一句。把发现的声音分享给家长。",
+      "frames": [
+        {
+          "word": "cat",
+          "text": "It’s a cat.",
+          "caption": "朋友们又见面啦",
+          "audio": "en-574418bfeaac"
+        },
+        {
+          "word": "ball",
+          "text": "It’s a ball.",
+          "caption": "你还记得它吗",
+          "audio": "en-89430cb4c777"
+        },
+        {
+          "word": "fish",
+          "text": "It’s a fish.",
+          "caption": "把熟悉的声音找出来",
+          "audio": "en-f8cc78a408f2"
+        },
+        {
+          "word": "milk",
+          "text": "I want milk.",
+          "caption": "和月饼一起再说一次",
+          "audio": "en-a5821cbde08e"
+        }
+      ]
+    }
+  ]
+}

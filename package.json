@@ -1,0 +1,1 @@
+{"name":"yuebing-red-panda-english","private":true,"type":"module","scripts":{"content":"node scripts/content.mjs","manifest":"node scripts/manifest.mjs","check":"node scripts/check.mjs","serve":"node scripts/serve.mjs","test":"node --test tests/*.test.mjs"}}

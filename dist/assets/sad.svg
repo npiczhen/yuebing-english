@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-labelledby="title"><title id="title">有点难过的小熊猫 Sad</title><defs><style>.s{stroke:#50382E;stroke-width:4;stroke-linecap:round;stroke-linejoin:round}.t{fill:none;stroke:#50382E;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round}.soft{stroke:#ACB9A1;stroke-width:4;stroke-linecap:round;fill:none}</style></defs><circle cx="122" cy="121" r="101" fill="#E9EFEA"/><g transform="scale(.375)"><defs>
+    <linearGradient id="fur" x1="0" y1="0" x2="0.8" y2="1"><stop stop-color="#E9A070"/><stop offset="1" stop-color="#C76B43"/></linearGradient>
+    <linearGradient id="cream" x2="0.7" y2="1"><stop stop-color="#FFF9ED"/><stop offset="1" stop-color="#F3DFBB"/></linearGradient>
+    <linearGradient id="leaf" x2="0.5" y2="1"><stop stop-color="#9DAF85"/><stop offset="1" stop-color="#688A70"/></linearGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="180%"><feDropShadow dx="0" dy="5" stdDeviation="5" flood-color="#694D35" flood-opacity=".1"/></filter>
+    <style>.s{stroke:#50382E;stroke-width:4.5;stroke-linecap:round;stroke-linejoin:round}.thin{stroke:#50382E;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;fill:none}.shine{fill:#FFFBF1;opacity:.68}</style></defs>
+<defs><linearGradient id="tail" x2=".8" y2="1"><stop stop-color="#E6A16C"/><stop offset="1" stop-color="#C37049"/></linearGradient></defs>
+<ellipse cx="326" cy="572" rx="196" ry="29" fill="#6F4E34" opacity=".08"/>
+<g filter="url(#shadow)">
+<path d="M273 513C175 566 87 512 93 425C95 393 119 368 127 336C134 307 125 285 132 268C138 252 156 249 172 261C224 299 214 376 192 413C163 464 213 457 261 438Z" fill="url(#tail)" stroke="#70442F" stroke-width="5"/>
+<path d="M129 300Q164 310 193 293L201 318Q174 337 126 325Z" fill="#7D4835"/>
+<path d="M118 356Q158 373 204 352L201 378Q168 402 106 384Z" fill="#7D4835"/>
+<path d="M94 424Q136 450 186 426L190 450Q139 479 98 456Z" fill="#7D4835"/>
+<path d="M115 489Q156 472 174 448L195 462Q175 501 147 519Z" fill="#7D4835"/>
+<path d="M187 533Q191 493 213 473L237 467Q219 504 222 537Z" fill="#7D4835"/>
+<path d="M268 359C242 399 222 467 237 510C249 546 286 555 339 550C396 546 422 518 415 475L394 367Z" fill="#583B30" stroke="#50382E" stroke-width="5"/>
+<path d="M293 378C262 407 263 467 288 488C314 510 366 501 378 474C389 447 370 397 349 384Z" fill="#C98156" opacity=".6"/>
+<path d="M255 485C230 510 231 548 253 562C270 571 304 567 307 553L303 520Z" fill="#4D352D" stroke="#50382E" stroke-width="5"/>
+<path d="M354 508L351 550C352 565 386 569 407 557C429 543 419 512 400 490Z" fill="#4D352D" stroke="#50382E" stroke-width="5"/>
+<path d="M262 550L266 557M278 550L281 558M373 550L373 557M389 548L392 554" class="thin" stroke="#AC8164"/>
+<path d="M263 363C237 361 212 390 213 417C214 437 239 447 253 435L286 397Z" fill="#684332" stroke="#50382E" stroke-width="5"/>
+<path d="M383 374C409 367 428 343 435 321L449 270C451 255 466 247 480 251C494 255 499 266 493 283L477 332C467 375 436 411 409 416Z" fill="#674331" stroke="#50382E" stroke-width="5"/>
+<path d="M438 281C420 273 415 258 420 248C426 236 438 242 445 249L441 216C438 201 448 194 458 200L468 220L470 198C473 184 486 187 490 198L493 227L502 214C511 203 522 211 519 223L507 263C499 289 469 301 448 288Z" fill="#74513B" stroke="#50382E" stroke-width="5"/>
+<ellipse cx="472" cy="263" rx="16" ry="18" fill="#BC8F6E"/><circle cx="449" cy="244" r="5" fill="#BC8F6E"/><circle cx="461" cy="228" r="5" fill="#BC8F6E"/><circle cx="482" cy="226" r="5" fill="#BC8F6E"/><circle cx="499" cy="238" r="5" fill="#BC8F6E"/>
+<path d="M225 200C192 184 176 147 188 111C195 91 231 100 258 132L279 163Z" fill="url(#cream)" stroke="#70442F" stroke-width="5"/>
+<path d="M213 169C202 151 199 131 205 121C223 122 241 143 247 157Z" fill="#8E583F"/>
+<path d="M371 141C395 105 428 92 443 109C465 137 451 181 420 204L389 177Z" fill="url(#cream)" stroke="#70442F" stroke-width="5"/>
+<path d="M400 161C406 142 423 124 432 126C442 141 433 166 421 178Z" fill="#8E583F"/>
+<path d="M216 175C239 139 294 127 337 132C385 137 428 164 441 211C448 236 447 260 438 286L452 300L433 304L441 317L421 319C406 358 369 379 324 381C279 382 239 366 216 337L193 331L207 316L188 307L203 293C184 254 189 210 216 175Z" fill="url(#fur)" stroke="#70442F" stroke-width="5"/>
+<path d="M198 262C222 240 247 245 267 267C286 287 298 295 324 294C350 293 357 280 374 258C392 237 421 240 444 260C449 292 432 332 402 352C358 384 289 385 245 358C218 341 200 302 198 262Z" fill="url(#cream)"/>
+<path d="M230 191C238 175 263 171 279 179C274 194 257 204 238 205Z" fill="#FFF5DF"/>
+<path d="M359 181C379 173 402 180 411 195L405 209C383 208 366 199 359 181Z" fill="#FFF5DF"/>
+<path d="M239 229C255 216 275 221 285 241L277 283C252 284 234 266 239 229Z" fill="#704632"/>
+<path d="M360 239C372 219 397 219 410 234C414 268 395 285 370 284Z" fill="#704632"/>
+<path d="M249 214L280 204M369 204L399 215" stroke="#704632" stroke-width="6" stroke-linecap="round"/><ellipse cx="269" cy="244" rx="9" ry="12" fill="#342920"/><ellipse cx="383" cy="244" rx="9" ry="12" fill="#342920"/>
+<circle cx="272" cy="239" r="3.6" fill="#FFF9ED"/><circle cx="386" cy="239" r="3.6" fill="#FFF9ED"/>
+<path d="M308 284Q328 274 347 284Q344 301 329 304Q315 302 308 284Z" fill="#50382E"/>
+<path d="M329 304V311M310 326Q329 306 347 326" stroke="#50382E" stroke-width="4" stroke-linecap="round" fill="none"/>
+<ellipse cx="247" cy="293" rx="17" ry="9" fill="#E7A283" opacity=".6"/><ellipse cx="403" cy="293" rx="17" ry="9" fill="#E7A283" opacity=".6"/>
+<path d="M211 282L234 286M210 298L232 297M416 284L438 278M417 297L438 298" class="thin" opacity=".5"/>
+<path d="M285 373L321 391L304 414L270 394Z" fill="#79907B" stroke="#4D6A57" stroke-width="3"/>
+<path d="M321 391L355 374L372 396L338 415Z" fill="#91A18A" stroke="#4D6A57" stroke-width="3"/>
+<circle cx="321" cy="391" r="12" fill="#A9B69B" stroke="#4D6A57" stroke-width="3"/>
+<path d="M329 404L348 440L367 426L342 397" fill="#79907B" stroke="#4D6A57" stroke-width="3"/>
+<path d="M294 159L301 153M315 155L319 148M335 156L340 150" stroke="#F7CC9F" stroke-width="3" stroke-linecap="round"/>
+</g><path d="M527 173L537 165M531 196L546 197M510 152L515 138" stroke="#B7A274" stroke-width="5" stroke-linecap="round"/>
+</g><path d="M98 103Q90 114 98 118Q106 114 98 103" fill="#9DBFCB" stroke="#648F9C" stroke-width="1.5"/></svg>

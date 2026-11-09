@@ -1,0 +1,692 @@
+{
+  "source": "https://github.com/cmusphinx/cmudict",
+  "dictionaryLicense": "BSD-2-Clause",
+  "checkedWordCount": 96,
+  "method": "Closed course vocabulary checked against author-curated US lexicon; CMU transcription recorded for comparison. Phonemic references do not replace listening to the generated waveform.",
+  "notes": [
+    "US vowel mergers and flapping can differ from dictionary notation.",
+    "Kokoro uses model-specific single-character diphthongs and affricates."
+  ],
+  "words": [
+    {
+      "word": "cat",
+      "cmuArpabet": [
+        "K AE1 T"
+      ],
+      "kokoroUSPhonemes": "kˈæt ."
+    },
+    {
+      "word": "dog",
+      "cmuArpabet": [
+        "D AO1 G"
+      ],
+      "kokoroUSPhonemes": "dˈɔɡ ."
+    },
+    {
+      "word": "bird",
+      "cmuArpabet": [
+        "B ER1 D"
+      ],
+      "kokoroUSPhonemes": "bˈɜɹd ."
+    },
+    {
+      "word": "fish",
+      "cmuArpabet": [
+        "F IH1 SH"
+      ],
+      "kokoroUSPhonemes": "fˈɪʃ ."
+    },
+    {
+      "word": "bear",
+      "cmuArpabet": [
+        "B EH1 R"
+      ],
+      "kokoroUSPhonemes": "bˈɛɹ ."
+    },
+    {
+      "word": "rabbit",
+      "cmuArpabet": [
+        "R AE1 B AH0 T",
+        "R AE1 B IH0 T"
+      ],
+      "kokoroUSPhonemes": "ɹˈæbət ."
+    },
+    {
+      "word": "duck",
+      "cmuArpabet": [
+        "D AH1 K"
+      ],
+      "kokoroUSPhonemes": "dˈʌk ."
+    },
+    {
+      "word": "frog",
+      "cmuArpabet": [
+        "F R AA1 G"
+      ],
+      "kokoroUSPhonemes": "fɹˈɔɡ ."
+    },
+    {
+      "word": "red",
+      "cmuArpabet": [
+        "R EH1 D"
+      ],
+      "kokoroUSPhonemes": "ɹˈɛd ."
+    },
+    {
+      "word": "blue",
+      "cmuArpabet": [
+        "B L UW1"
+      ],
+      "kokoroUSPhonemes": "blˈu ."
+    },
+    {
+      "word": "yellow",
+      "cmuArpabet": [
+        "Y EH1 L OW0"
+      ],
+      "kokoroUSPhonemes": "jˈɛlO ."
+    },
+    {
+      "word": "green",
+      "cmuArpabet": [
+        "G R IY1 N"
+      ],
+      "kokoroUSPhonemes": "ɡɹˈin ."
+    },
+    {
+      "word": "ball",
+      "cmuArpabet": [
+        "B AO1 L"
+      ],
+      "kokoroUSPhonemes": "bˈɔl ."
+    },
+    {
+      "word": "car",
+      "cmuArpabet": [
+        "K AA1 R"
+      ],
+      "kokoroUSPhonemes": "kˈɑɹ ."
+    },
+    {
+      "word": "teddy",
+      "cmuArpabet": [
+        "T EH1 D IY0"
+      ],
+      "kokoroUSPhonemes": "tˈɛdi ."
+    },
+    {
+      "word": "blocks",
+      "cmuArpabet": [
+        "B L AA1 K S"
+      ],
+      "kokoroUSPhonemes": "blˈɑks ."
+    },
+    {
+      "word": "apple",
+      "cmuArpabet": [
+        "AE1 P AH0 L"
+      ],
+      "kokoroUSPhonemes": "ˈæpᵊl ."
+    },
+    {
+      "word": "banana",
+      "cmuArpabet": [
+        "B AH0 N AE1 N AH0"
+      ],
+      "kokoroUSPhonemes": "bənˈænə ."
+    },
+    {
+      "word": "milk",
+      "cmuArpabet": [
+        "M IH1 L K"
+      ],
+      "kokoroUSPhonemes": "mˈɪlk ."
+    },
+    {
+      "word": "water",
+      "cmuArpabet": [
+        "W AO1 T ER0"
+      ],
+      "kokoroUSPhonemes": "wˈɔɾəɹ ."
+    },
+    {
+      "word": "bread",
+      "cmuArpabet": [
+        "B R EH1 D"
+      ],
+      "kokoroUSPhonemes": "bɹˈɛd ."
+    },
+    {
+      "word": "egg",
+      "cmuArpabet": [
+        "EH1 G"
+      ],
+      "kokoroUSPhonemes": "ˈɛɡ ."
+    },
+    {
+      "word": "orange",
+      "cmuArpabet": [
+        "AO1 R AH0 N JH",
+        "AO1 R IH0 N JH"
+      ],
+      "kokoroUSPhonemes": "ˈɔɹᵊnʤ ."
+    },
+    {
+      "word": "rice",
+      "cmuArpabet": [
+        "R AY1 S"
+      ],
+      "kokoroUSPhonemes": "ɹˈIs ."
+    },
+    {
+      "word": "jump",
+      "cmuArpabet": [
+        "JH AH1 M P"
+      ],
+      "kokoroUSPhonemes": "ʤˈʌmp ."
+    },
+    {
+      "word": "run",
+      "cmuArpabet": [
+        "R AH1 N"
+      ],
+      "kokoroUSPhonemes": "ɹˈʌn ."
+    },
+    {
+      "word": "walk",
+      "cmuArpabet": [
+        "W AO1 K",
+        "W AA1 K"
+      ],
+      "kokoroUSPhonemes": "wˈɔk ."
+    },
+    {
+      "word": "stop",
+      "cmuArpabet": [
+        "S T AA1 P"
+      ],
+      "kokoroUSPhonemes": "stˈɑp ."
+    },
+    {
+      "word": "clap",
+      "cmuArpabet": [
+        "K L AE1 P"
+      ],
+      "kokoroUSPhonemes": "klˈæp ."
+    },
+    {
+      "word": "wave",
+      "cmuArpabet": [
+        "W EY1 V"
+      ],
+      "kokoroUSPhonemes": "wˈAv ."
+    },
+    {
+      "word": "sit",
+      "cmuArpabet": [
+        "S IH1 T"
+      ],
+      "kokoroUSPhonemes": "sˈɪt ."
+    },
+    {
+      "word": "stand",
+      "cmuArpabet": [
+        "S T AE1 N D"
+      ],
+      "kokoroUSPhonemes": "stˈænd ."
+    },
+    {
+      "word": "head",
+      "cmuArpabet": [
+        "HH EH1 D"
+      ],
+      "kokoroUSPhonemes": "hˈɛd ."
+    },
+    {
+      "word": "hand",
+      "cmuArpabet": [
+        "HH AE1 N D"
+      ],
+      "kokoroUSPhonemes": "hˈænd ."
+    },
+    {
+      "word": "eye",
+      "cmuArpabet": [
+        "AY1"
+      ],
+      "kokoroUSPhonemes": "ˈI ."
+    },
+    {
+      "word": "ear",
+      "cmuArpabet": [
+        "IY1 R",
+        "IH1 R"
+      ],
+      "kokoroUSPhonemes": "ˈɪɹ ."
+    },
+    {
+      "word": "nose",
+      "cmuArpabet": [
+        "N OW1 Z"
+      ],
+      "kokoroUSPhonemes": "nˈOz ."
+    },
+    {
+      "word": "mouth",
+      "cmuArpabet": [
+        "M AW1 TH"
+      ],
+      "kokoroUSPhonemes": "mˈWθ ."
+    },
+    {
+      "word": "arm",
+      "cmuArpabet": [
+        "AA1 R M"
+      ],
+      "kokoroUSPhonemes": "ˈɑɹm ."
+    },
+    {
+      "word": "leg",
+      "cmuArpabet": [
+        "L EH1 G"
+      ],
+      "kokoroUSPhonemes": "lˈɛɡ ."
+    },
+    {
+      "word": "hat",
+      "cmuArpabet": [
+        "HH AE1 T"
+      ],
+      "kokoroUSPhonemes": "hˈæt ."
+    },
+    {
+      "word": "shoes",
+      "cmuArpabet": [
+        "SH UW1 Z"
+      ],
+      "kokoroUSPhonemes": "ʃˈuz ."
+    },
+    {
+      "word": "shirt",
+      "cmuArpabet": [
+        "SH ER1 T"
+      ],
+      "kokoroUSPhonemes": "ʃˈɜɹt ."
+    },
+    {
+      "word": "pants",
+      "cmuArpabet": [
+        "P AE1 N T S"
+      ],
+      "kokoroUSPhonemes": "pˈænts ."
+    },
+    {
+      "word": "dress",
+      "cmuArpabet": [
+        "D R EH1 S"
+      ],
+      "kokoroUSPhonemes": "dɹˈɛs ."
+    },
+    {
+      "word": "socks",
+      "cmuArpabet": [
+        "S AA1 K S"
+      ],
+      "kokoroUSPhonemes": "sˈɑks ."
+    },
+    {
+      "word": "coat",
+      "cmuArpabet": [
+        "K OW1 T"
+      ],
+      "kokoroUSPhonemes": "kˈOt ."
+    },
+    {
+      "word": "skirt",
+      "cmuArpabet": [
+        "S K ER1 T"
+      ],
+      "kokoroUSPhonemes": "skˈɜɹt ."
+    },
+    {
+      "word": "mom",
+      "cmuArpabet": [
+        "M AA1 M"
+      ],
+      "kokoroUSPhonemes": "mˈɑm ."
+    },
+    {
+      "word": "dad",
+      "cmuArpabet": [
+        "D AE1 D"
+      ],
+      "kokoroUSPhonemes": "dˈæd ."
+    },
+    {
+      "word": "sister",
+      "cmuArpabet": [
+        "S IH1 S T ER0"
+      ],
+      "kokoroUSPhonemes": "sˈɪstəɹ ."
+    },
+    {
+      "word": "brother",
+      "cmuArpabet": [
+        "B R AH1 DH ER0"
+      ],
+      "kokoroUSPhonemes": "bɹˈʌðəɹ ."
+    },
+    {
+      "word": "grandma",
+      "cmuArpabet": [
+        "G R AE1 N D M AA0"
+      ],
+      "kokoroUSPhonemes": "ɡɹˈændmˌɑ ."
+    },
+    {
+      "word": "grandpa",
+      "cmuArpabet": [
+        "G R AE1 N D P AA2"
+      ],
+      "kokoroUSPhonemes": "ɡɹˈændpˌɑ ."
+    },
+    {
+      "word": "baby",
+      "cmuArpabet": [
+        "B EY1 B IY0"
+      ],
+      "kokoroUSPhonemes": "bˈAbi ."
+    },
+    {
+      "word": "family",
+      "cmuArpabet": [
+        "F AE1 M AH0 L IY0",
+        "F AE1 M L IY0"
+      ],
+      "kokoroUSPhonemes": "fˈæmᵊli ."
+    },
+    {
+      "word": "bed",
+      "cmuArpabet": [
+        "B EH1 D"
+      ],
+      "kokoroUSPhonemes": "bˈɛd ."
+    },
+    {
+      "word": "chair",
+      "cmuArpabet": [
+        "CH EH1 R"
+      ],
+      "kokoroUSPhonemes": "ʧˈɛɹ ."
+    },
+    {
+      "word": "table",
+      "cmuArpabet": [
+        "T EY1 B AH0 L"
+      ],
+      "kokoroUSPhonemes": "tˈAbᵊl ."
+    },
+    {
+      "word": "door",
+      "cmuArpabet": [
+        "D AO1 R"
+      ],
+      "kokoroUSPhonemes": "dˈɔɹ ."
+    },
+    {
+      "word": "window",
+      "cmuArpabet": [
+        "W IH1 N D OW0"
+      ],
+      "kokoroUSPhonemes": "wˈɪndO ."
+    },
+    {
+      "word": "sofa",
+      "cmuArpabet": [
+        "S OW1 F AH0"
+      ],
+      "kokoroUSPhonemes": "sˈOfə ."
+    },
+    {
+      "word": "lamp",
+      "cmuArpabet": [
+        "L AE1 M P"
+      ],
+      "kokoroUSPhonemes": "lˈæmp ."
+    },
+    {
+      "word": "book",
+      "cmuArpabet": [
+        "B UH1 K"
+      ],
+      "kokoroUSPhonemes": "bˈʊk ."
+    },
+    {
+      "word": "box",
+      "cmuArpabet": [
+        "B AA1 K S"
+      ],
+      "kokoroUSPhonemes": "bˈɑks ."
+    },
+    {
+      "word": "basket",
+      "cmuArpabet": [
+        "B AE1 S K AH0 T"
+      ],
+      "kokoroUSPhonemes": "bˈæskət ."
+    },
+    {
+      "word": "in",
+      "cmuArpabet": [
+        "IH0 N",
+        "IH1 N"
+      ],
+      "kokoroUSPhonemes": "ɪn ."
+    },
+    {
+      "word": "on",
+      "cmuArpabet": [
+        "AA1 N",
+        "AO1 N"
+      ],
+      "kokoroUSPhonemes": "ˌɔn ."
+    },
+    {
+      "word": "under",
+      "cmuArpabet": [
+        "AH1 N D ER0"
+      ],
+      "kokoroUSPhonemes": "ˈʌndəɹ ."
+    },
+    {
+      "word": "behind",
+      "cmuArpabet": [
+        "B IH0 HH AY1 N D"
+      ],
+      "kokoroUSPhonemes": "bəhˈInd ."
+    },
+    {
+      "word": "near",
+      "cmuArpabet": [
+        "N IH1 R"
+      ],
+      "kokoroUSPhonemes": "nˌɪɹ ."
+    },
+    {
+      "word": "far",
+      "cmuArpabet": [
+        "F AA1 R"
+      ],
+      "kokoroUSPhonemes": "fˈɑɹ ."
+    },
+    {
+      "word": "sunny",
+      "cmuArpabet": [
+        "S AH1 N IY0"
+      ],
+      "kokoroUSPhonemes": "sˈʌni ."
+    },
+    {
+      "word": "rainy",
+      "cmuArpabet": [
+        "R EY1 N IY0"
+      ],
+      "kokoroUSPhonemes": "ɹˈAni ."
+    },
+    {
+      "word": "cloudy",
+      "cmuArpabet": [
+        "K L AW1 D IY0"
+      ],
+      "kokoroUSPhonemes": "klˈWdi ."
+    },
+    {
+      "word": "windy",
+      "cmuArpabet": [
+        "W IH1 N D IY0",
+        "W AY1 N D IY0"
+      ],
+      "kokoroUSPhonemes": "wˈɪndi ."
+    },
+    {
+      "word": "hot",
+      "cmuArpabet": [
+        "HH AA1 T"
+      ],
+      "kokoroUSPhonemes": "hˈɑt ."
+    },
+    {
+      "word": "cold",
+      "cmuArpabet": [
+        "K OW1 L D"
+      ],
+      "kokoroUSPhonemes": "kˈOld ."
+    },
+    {
+      "word": "snowy",
+      "cmuArpabet": [
+        "S N OW1 IY0"
+      ],
+      "kokoroUSPhonemes": "snˈOi ."
+    },
+    {
+      "word": "rainbow",
+      "cmuArpabet": [
+        "R EY1 N B OW2"
+      ],
+      "kokoroUSPhonemes": "ɹˈAnbˌO ."
+    },
+    {
+      "word": "one",
+      "cmuArpabet": [
+        "W AH1 N"
+      ],
+      "kokoroUSPhonemes": "wˈʌn ."
+    },
+    {
+      "word": "two",
+      "cmuArpabet": [
+        "T UW1"
+      ],
+      "kokoroUSPhonemes": "tˈu ."
+    },
+    {
+      "word": "three",
+      "cmuArpabet": [
+        "TH R IY1"
+      ],
+      "kokoroUSPhonemes": "θɹˈi ."
+    },
+    {
+      "word": "four",
+      "cmuArpabet": [
+        "F AO1 R"
+      ],
+      "kokoroUSPhonemes": "fˈɔɹ ."
+    },
+    {
+      "word": "five",
+      "cmuArpabet": [
+        "F AY1 V"
+      ],
+      "kokoroUSPhonemes": "fˈIv ."
+    },
+    {
+      "word": "six",
+      "cmuArpabet": [
+        "S IH1 K S"
+      ],
+      "kokoroUSPhonemes": "sˈɪks ."
+    },
+    {
+      "word": "seven",
+      "cmuArpabet": [
+        "S EH1 V AH0 N"
+      ],
+      "kokoroUSPhonemes": "sˈɛvən ."
+    },
+    {
+      "word": "eight",
+      "cmuArpabet": [
+        "EY1 T"
+      ],
+      "kokoroUSPhonemes": "ˈAt ."
+    },
+    {
+      "word": "happy",
+      "cmuArpabet": [
+        "HH AE1 P IY0"
+      ],
+      "kokoroUSPhonemes": "hˈæpi ."
+    },
+    {
+      "word": "sad",
+      "cmuArpabet": [
+        "S AE1 D"
+      ],
+      "kokoroUSPhonemes": "sˈæd ."
+    },
+    {
+      "word": "hungry",
+      "cmuArpabet": [
+        "HH AH1 NG G R IY0"
+      ],
+      "kokoroUSPhonemes": "hˈʌŋɡɹi ."
+    },
+    {
+      "word": "thirsty",
+      "cmuArpabet": [
+        "TH ER1 S T IY0"
+      ],
+      "kokoroUSPhonemes": "θˈɜɹsti ."
+    },
+    {
+      "word": "big",
+      "cmuArpabet": [
+        "B IH1 G"
+      ],
+      "kokoroUSPhonemes": "bˈɪɡ ."
+    },
+    {
+      "word": "small",
+      "cmuArpabet": [
+        "S M AO1 L"
+      ],
+      "kokoroUSPhonemes": "smˈɔl ."
+    },
+    {
+      "word": "fast",
+      "cmuArpabet": [
+        "F AE1 S T"
+      ],
+      "kokoroUSPhonemes": "fˈæst ."
+    },
+    {
+      "word": "slow",
+      "cmuArpabet": [
+        "S L OW1"
+      ],
+      "kokoroUSPhonemes": "slˈO ."
+    }
+  ]
+}

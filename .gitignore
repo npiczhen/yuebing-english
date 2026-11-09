@@ -1,0 +1,6 @@
+.audio-tools/
+.qa/
+node_modules/
+*.zip
+*.log
+__pycache__/
