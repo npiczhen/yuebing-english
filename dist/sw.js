@@ -1,4 +1,4 @@
-const SHELL_VERSION='1.0.0-b54d36030a9d';
+const SHELL_VERSION='1.0.0-3f97eef711ef';
 const ENTRY_SHA256='9d7281e8d7cf3df3ed207a38b90528f570b2bbbd205d107a76bd7450a1f8c89f';
 const SHELL='yb-shell-'+SHELL_VERSION, META='yb-metadata', ROOT=self.registration.scope;
 const absolute=path=>new URL(path,ROOT).href;

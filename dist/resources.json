@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0-b54d36030a9d",
+  "version": "1.0.0-3f97eef711ef",
   "coverage": {
     "weeks": 12,
     "lessons": 60,
@@ -8,11 +8,6 @@
   },
   "totalBytes": 42101987,
   "assets": [
-    {
-      "url": "./.nojekyll",
-      "bytes": 0,
-      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-    },
     {
       "url": "./adventure.js",
       "bytes": 14259,
@@ -8361,7 +8356,7 @@
     {
       "url": "./sw.js",
       "bytes": 5293,
-      "sha256": "2167188d5557b42cc3d6ad201071848993d8044217e665620942256ab15c1e41"
+      "sha256": "06d86a427d33bffea95abe30d89cc4bbdeae2da22f79f491dfdca883614fc0ea"
     },
     {
       "url": "./update.js",

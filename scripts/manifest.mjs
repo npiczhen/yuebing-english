@@ -11,7 +11,8 @@ const entry=Buffer.from(JSON.stringify({encoding:'base64',content:html.toString(
 await writeFile(path.join(root,'offline-entry.json'),entry);
 const entryHash=createHash('sha256').update(entry).digest('hex');
 // The online recovery entry must stay outside byte-checked HTML resources too.
-const paths=(await list(root)).filter(p=>p!=='resources.json'&&p!=='index.html'&&p!=='update.html');
+// GitHub Pages uses this deployment marker but does not serve its dotfile URL.
+const paths=(await list(root)).filter(p=>p!=='.nojekyll'&&p!=='resources.json'&&p!=='index.html'&&p!=='update.html');
 const digest=createHash('sha256');
 for(const p of paths.filter(p=>p!=='sw.js')){digest.update(p);digest.update(await readFile(path.join(root,p)));}
 const version='1.0.0-'+digest.digest('hex').slice(0,12);
